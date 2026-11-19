@@ -1,0 +1,4564 @@
+{
+  "key": "wuxing",
+  "version": "0.1.0",
+  "language": "zh-Hant",
+  "source": "https://commons.wikimedia.org/?curid=131010099",
+  "source_id": "中國國家圖書館 08jh014197／37820",
+  "source_pdf_sha256": "9021f056124ed981cc58961ef2d66481bb57292329c6ba20b6017db00cbcfa90",
+  "image_count": 49,
+  "expected_frames": 49,
+  "pending_frames": [],
+  "main_range": [
+    1,
+    48
+  ],
+  "readback_status": "initial-source-image-reading",
+  "pages": [
+    {
+      "image": 1,
+      "folio": null,
+      "units": [
+        {
+          "id": "p001-u001",
+          "order": 2,
+          "kind": "heading",
+          "text": "民國十八年度"
+        },
+        {
+          "id": "p001-u002",
+          "order": 3,
+          "kind": "heading",
+          "text": "吳興福音醫院概況"
+        },
+        {
+          "id": "p001-u003",
+          "order": 4,
+          "kind": "text",
+          "text": "龔性願題"
+        }
+      ],
+      "tables": [],
+      "doubts": [
+        {
+          "reading": "龔性願題",
+          "candidates": [
+            "龔性愿題"
+          ],
+          "reason": "書法末名左半與實印形尚待比對",
+          "status": "unresolved",
+          "frame": 1,
+          "unit_candidates": [
+            "p001-u003"
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "reason": "封面上方後人拉丁字母手書，位置獨立；左款下二方原題鈐印先存位置，印文回圖待辨",
+          "status": "excluded-or-pending"
+        }
+      ],
+      "source_sha256": "cc72a831f7450cbb133265fffe137685244221c9ebe1422fcacb45443ebe5c43",
+      "width": 1429,
+      "height": 1900,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=1",
+      "status": "source-image-initial-read",
+      "role": "text"
+    },
+    {
+      "image": 2,
+      "folio": null,
+      "units": [
+        {
+          "id": "p002-u001",
+          "order": 8,
+          "kind": "heading",
+          "text": "吳興福音醫院概況目錄"
+        },
+        {
+          "id": "p002-u002",
+          "order": 9,
+          "kind": "heading",
+          "text": "目錄"
+        },
+        {
+          "id": "p002-u003",
+          "order": 10,
+          "kind": "text",
+          "text": "一　插圖"
+        },
+        {
+          "id": "p002-u004",
+          "order": 11,
+          "kind": "text",
+          "text": "二　沿革"
+        },
+        {
+          "id": "p002-u005",
+          "order": 12,
+          "kind": "text",
+          "text": "三　組織大綱"
+        },
+        {
+          "id": "p002-u006",
+          "order": 13,
+          "kind": "text",
+          "text": "四　董事會及職員一覽表"
+        },
+        {
+          "id": "p002-u007",
+          "order": 14,
+          "kind": "text",
+          "text": "五　護士學校簡章"
+        },
+        {
+          "id": "p002-u008",
+          "order": 15,
+          "kind": "text",
+          "text": "六　住院病人統計"
+        },
+        {
+          "id": "p002-u009",
+          "order": 16,
+          "kind": "text",
+          "text": "七　各科病人出院統計"
+        },
+        {
+          "id": "p002-u010",
+          "order": 17,
+          "kind": "text",
+          "text": "八　麻藥統計"
+        },
+        {
+          "id": "p002-u011",
+          "order": 18,
+          "kind": "text",
+          "text": "九　門診病人統計"
+        },
+        {
+          "id": "p002-u012",
+          "order": 19,
+          "kind": "text",
+          "text": "十　住院外科手術統計"
+        },
+        {
+          "id": "p002-u013",
+          "order": 20,
+          "kind": "text",
+          "text": "十一　眼耳喉鼻牙科割症統計"
+        },
+        {
+          "id": "p002-u014",
+          "order": 21,
+          "kind": "text",
+          "text": "十二　收入報告"
+        },
+        {
+          "id": "p002-u015",
+          "order": 22,
+          "kind": "text",
+          "text": "十三　支出報告"
+        },
+        {
+          "id": "p002-u016",
+          "order": 23,
+          "kind": "text",
+          "text": "十四　本院之未來計劃"
+        }
+      ],
+      "tables": [],
+      "doubts": [],
+      "exclusions": [],
+      "source_sha256": "ef26e744a4f1be73a59a7a11946077cef35b7ddfe80fefb6dfa789452ef2f25a",
+      "width": 1465,
+      "height": 1900,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=2",
+      "status": "source-image-initial-read",
+      "role": "text"
+    },
+    {
+      "image": 3,
+      "folio": null,
+      "units": [
+        {
+          "id": "p003-u001",
+          "order": 25,
+          "kind": "caption",
+          "text": "吳興福音醫院"
+        }
+      ],
+      "tables": [],
+      "doubts": [],
+      "exclusions": [],
+      "source_sha256": "dec304cbd7c3a6c1f137e34feefbef5ff881bbb45dcd610949943ebcce5ba086",
+      "width": 1900,
+      "height": 1221,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=3",
+      "status": "source-image-initial-read",
+      "role": "figure",
+      "figure_description": "院舍全景"
+    },
+    {
+      "image": 4,
+      "folio": "一",
+      "units": [
+        {
+          "id": "p004-running",
+          "order": -2,
+          "kind": "running",
+          "text": "吳興福音醫院概況"
+        },
+        {
+          "id": "p004-folio",
+          "order": -1,
+          "kind": "folio",
+          "text": "一"
+        },
+        {
+          "id": "p004-u001",
+          "order": 27,
+          "kind": "heading",
+          "text": "吳興福音醫院沿革"
+        },
+        {
+          "id": "p004-u002",
+          "order": 28,
+          "kind": "text",
+          "text": "辛亥春監理公會委僕來華懸壺吳興適值是年民軍起義各地響應僕遂協助地方士紳"
+        },
+        {
+          "id": "p004-u003",
+          "order": 29,
+          "kind": "text",
+          "text": "救護傷兵以盡天職翌年由美差會募集款項若干始於城北天甯巷租賃民屋一所可容"
+        },
+        {
+          "id": "p004-u004",
+          "order": 30,
+          "kind": "text",
+          "text": "病者三十有餘又收實習生數人襄理院務定名湖郡醫院次歲聘請沈階平醫師張倚義"
+        },
+        {
+          "id": "p004-u005",
+          "order": 31,
+          "kind": "text",
+          "text": "先生來院臂助而就醫者亦日見增加年約萬餘於是院務之進行始有可觀至民國四年"
+        },
+        {
+          "id": "p004-u006",
+          "order": 32,
+          "kind": "text",
+          "text": "浸禮會亦有鑒於當地醫務之急需遂於是年秋訂約合作復委該會勵濟生醫師孟丁護"
+        },
+        {
+          "id": "p004-u007",
+          "order": 33,
+          "kind": "text",
+          "text": "士監理公會亦委倪爾生醫師共同加入工作旋將院所遷至馬軍巷增加牀位六十定名"
+        },
+        {
+          "id": "p004-u008",
+          "order": 34,
+          "kind": "text",
+          "text": "吳興福音醫院自後復感屋宇仄狹不適應用遂向洛氏基金社及本國慈善家捐助鉅款"
+        },
+        {
+          "id": "p004-u009",
+          "order": 35,
+          "kind": "text",
+          "text": "籌建新院奈因歐戰影響金融事暫作罷至民國十一年始行奠基鳩工建築當時承蒙本"
+        },
+        {
+          "id": "p004-u010",
+          "order": 36,
+          "kind": "text",
+          "text": "地慈善家慨助泰安公司所購得舊烏程倉基以資應用僕又集資購買毗連空地二十餘"
+        },
+        {
+          "id": "p004-u011",
+          "order": 37,
+          "kind": "text",
+          "text": "畝用作職員等宿舍於民國十三年夏全院落成式樣魁偉病室分頭一二三等可容病人"
+        },
+        {
+          "id": "p004-u012",
+          "order": 38,
+          "kind": "text",
+          "text": "一百二十有餘內設手術室試驗室愛克司光室門診室辦公室圖書室及藥房等本院又"
+        },
+        {
+          "id": "p004-u013",
+          "order": 39,
+          "kind": "text",
+          "text": "為病家謀幸福起見聘請專家分科應診計有醫師五人助產士二人至於愛克司光及試"
+        },
+        {
+          "id": "p004-u014",
+          "order": 40,
+          "kind": "text",
+          "text": "驗等部亦有相當人才主持其事也本院現雖稍具規模但對於傳染病之設備倘付缺如"
+        },
+        {
+          "id": "p004-u015",
+          "order": 41,
+          "kind": "text",
+          "text": "故擬另建病院為隔離之用現蒙潯地劉邢諸大善士慨助款項為建設之費一俟集有成"
+        }
+      ],
+      "tables": [],
+      "doubts": [
+        {
+          "reading": "倘付缺如",
+          "candidates": [
+            "尚付缺如"
+          ],
+          "reason": "原印字形待二讀",
+          "status": "unresolved",
+          "frame": 4,
+          "unit_candidates": [
+            "p004-u014"
+          ]
+        }
+      ],
+      "exclusions": [],
+      "source_sha256": "35771d2d8dd57b6327bf07faf03d682964ec8cddfbd054ff66ca1b8e496678e0",
+      "width": 1465,
+      "height": 1900,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=4",
+      "status": "source-image-initial-read",
+      "role": "text"
+    },
+    {
+      "image": 5,
+      "folio": "二",
+      "units": [
+        {
+          "id": "p005-running",
+          "order": -2,
+          "kind": "running",
+          "text": "吳興福音醫院概況"
+        },
+        {
+          "id": "p005-folio",
+          "order": -1,
+          "kind": "folio",
+          "text": "二"
+        },
+        {
+          "id": "p005-u001",
+          "order": 44,
+          "kind": "text",
+          "text": "數就可興工建築"
+        },
+        {
+          "id": "p005-u002",
+          "order": 45,
+          "kind": "text",
+          "text": "院務日漸發展而看護人才異常缺乏故於民國七年設立護士學校一所為造就高等護"
+        },
+        {
+          "id": "p005-u003",
+          "order": 46,
+          "kind": "text",
+          "text": "士為宗旨自開辦以來護生之卒業者共計男女三十三人而西護士之前後加入者有霍"
+        },
+        {
+          "id": "p005-u004",
+          "order": 47,
+          "kind": "text",
+          "text": "買羅諸女士當開辦之時護生男女兼收但自本學年起只收女生因其秉性天知可造就"
+        },
+        {
+          "id": "p005-u005",
+          "order": 48,
+          "kind": "text",
+          "text": "應用人才也該校現設三級計有護生三十有餘"
+        },
+        {
+          "id": "p005-u006",
+          "order": 49,
+          "kind": "text",
+          "text": "於民國十七年浸禮會因事脫離關係而勵霍諸輩亦相繼辭職因之年來院務之進行悉"
+        },
+        {
+          "id": "p005-u007",
+          "order": 50,
+          "kind": "text",
+          "text": "由監理公會及本院董事會共同負責也"
+        },
+        {
+          "id": "p005-u008",
+          "order": 51,
+          "kind": "text",
+          "text": "本院地近杭長公路交通便利將來之來院問津者勢必較多於前所以現今本院之責任"
+        },
+        {
+          "id": "p005-u009",
+          "order": 52,
+          "kind": "text",
+          "text": "更形重且大也倘望地方諸哲加以指導厚以匡助非僅本院之幸亦即社會之幸也"
+        },
+        {
+          "id": "p005-u010",
+          "order": 53,
+          "kind": "text",
+          "text": "院長孟傑識"
+        }
+      ],
+      "tables": [],
+      "doubts": [],
+      "exclusions": [],
+      "source_sha256": "eddb68bb6a0005d37fdc4355c81d281ae14154b5c3836a46baa18e0d44dba463",
+      "width": 1429,
+      "height": 1900,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=5",
+      "status": "source-image-initial-read",
+      "role": "text"
+    },
+    {
+      "image": 6,
+      "folio": null,
+      "units": [
+        {
+          "id": "p006-u001",
+          "order": 55,
+          "kind": "caption",
+          "text": "門診室"
+        }
+      ],
+      "tables": [],
+      "doubts": [],
+      "exclusions": [],
+      "source_sha256": "6dfd71c3c7fdc3755bea3cc113907305469f7e5fedac164c8c1fe2ffb32c2c52",
+      "width": 1900,
+      "height": 1208,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=6",
+      "status": "source-image-initial-read",
+      "role": "figure",
+      "figure_description": "門診室外觀"
+    },
+    {
+      "image": 7,
+      "folio": "三",
+      "units": [
+        {
+          "id": "p007-running",
+          "order": -2,
+          "kind": "running",
+          "text": "吳興福音醫院概況"
+        },
+        {
+          "id": "p007-folio",
+          "order": -1,
+          "kind": "folio",
+          "text": "三"
+        },
+        {
+          "id": "p007-u001",
+          "order": 57,
+          "kind": "heading",
+          "text": "吳興福音醫院組織大綱"
+        },
+        {
+          "id": "p007-u002",
+          "order": 58,
+          "kind": "heading",
+          "text": "第一章　定名"
+        },
+        {
+          "id": "p007-u003",
+          "order": 59,
+          "kind": "text",
+          "text": "吳興福音醫院"
+        },
+        {
+          "id": "p007-u004",
+          "order": 60,
+          "kind": "heading",
+          "text": "第二章　宗旨"
+        },
+        {
+          "id": "p007-u005",
+          "order": 61,
+          "kind": "text",
+          "text": "本院抱基督博愛之精神以科學化之醫術貢獻於民衆為宗旨"
+        },
+        {
+          "id": "p007-u006",
+          "order": 62,
+          "kind": "heading",
+          "text": "第三章　董事會"
+        },
+        {
+          "id": "p007-u007",
+          "order": 63,
+          "kind": "text",
+          "text": "一本院設董事九人其產生法如左"
+        },
+        {
+          "id": "p007-u008",
+          "order": 64,
+          "kind": "text",
+          "text": "甲監理會中委醫務股推薦醫師或護士四人由該會選舉三人以充之"
+        },
+        {
+          "id": "p007-u009",
+          "order": 65,
+          "kind": "text",
+          "text": "乙本教區推薦牧師或教士六人由監理會年議會選舉三人以充之"
+        },
+        {
+          "id": "p007-u010",
+          "order": 66,
+          "kind": "text",
+          "text": "丙董事會指定當地公共團體選派三人以充之"
+        },
+        {
+          "id": "p007-u011",
+          "order": 67,
+          "kind": "text",
+          "text": "丁以上三團體各選候補董事一人"
+        },
+        {
+          "id": "p007-u012",
+          "order": 68,
+          "kind": "text",
+          "text": "二任期三年或俟繼任者選出之後方可解職"
+        },
+        {
+          "id": "p007-u013",
+          "order": 69,
+          "kind": "text",
+          "text": "三第一任各團體選出之董事其任期均各分三年二年一年為三種嗣後各團體各補選"
+        },
+        {
+          "id": "p007-u014",
+          "order": 70,
+          "kind": "text",
+          "text": "一人任期均各三年"
+        },
+        {
+          "id": "p007-u015",
+          "order": 71,
+          "kind": "text",
+          "text": "四院中職員醫師護士不得被選為本院之董事"
+        }
+      ],
+      "tables": [],
+      "doubts": [],
+      "exclusions": [],
+      "source_sha256": "5be280e43e2c19eabfc4564a3382f42cf6fde8273f9f345513bf7886982628d1",
+      "width": 1465,
+      "height": 1900,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=7",
+      "status": "source-image-initial-read",
+      "role": "text"
+    },
+    {
+      "image": 8,
+      "folio": "四",
+      "units": [
+        {
+          "id": "p008-running",
+          "order": -2,
+          "kind": "running",
+          "text": "吳興福音醫院概況"
+        },
+        {
+          "id": "p008-folio",
+          "order": -1,
+          "kind": "folio",
+          "text": "四"
+        },
+        {
+          "id": "p008-u001",
+          "order": 73,
+          "kind": "text",
+          "text": "五職員"
+        },
+        {
+          "id": "p008-u002",
+          "order": 74,
+          "kind": "text",
+          "text": "主席一人"
+        },
+        {
+          "id": "p008-u003",
+          "order": 75,
+          "kind": "text",
+          "text": "書記"
+        },
+        {
+          "id": "p008-u004",
+          "order": 76,
+          "kind": "text",
+          "text": "中一"
+        },
+        {
+          "id": "p008-u005",
+          "order": 77,
+          "kind": "text",
+          "text": "西一"
+        },
+        {
+          "id": "p008-u006",
+          "order": 78,
+          "kind": "text",
+          "text": "附註任期一年由董事中互相推選之"
+        },
+        {
+          "id": "p008-u007",
+          "order": 79,
+          "kind": "text",
+          "text": "六職權"
+        },
+        {
+          "id": "p008-u008",
+          "order": 80,
+          "kind": "text",
+          "text": "甲依據中委所定之綱要議決本院行政事宜"
+        },
+        {
+          "id": "p008-u009",
+          "order": 81,
+          "kind": "text",
+          "text": "乙依據中委所定之綱要保管本院財產事宜"
+        },
+        {
+          "id": "p008-u010",
+          "order": 82,
+          "kind": "text",
+          "text": "丙依據中委所定之綱要監督本院建設事宜"
+        },
+        {
+          "id": "p008-u011",
+          "order": 83,
+          "kind": "text",
+          "text": "丁每年選派院長一人副院長一人院務執行委員若干人主任護士一人會計或庶務"
+        },
+        {
+          "id": "p008-u012",
+          "order": 84,
+          "kind": "text",
+          "text": "主任一人"
+        },
+        {
+          "id": "p008-u013",
+          "order": 85,
+          "kind": "text",
+          "text": "戊董事會可審察本院之需要以定去留或添聘友邦醫師或護士等"
+        },
+        {
+          "id": "p008-u014",
+          "order": 86,
+          "kind": "text",
+          "text": "己董事會每年推舉一人與中委會代表共同檢查本院賬目"
+        },
+        {
+          "id": "p008-u015",
+          "order": 87,
+          "kind": "text",
+          "text": "七集會"
+        },
+        {
+          "id": "p008-u016",
+          "order": 88,
+          "kind": "text",
+          "text": "甲每年開會一次"
+        },
+        {
+          "id": "p008-u017",
+          "order": 89,
+          "kind": "text",
+          "text": "乙於必要時經董事三人之書面要求先由書記於兩星期前通知各董事召集臨時會"
+        },
+        {
+          "id": "p008-u018",
+          "order": 90,
+          "kind": "text",
+          "text": "議"
+        }
+      ],
+      "tables": [],
+      "doubts": [],
+      "exclusions": [],
+      "source_sha256": "6f6d9db5e094c83e1b44508d55b82f6e9d549864fac7a509b08acd2627387173",
+      "width": 1429,
+      "height": 1900,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=8",
+      "status": "source-image-initial-read",
+      "role": "text"
+    },
+    {
+      "image": 9,
+      "folio": "五",
+      "units": [
+        {
+          "id": "p009-running",
+          "order": -2,
+          "kind": "running",
+          "text": "吳興福音醫院概況"
+        },
+        {
+          "id": "p009-folio",
+          "order": -1,
+          "kind": "folio",
+          "text": "五"
+        },
+        {
+          "id": "p009-u001",
+          "order": 92,
+          "kind": "text",
+          "text": "丙集會時六人為法定人數"
+        },
+        {
+          "id": "p009-u002",
+          "order": 93,
+          "kind": "text",
+          "text": "丁各項議案須有五人之同意始得成立"
+        },
+        {
+          "id": "p009-u003",
+          "order": 94,
+          "kind": "text",
+          "text": "戊如遇緊要事宜可用通信表決但須有七人之同意方生效力"
+        },
+        {
+          "id": "p009-u004",
+          "order": 95,
+          "kind": "heading",
+          "text": "第四章　院長之職權"
+        },
+        {
+          "id": "p009-u005",
+          "order": 96,
+          "kind": "text",
+          "text": "一承董事會之委托負責處理該部議決事項"
+        },
+        {
+          "id": "p009-u006",
+          "order": 97,
+          "kind": "text",
+          "text": "二負監察本院各部工作之責併指導各部主任及職員等和衷共濟盡力擴充院務"
+        },
+        {
+          "id": "p009-u007",
+          "order": 98,
+          "kind": "text",
+          "text": "三院長可隨時聘請或解職各職員但須呈請董事會核准後方可施行在呈請之前須"
+        },
+        {
+          "id": "p009-u008",
+          "order": 99,
+          "kind": "text",
+          "text": "得執行委員會之同意職員中由監理會會督委任者不在此例"
+        },
+        {
+          "id": "p009-u009",
+          "order": 100,
+          "kind": "text",
+          "text": "四院長有規定各職員薪水之權"
+        },
+        {
+          "id": "p009-u010",
+          "order": 101,
+          "kind": "text",
+          "text": "五年終須將各部工作詳細報告董事會"
+        },
+        {
+          "id": "p009-u011",
+          "order": 102,
+          "kind": "heading",
+          "text": "第五章　院務執行委員會"
+        },
+        {
+          "id": "p009-u012",
+          "order": 103,
+          "kind": "text",
+          "text": "一委員六人"
+        },
+        {
+          "id": "p009-u013",
+          "order": 104,
+          "kind": "text",
+          "text": "二委員產生法"
+        },
+        {
+          "id": "p009-u014",
+          "order": 105,
+          "kind": "text",
+          "text": "甲院長為當然委員並為該會之主席"
+        },
+        {
+          "id": "p009-u015",
+          "order": 106,
+          "kind": "text",
+          "text": "乙由院中各職員投票選舉選出後再由院長呈請董事會加委"
+        },
+        {
+          "id": "p009-u016",
+          "order": 107,
+          "kind": "text",
+          "text": "附註每年選舉一次"
+        }
+      ],
+      "tables": [],
+      "doubts": [],
+      "exclusions": [],
+      "source_sha256": "2d6e05a8190280c10a61cefd5d2a555e884383fc1730a3ac393c5cdb3bc1ede0",
+      "width": 1465,
+      "height": 1900,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=9",
+      "status": "source-image-initial-read",
+      "role": "text"
+    },
+    {
+      "image": 10,
+      "folio": "六",
+      "units": [
+        {
+          "id": "p010-running",
+          "order": -2,
+          "kind": "running",
+          "text": "吳興福音醫院概況"
+        },
+        {
+          "id": "p010-folio",
+          "order": -1,
+          "kind": "folio",
+          "text": "六"
+        },
+        {
+          "id": "p010-u001",
+          "order": 109,
+          "kind": "text",
+          "text": "三職員"
+        },
+        {
+          "id": "p010-u002",
+          "order": 110,
+          "kind": "text",
+          "text": "主席一人"
+        },
+        {
+          "id": "p010-u003",
+          "order": 111,
+          "kind": "text",
+          "text": "書記一人"
+        },
+        {
+          "id": "p010-u004",
+          "order": 112,
+          "kind": "text",
+          "text": "四會期　每月開常會一次於必要時主席可臨時召集之"
+        },
+        {
+          "id": "p010-u005",
+          "order": 113,
+          "kind": "text",
+          "text": "五職權"
+        },
+        {
+          "id": "p010-u006",
+          "order": 114,
+          "kind": "text",
+          "text": "甲規定院內應行之條例"
+        },
+        {
+          "id": "p010-u007",
+          "order": 115,
+          "kind": "text",
+          "text": "乙助理院長一切行政上事宜"
+        },
+        {
+          "id": "p010-u008",
+          "order": 116,
+          "kind": "heading",
+          "text": "第七章　會計或兼庶務主任"
+        },
+        {
+          "id": "p010-u009",
+          "order": 117,
+          "kind": "text",
+          "text": "一保管本院銀錢賬目等項如支付款項須先呈請院長核准方可施行"
+        },
+        {
+          "id": "p010-u010",
+          "order": 118,
+          "kind": "text",
+          "text": "二處理一切購置及督率其他雜務"
+        },
+        {
+          "id": "p010-u011",
+          "order": 119,
+          "kind": "heading",
+          "text": "第八章　宣教"
+        },
+        {
+          "id": "p010-u012",
+          "order": 120,
+          "kind": "text",
+          "text": "一本院設男女宣教師各一"
+        },
+        {
+          "id": "p010-u013",
+          "order": 121,
+          "kind": "text",
+          "text": "二院務執行委員會共同負責進行之"
+        },
+        {
+          "id": "p010-u014",
+          "order": 122,
+          "kind": "heading",
+          "text": "第九章　附則"
+        },
+        {
+          "id": "p010-u015",
+          "order": 123,
+          "kind": "text",
+          "text": "一董事會准予推舉名譽董事三至五人其職權如左"
+        },
+        {
+          "id": "p010-u016",
+          "order": 124,
+          "kind": "text",
+          "text": "甲開會時可出席討論院務"
+        }
+      ],
+      "tables": [],
+      "doubts": [],
+      "exclusions": [],
+      "source_sha256": "7cd87fe48cb72ad4a5e4310e468b3be860018f486d0feed79e799fa6b43febfb",
+      "width": 1429,
+      "height": 1900,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=10",
+      "status": "source-image-initial-read",
+      "role": "text"
+    },
+    {
+      "image": 11,
+      "folio": null,
+      "units": [
+        {
+          "id": "p011-u001",
+          "order": 126,
+          "kind": "caption",
+          "text": "三等病室"
+        }
+      ],
+      "tables": [],
+      "doubts": [],
+      "exclusions": [],
+      "source_sha256": "c18f0d7324856cce1d472c39de8aa39041e0161e730ab1e23959ff7de78ad70b",
+      "width": 1900,
+      "height": 1232,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=11",
+      "status": "source-image-initial-read",
+      "role": "figure",
+      "figure_description": "三等病室"
+    },
+    {
+      "image": 12,
+      "folio": "七",
+      "units": [
+        {
+          "id": "p012-running",
+          "order": -2,
+          "kind": "running",
+          "text": "吳興福音醫院概況"
+        },
+        {
+          "id": "p012-folio",
+          "order": -1,
+          "kind": "folio",
+          "text": "七"
+        },
+        {
+          "id": "p012-u001",
+          "order": 128,
+          "kind": "text",
+          "text": "乙無選舉權"
+        },
+        {
+          "id": "p012-u002",
+          "order": 129,
+          "kind": "text",
+          "text": "二本院專任醫師或護士於院內或院外不准私向病家領取職務上之酬勞費并不准在"
+        },
+        {
+          "id": "p012-u003",
+          "order": 130,
+          "kind": "text",
+          "text": "外行醫"
+        },
+        {
+          "id": "p012-u004",
+          "order": 131,
+          "kind": "text",
+          "text": "三院外正式醫師允予介紹病家來院而歸其療治"
+        },
+        {
+          "id": "p012-u005",
+          "order": 132,
+          "kind": "text",
+          "text": "四本大綱如有修改之處須經董事會之改訂中委會之合准方可施行"
+        }
+      ],
+      "tables": [],
+      "doubts": [],
+      "exclusions": [],
+      "source_sha256": "6a5b8649fe1ebbc0eeccb51722cfe158aeffe02887c8c305f532088f4f6da4bf",
+      "width": 1465,
+      "height": 1900,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=12",
+      "status": "source-image-initial-read",
+      "role": "text"
+    },
+    {
+      "image": 13,
+      "folio": "八",
+      "units": [
+        {
+          "id": "p013-running",
+          "order": -2,
+          "kind": "running",
+          "text": "吳興福音醫院概況"
+        },
+        {
+          "id": "p013-folio",
+          "order": -1,
+          "kind": "folio",
+          "text": "八"
+        },
+        {
+          "id": "p013-u001",
+          "order": 134,
+          "kind": "heading",
+          "text": "吳興福音醫院董事及職員一覽表"
+        },
+        {
+          "id": "p013-u002",
+          "order": 135,
+          "kind": "heading",
+          "text": "董事"
+        },
+        {
+          "id": "p013-u003",
+          "order": 136,
+          "kind": "text",
+          "text": "王安甲"
+        },
+        {
+          "id": "p013-u004",
+          "order": 137,
+          "kind": "text",
+          "text": "溫選臣"
+        },
+        {
+          "id": "p013-u005",
+          "order": 138,
+          "kind": "text",
+          "text": "袁恕巷"
+        },
+        {
+          "id": "p013-u006",
+          "order": 139,
+          "kind": "text",
+          "text": "蘇邁爾"
+        },
+        {
+          "id": "p013-u007",
+          "order": 140,
+          "kind": "text",
+          "text": "魏師德"
+        },
+        {
+          "id": "p013-u008",
+          "order": 141,
+          "kind": "text",
+          "text": "許玉農"
+        },
+        {
+          "id": "p013-u009",
+          "order": 142,
+          "kind": "text",
+          "text": "王竹亭"
+        },
+        {
+          "id": "p013-u010",
+          "order": 143,
+          "kind": "text",
+          "text": "趙湘泉"
+        },
+        {
+          "id": "p013-u011",
+          "order": 144,
+          "kind": "text",
+          "text": "項烈"
+        },
+        {
+          "id": "p013-u012",
+          "order": 145,
+          "kind": "heading",
+          "text": "院長"
+        },
+        {
+          "id": "p013-u013",
+          "order": 146,
+          "kind": "text",
+          "text": "孟傑"
+        },
+        {
+          "id": "p013-u014",
+          "order": 147,
+          "kind": "heading",
+          "text": "醫務部"
+        }
+      ],
+      "tables": [
+        {
+          "id": "p013-t01",
+          "order": 148,
+          "title": "",
+          "rows": [
+            [
+              "內科",
+              "孟傑",
+              "姚克方"
+            ],
+            [
+              "外科",
+              "潘德生",
+              "湯銘新"
+            ],
+            [
+              "耳鼻咽喉眼科",
+              "陳世彬",
+              null
+            ],
+            [
+              "產科",
+              "羅美春",
+              "張吳秀英"
+            ]
+          ],
+          "value_labels": []
+        }
+      ],
+      "doubts": [
+        {
+          "reading": "袁恕巷",
+          "candidates": [
+            "袁恕巷"
+          ],
+          "reason": "名末字疑，保留待回圖",
+          "status": "unresolved",
+          "frame": 13,
+          "unit_candidates": [
+            "p013-u005"
+          ]
+        }
+      ],
+      "exclusions": [],
+      "source_sha256": "7a5adc604c2093850ce842dae039a90a7f3cce47da0ea854935747055a28cf7e",
+      "width": 1429,
+      "height": 1900,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=13",
+      "status": "source-image-initial-read",
+      "role": "table"
+    },
+    {
+      "image": 14,
+      "folio": "九",
+      "units": [
+        {
+          "id": "p014-running",
+          "order": -2,
+          "kind": "running",
+          "text": "吳興福音醫院概況"
+        },
+        {
+          "id": "p014-folio",
+          "order": -1,
+          "kind": "folio",
+          "text": "九"
+        },
+        {
+          "id": "p014-u001",
+          "order": 154,
+          "kind": "heading",
+          "text": "見習醫師"
+        },
+        {
+          "id": "p014-u002",
+          "order": 155,
+          "kind": "text",
+          "text": "任永言　朱仲清"
+        },
+        {
+          "id": "p014-u003",
+          "order": 156,
+          "kind": "heading",
+          "text": "病理試驗部技士"
+        },
+        {
+          "id": "p014-u004",
+          "order": 157,
+          "kind": "text",
+          "text": "裘傳賢　姜寶善"
+        },
+        {
+          "id": "p014-u005",
+          "order": 158,
+          "kind": "heading",
+          "text": "愛克司光技士"
+        },
+        {
+          "id": "p014-u006",
+          "order": 159,
+          "kind": "text",
+          "text": "李乃英"
+        },
+        {
+          "id": "p014-u007",
+          "order": 160,
+          "kind": "heading",
+          "text": "護士"
+        },
+        {
+          "id": "p014-u008",
+          "order": 161,
+          "kind": "text",
+          "text": "護士長　羅美春"
+        },
+        {
+          "id": "p014-u009",
+          "order": 162,
+          "kind": "text",
+          "text": "副護士長　陳樹漢"
+        },
+        {
+          "id": "p014-u010",
+          "order": 166,
+          "kind": "heading",
+          "text": "宗教"
+        },
+        {
+          "id": "p014-u011",
+          "order": 167,
+          "kind": "text",
+          "text": "姚克方　張鋒夫　趙宗福　楊馬柳生"
+        },
+        {
+          "id": "p014-u012",
+          "order": 168,
+          "kind": "heading",
+          "text": "庶務員"
+        },
+        {
+          "id": "p014-u013",
+          "order": 169,
+          "kind": "text",
+          "text": "徐元蘊　章事三　湯沈瑞賢　張茂清"
+        },
+        {
+          "id": "p014-u014",
+          "order": 170,
+          "kind": "heading",
+          "text": "藥房（藥劑師）"
+        },
+        {
+          "id": "p014-u015",
+          "order": 171,
+          "kind": "text",
+          "text": "凌錫平"
+        }
+      ],
+      "tables": [
+        {
+          "id": "p014-t01",
+          "order": 163,
+          "title": "",
+          "rows": [
+            [
+              "護士",
+              "陳抱恕",
+              "沈子卿",
+              "許藻恩",
+              "趙天清",
+              "董志剛"
+            ],
+            [
+              null,
+              "喻炳嘉",
+              "黃伯涵",
+              "翟枕流",
+              "張秀英",
+              "邵世娟"
+            ],
+            [
+              null,
+              "楊正梅",
+              "錢萬娟",
+              "徐育珍",
+              "石珠瑞",
+              null
+            ]
+          ],
+          "value_labels": []
+        }
+      ],
+      "doubts": [
+        {
+          "reading": "張鋒夫",
+          "candidates": [
+            "張錚夫"
+          ],
+          "reason": "第二字金旁，右部待由另一頁重核",
+          "status": "unresolved",
+          "frame": 14,
+          "unit_candidates": [
+            "p014-u011"
+          ]
+        }
+      ],
+      "exclusions": [],
+      "source_sha256": "8dcb93610beaca625bc357a220aed66c4319a7adab42d6ad4dd81745f1ca6891",
+      "width": 1465,
+      "height": 1900,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=14",
+      "status": "source-image-initial-read",
+      "role": "table"
+    },
+    {
+      "image": 15,
+      "folio": "十",
+      "units": [
+        {
+          "id": "p015-running",
+          "order": -2,
+          "kind": "running",
+          "text": "吳興福音醫院概況"
+        },
+        {
+          "id": "p015-folio",
+          "order": -1,
+          "kind": "folio",
+          "text": "十"
+        },
+        {
+          "id": "p015-u001",
+          "order": 174,
+          "kind": "heading",
+          "text": "吳興福音醫院護士學校簡章"
+        },
+        {
+          "id": "p015-u002",
+          "order": 175,
+          "kind": "text",
+          "text": "定名　吳興福音醫院護士學校"
+        },
+        {
+          "id": "p015-u003",
+          "order": 176,
+          "kind": "text",
+          "text": "宗旨　本校以造就德學兼優之護士專以侍候呻吟慘痛之病家為宗旨"
+        },
+        {
+          "id": "p015-u004",
+          "order": 177,
+          "kind": "text",
+          "text": "資格　一女子年在十八歲以上"
+        },
+        {
+          "id": "p015-u005",
+          "order": 178,
+          "kind": "text",
+          "text": "二初中二年以上或有相等程度者"
+        },
+        {
+          "id": "p015-u006",
+          "order": 179,
+          "kind": "text",
+          "text": "入學攷試　中文算學及體格檢驗"
+        },
+        {
+          "id": "p015-u007",
+          "order": 180,
+          "kind": "text",
+          "text": "繳費　入學時須繳洋三十元以充書籍等費學膳費免收"
+        },
+        {
+          "id": "p015-u008",
+          "order": 181,
+          "kind": "text",
+          "text": "學年　三年"
+        },
+        {
+          "id": "p015-u009",
+          "order": 182,
+          "kind": "text",
+          "text": "畢業　凡學生完畢三年課程之後須經中華護士會之考試合格後方准給予畢業"
+        },
+        {
+          "id": "p015-u010",
+          "order": 183,
+          "kind": "text",
+          "text": "文憑并同時給授中華護士會執照"
+        },
+        {
+          "id": "p015-u011",
+          "order": 184,
+          "kind": "text",
+          "text": "津貼　第一年一元第二年二元五角第三年三元"
+        },
+        {
+          "id": "p015-u012",
+          "order": 185,
+          "kind": "text",
+          "text": "假期　每年例假三星期請假凡學生因事回家須有家族或保證人來信經本校認"
+        },
+        {
+          "id": "p015-u013",
+          "order": 186,
+          "kind": "text",
+          "text": "可後方准出校"
+        },
+        {
+          "id": "p015-u014",
+          "order": 187,
+          "kind": "text",
+          "text": "退學　如有品行不端怠忽職務學業無上進者本校可隨時令其退學"
+        },
+        {
+          "id": "p015-u015",
+          "order": 188,
+          "kind": "text",
+          "text": "應用物品　自來水筆一枝　有秒針手表一只　洗衣袋一只"
+        }
+      ],
+      "tables": [],
+      "doubts": [],
+      "exclusions": [],
+      "source_sha256": "340d1eb7f7c5d81e27bdd69944334a277ac40596ca810292fe22d51a9180d5a8",
+      "width": 1429,
+      "height": 1900,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=15",
+      "status": "source-image-initial-read",
+      "role": "text"
+    },
+    {
+      "image": 16,
+      "folio": null,
+      "units": [
+        {
+          "id": "p016-u001",
+          "order": 190,
+          "kind": "caption",
+          "text": "門診眼科室"
+        },
+        {
+          "id": "p016-u002",
+          "order": 191,
+          "kind": "caption",
+          "text": "產科室"
+        }
+      ],
+      "tables": [],
+      "doubts": [
+        {
+          "reading": "正",
+          "candidates": [
+            "正"
+          ],
+          "reason": "上方照片視力牌自頂下可見一字似正，其餘圖內字過小",
+          "status": "unresolved",
+          "frame": 16,
+          "unit_candidates": []
+        }
+      ],
+      "exclusions": [],
+      "source_sha256": "c44542038c7cff5b6f7d728598c35f4911aa665f39a1fc187798cab528641496",
+      "width": 1260,
+      "height": 1900,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=16",
+      "status": "source-image-initial-read",
+      "role": "figure",
+      "figure_description": "門診眼科室與產科室"
+    },
+    {
+      "image": 17,
+      "folio": "十一",
+      "units": [
+        {
+          "id": "p017-running",
+          "order": -2,
+          "kind": "running",
+          "text": "吳興福音醫院概況"
+        },
+        {
+          "id": "p017-folio",
+          "order": -1,
+          "kind": "folio",
+          "text": "十一"
+        },
+        {
+          "id": "p017-u001",
+          "order": 194,
+          "kind": "text",
+          "text": "藍布外衣二件　白被單二條　枕套二只"
+        },
+        {
+          "id": "p017-u002",
+          "order": 195,
+          "kind": "heading",
+          "text": "課程"
+        },
+        {
+          "id": "p017-u003",
+          "order": 196,
+          "kind": "heading",
+          "text": "第一年"
+        },
+        {
+          "id": "p017-u004",
+          "order": 210,
+          "kind": "heading",
+          "text": "本校教職員例下"
+        },
+        {
+          "id": "p017-u005",
+          "order": 211,
+          "kind": "text",
+          "text": "羅美春護士　陳世彬醫師　湯銘新醫師"
+        }
+      ],
+      "tables": [
+        {
+          "id": "p017-t01",
+          "order": 197,
+          "title": "",
+          "rows": [
+            [
+              "解剖學與生理學",
+              "微菌學",
+              "衛生學"
+            ],
+            [
+              "應用化學",
+              "飲食學",
+              "藥科學"
+            ],
+            [
+              "護士倫理學",
+              "初級護病學",
+              "繃帶學"
+            ],
+            [
+              "英文",
+              "算學",
+              null
+            ]
+          ],
+          "value_labels": []
+        },
+        {
+          "id": "p017-t02",
+          "order": 202,
+          "title": "",
+          "rows": [
+            [
+              "第二年",
+              null,
+              null
+            ],
+            [
+              "解剖學與生理學",
+              "傳染症護病學",
+              "病人飲食"
+            ],
+            [
+              "外科護病學",
+              "產科護病學",
+              "婦科護病學"
+            ],
+            [
+              "眼耳鼻喉科護病學",
+              "急救療術",
+              "藥科學"
+            ]
+          ],
+          "value_labels": []
+        },
+        {
+          "id": "p017-t03",
+          "order": 207,
+          "title": "",
+          "rows": [
+            [
+              "第三年",
+              null,
+              null
+            ],
+            [
+              "內科護病學",
+              "兒科護病學",
+              "花柳病學"
+            ],
+            [
+              "皮膚病學",
+              "揉捏法",
+              null
+            ]
+          ],
+          "value_labels": []
+        }
+      ],
+      "doubts": [],
+      "exclusions": [],
+      "source_sha256": "842de8c418603a85a136721cca01f5a3deaec54838251d4c494d92fea639a031",
+      "width": 1465,
+      "height": 1900,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=17",
+      "status": "source-image-initial-read",
+      "role": "table"
+    },
+    {
+      "image": 18,
+      "folio": "十二",
+      "units": [
+        {
+          "id": "p018-running",
+          "order": -2,
+          "kind": "running",
+          "text": "吳興福音醫院概況"
+        },
+        {
+          "id": "p018-folio",
+          "order": -1,
+          "kind": "folio",
+          "text": "十二"
+        }
+      ],
+      "tables": [
+        {
+          "id": "p018-t01",
+          "order": 213,
+          "title": "",
+          "rows": [
+            [
+              "姚克方醫師",
+              "朱仲清醫師",
+              "任言永醫師"
+            ],
+            [
+              "趙宗福牧師",
+              "張鋒夫牧師",
+              "凌錫平藥師"
+            ],
+            [
+              "裘傳賢先生",
+              "李乃英先生",
+              "章事三先生"
+            ],
+            [
+              "孟傑夫人",
+              "翟枕流護士",
+              "張秀英護士"
+            ],
+            [
+              "沈子卿護士",
+              "陳寶書護士",
+              "許藻恩護士"
+            ],
+            [
+              "邵世娟護士",
+              "楊正梅護士",
+              "錢萬娟護士"
+            ],
+            [
+              "趙天清護士",
+              "董志剛護士",
+              "喻炳家護士"
+            ],
+            [
+              "陳志瑞護士",
+              null,
+              null
+            ]
+          ],
+          "value_labels": []
+        }
+      ],
+      "doubts": [
+        {
+          "reading": "張鋒夫",
+          "candidates": [
+            "張錚夫"
+          ],
+          "reason": "金旁字右部待回圖",
+          "status": "unresolved",
+          "frame": 18,
+          "unit_candidates": []
+        }
+      ],
+      "exclusions": [],
+      "source_sha256": "aad262fd3f6ce598e9cc0831b3dec66b24a9e5b6b51672d2bd04929f8531b9e1",
+      "width": 1429,
+      "height": 1900,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=18",
+      "status": "source-image-initial-read",
+      "role": "table"
+    },
+    {
+      "image": 19,
+      "folio": "十三",
+      "units": [
+        {
+          "id": "p019-running",
+          "order": -2,
+          "kind": "running",
+          "text": "吳興福音醫院概況"
+        },
+        {
+          "id": "p019-folio",
+          "order": -1,
+          "kind": "folio",
+          "text": "十三"
+        },
+        {
+          "id": "p019-u001",
+          "order": 2,
+          "kind": "heading",
+          "text": "民國十八年住院病人統計"
+        }
+      ],
+      "tables": [
+        {
+          "id": "p019-t01",
+          "order": 3,
+          "title": "",
+          "rows": [
+            [
+              null,
+              "男性",
+              "女性",
+              "總計"
+            ],
+            [
+              "去年終留院人數",
+              "三五",
+              "一九",
+              "五四"
+            ],
+            [
+              "本年入院人數",
+              "一八九四",
+              "七○一",
+              "二五九五"
+            ],
+            [
+              "本年出院人數",
+              "一八九三",
+              "七一二",
+              "二六○五"
+            ],
+            [
+              "本年終留院人數",
+              "三六",
+              "七",
+              "四四"
+            ],
+            [
+              "本年度住院總數",
+              "一九二九",
+              "七二○",
+              "二六四九"
+            ]
+          ],
+          "value_labels": []
+        }
+      ],
+      "doubts": [],
+      "exclusions": [],
+      "source_sha256": "6e9d997baa3a5eed260d045cf8e046120979d5c13f96dc954dd559fd9f42a2a7",
+      "width": 1465,
+      "height": 1900,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=19",
+      "status": "source-image-initial-read",
+      "role": "table"
+    },
+    {
+      "image": 20,
+      "folio": "十四",
+      "units": [
+        {
+          "id": "p020-running",
+          "order": -2,
+          "kind": "running",
+          "text": "吳興福音醫院概況"
+        },
+        {
+          "id": "p020-folio",
+          "order": -1,
+          "kind": "folio",
+          "text": "十四"
+        },
+        {
+          "id": "p020-u001",
+          "order": 10,
+          "kind": "heading",
+          "text": "民國十八年各科病人出院統計"
+        }
+      ],
+      "tables": [
+        {
+          "id": "p020-t01",
+          "order": 11,
+          "title": "",
+          "rows": [
+            [
+              "科別",
+              "已愈",
+              "稍愈",
+              "未愈",
+              "未治",
+              "死亡",
+              "總計",
+              "住院日期平均"
+            ],
+            [
+              "內科",
+              "一八五",
+              "八一六",
+              "一七一",
+              "五四",
+              "七五",
+              "一三○一",
+              "八・六"
+            ],
+            [
+              "外科",
+              "二○二",
+              "四七一",
+              "五七",
+              "五七",
+              "二三",
+              "八一○",
+              "十四・"
+            ],
+            [
+              "耳眼牙鼻喉科",
+              "一三二",
+              "一九一",
+              "二二",
+              "一三",
+              "○",
+              "三五七",
+              "七・六"
+            ],
+            [
+              "產科",
+              "五八",
+              "九",
+              "一",
+              "六",
+              "三",
+              "七七",
+              "十三・七"
+            ],
+            [
+              "嬰孩",
+              "五六",
+              "○",
+              "一",
+              "○",
+              "三",
+              "六○",
+              "九・四"
+            ],
+            [
+              null,
+              "六三三",
+              "一四八七",
+              "二五一",
+              "一四○",
+              "一○四",
+              "二六○五",
+              "十・五"
+            ]
+          ],
+          "value_labels": []
+        }
+      ],
+      "doubts": [],
+      "exclusions": [],
+      "source_sha256": "e42a5d00ba8724a44783caa1c1ab6475866255220eabb4af0ff75b1ea3e0edd0",
+      "width": 1429,
+      "height": 1900,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=20",
+      "status": "source-image-initial-read",
+      "role": "table"
+    },
+    {
+      "image": 21,
+      "folio": "十五",
+      "units": [
+        {
+          "id": "p021-running",
+          "order": -2,
+          "kind": "running",
+          "text": "吳興福音醫院概況"
+        },
+        {
+          "id": "p021-folio",
+          "order": -1,
+          "kind": "folio",
+          "text": "十五"
+        },
+        {
+          "id": "p021-u001",
+          "order": 19,
+          "kind": "heading",
+          "text": "民國十八年麻藥統計"
+        }
+      ],
+      "tables": [
+        {
+          "id": "p021-t01",
+          "order": 20,
+          "title": "",
+          "rows": [
+            [
+              "麻醉類別",
+              "住院病人",
+              "門診病人"
+            ],
+            [
+              "全身麻醉",
+              "一三一",
+              "一○"
+            ],
+            [
+              "局部麻醉",
+              "二三一",
+              "二五八"
+            ],
+            [
+              "混合麻醉",
+              "七",
+              "○"
+            ],
+            [
+              "未施麻醉",
+              "五○",
+              "二八"
+            ],
+            [
+              "總計",
+              "六一九",
+              "三三"
+            ]
+          ],
+          "value_labels": []
+        }
+      ],
+      "doubts": [],
+      "exclusions": [],
+      "source_sha256": "7b135bfae29161534270134df58efe3740103f30b20d48bdfc2e3007b7489db6",
+      "width": 1465,
+      "height": 1900,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=21",
+      "status": "source-image-initial-read",
+      "role": "table"
+    },
+    {
+      "image": 22,
+      "folio": "十六",
+      "units": [
+        {
+          "id": "p022-running",
+          "order": -2,
+          "kind": "running",
+          "text": "吳興福音醫院概況"
+        },
+        {
+          "id": "p022-folio",
+          "order": -1,
+          "kind": "folio",
+          "text": "十六"
+        },
+        {
+          "id": "p022-u001",
+          "order": 27,
+          "kind": "heading",
+          "text": "民國十八年門診病人統計"
+        }
+      ],
+      "tables": [
+        {
+          "id": "p022-t01",
+          "order": 28,
+          "title": "",
+          "rows": [
+            [
+              "初診",
+              "六九三一"
+            ],
+            [
+              "覆診",
+              "六五三九"
+            ],
+            [
+              "男性",
+              "九四三三"
+            ],
+            [
+              "女性",
+              "四○三七"
+            ],
+            [
+              "內科",
+              "五一六九"
+            ],
+            [
+              "外科",
+              "五四四四"
+            ],
+            [
+              "眼耳鼻牙喉科",
+              "二七一五"
+            ],
+            [
+              "產科",
+              "一三一一"
+            ],
+            [
+              "出診",
+              "三一一"
+            ]
+          ],
+          "value_labels": []
+        }
+      ],
+      "doubts": [],
+      "exclusions": [],
+      "source_sha256": "484c984ffeba18c80fcd23033ce85e5b6c2d60bf551aad3067d8f177d3b05f91",
+      "width": 1429,
+      "height": 1900,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=22",
+      "status": "source-image-initial-read",
+      "role": "table"
+    },
+    {
+      "image": 23,
+      "folio": null,
+      "units": [
+        {
+          "id": "p023-u001",
+          "order": 38,
+          "kind": "caption",
+          "text": "細菌學室"
+        },
+        {
+          "id": "p023-u002",
+          "order": 39,
+          "kind": "caption",
+          "text": "普通試驗室"
+        }
+      ],
+      "tables": [],
+      "doubts": [],
+      "exclusions": [],
+      "source_sha256": "c08660019b8e62cff227e0e8fc0ab173ce37ee5dcbc579e4ded5cd0ed9ef1aba",
+      "width": 1249,
+      "height": 1900,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=23",
+      "status": "source-image-initial-read",
+      "role": "figure",
+      "figure_description": "細菌學室與普通試驗室照片"
+    },
+    {
+      "image": 24,
+      "folio": "十七",
+      "units": [
+        {
+          "id": "p024-running",
+          "order": -2,
+          "kind": "running",
+          "text": "吳興福音醫院概況"
+        },
+        {
+          "id": "p024-folio",
+          "order": -1,
+          "kind": "folio",
+          "text": "十七"
+        }
+      ],
+      "tables": [
+        {
+          "id": "p024-t01",
+          "order": 41,
+          "title": "",
+          "rows": [
+            [
+              "總計",
+              "一三七八二"
+            ],
+            [
+              "每日門診平均人數",
+              "四三"
+            ]
+          ],
+          "value_labels": []
+        }
+      ],
+      "doubts": [],
+      "exclusions": [],
+      "source_sha256": "667083aece16dd00bd0988b221d20fd1d91da0432a82dde6151af47c87d3f893",
+      "width": 1465,
+      "height": 1900,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=24",
+      "status": "source-image-initial-read",
+      "role": "table"
+    },
+    {
+      "image": 25,
+      "folio": "十八",
+      "units": [
+        {
+          "id": "p025-running",
+          "order": -2,
+          "kind": "running",
+          "text": "吳興福音醫院概況"
+        },
+        {
+          "id": "p025-folio",
+          "order": -1,
+          "kind": "folio",
+          "text": "十八"
+        },
+        {
+          "id": "p025-u001",
+          "order": 44,
+          "kind": "heading",
+          "text": "民國十八年住院外科手術統計"
+        }
+      ],
+      "tables": [
+        {
+          "id": "p025-t01",
+          "order": 45,
+          "title": "",
+          "rows": [
+            [
+              "手術類別",
+              "局部麻醉",
+              "全身麻醉",
+              "混合麻醉",
+              "未施麻醉"
+            ],
+            [
+              "口頰壞死火烙術",
+              null,
+              "一",
+              null,
+              null
+            ],
+            [
+              "裂脣修補術",
+              "三",
+              null,
+              null,
+              null
+            ],
+            [
+              "胃腸連成口術",
+              null,
+              null,
+              "一",
+              null
+            ],
+            [
+              "小腸切除術（一部）",
+              "一",
+              "一",
+              null,
+              null
+            ],
+            [
+              "小腸連成口術",
+              null,
+              "一",
+              null,
+              null
+            ],
+            [
+              "小腸成口術",
+              null,
+              "一",
+              null,
+              null
+            ],
+            [
+              "小結腸切除術（一部）",
+              null,
+              null,
+              "一",
+              null
+            ],
+            [
+              "小結腸連成口術",
+              null,
+              "一",
+              null,
+              null
+            ],
+            [
+              "盲腸切除術",
+              null,
+              null,
+              "一",
+              null
+            ]
+          ],
+          "value_labels": []
+        }
+      ],
+      "doubts": [],
+      "exclusions": [],
+      "source_sha256": "1d3b1a5f1873623434737a94ace142ba6f0d515c3892e942f312e2df625ac1cb",
+      "width": 1429,
+      "height": 1900,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=25",
+      "status": "source-image-initial-read",
+      "role": "table"
+    },
+    {
+      "image": 26,
+      "folio": "十九",
+      "units": [
+        {
+          "id": "p026-running",
+          "order": -2,
+          "kind": "running",
+          "text": "吳興福音醫院概況"
+        },
+        {
+          "id": "p026-folio",
+          "order": -1,
+          "kind": "folio",
+          "text": "十九"
+        }
+      ],
+      "tables": [
+        {
+          "id": "p026-t01",
+          "order": 2,
+          "title": "",
+          "rows": [
+            [
+              "結腸切開術",
+              "一",
+              null,
+              null,
+              null
+            ],
+            [
+              "直腸縫合術",
+              null,
+              "一",
+              null,
+              null
+            ],
+            [
+              "絞窄性腹股溝赫尼亞修補術",
+              "一",
+              null,
+              null,
+              null
+            ],
+            [
+              "腹股溝赫尼亞修補術",
+              "三",
+              "二",
+              null,
+              null
+            ],
+            [
+              "肛門瘻割除術",
+              "四",
+              "一九",
+              null,
+              null
+            ],
+            [
+              "肛門蒂肉割除術",
+              "一",
+              null,
+              null,
+              null
+            ],
+            [
+              "闌尾切除術",
+              "三",
+              "五",
+              null,
+              null
+            ],
+            [
+              "闌尾切除與引流術",
+              "一",
+              null,
+              null,
+              null
+            ],
+            [
+              "闌尾膿腫引流術",
+              null,
+              "二",
+              null,
+              null
+            ],
+            [
+              "膽囊切除術",
+              "一",
+              null,
+              null,
+              null
+            ],
+            [
+              "膽管引流術",
+              "一",
+              null,
+              "一",
+              null
+            ]
+          ],
+          "value_labels": []
+        }
+      ],
+      "doubts": [],
+      "exclusions": [],
+      "source_sha256": "947cae63029cb4b2530f0d7b0cbaad0dd87eca3982ce8f4e83ab8ac7b694f5f9",
+      "width": 1465,
+      "height": 1900,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=26",
+      "status": "source-image-initial-read",
+      "role": "table"
+    },
+    {
+      "image": 27,
+      "folio": "二十",
+      "units": [
+        {
+          "id": "p027-running",
+          "order": -2,
+          "kind": "running",
+          "text": "吳興福音醫院概況"
+        },
+        {
+          "id": "p027-folio",
+          "order": -1,
+          "kind": "folio",
+          "text": "二十"
+        }
+      ],
+      "tables": [
+        {
+          "id": "p027-t01",
+          "order": 14,
+          "title": "",
+          "rows": [
+            [
+              "尿道癰割除術",
+              null,
+              "一",
+              null,
+              null
+            ],
+            [
+              "尿道下裂修補術",
+              null,
+              "一",
+              null,
+              null
+            ],
+            [
+              "尿道狹窄切除術",
+              "一",
+              null,
+              null,
+              null
+            ],
+            [
+              "尿道修補術",
+              "一",
+              "一",
+              null,
+              null
+            ],
+            [
+              "尿道切開術",
+              "三",
+              "一",
+              null,
+              null
+            ],
+            [
+              "陰莖乳頭狀瘤割除術",
+              "一",
+              null,
+              null,
+              null
+            ],
+            [
+              "陰莖截斷術（一部）",
+              "一",
+              null,
+              null,
+              null
+            ],
+            [
+              "陰莖截斷術（全部）火烙",
+              "三",
+              null,
+              null,
+              null
+            ],
+            [
+              "包皮環切除術",
+              "二四",
+              null,
+              null,
+              null
+            ],
+            [
+              "膀胱陰道瘻修補術",
+              "三",
+              null,
+              null,
+              null
+            ],
+            [
+              "膀胱切開術",
+              "二",
+              null,
+              null,
+              null
+            ]
+          ],
+          "value_labels": []
+        }
+      ],
+      "doubts": [],
+      "exclusions": [],
+      "source_sha256": "3732d543ea881f96bc66c9988e8990da0e3078a9e2913b6dc66074d6be7b9cb1",
+      "width": 1429,
+      "height": 1900,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=27",
+      "status": "source-image-initial-read",
+      "role": "table"
+    },
+    {
+      "image": 28,
+      "folio": "二十一",
+      "units": [
+        {
+          "id": "p028-running",
+          "order": -2,
+          "kind": "running",
+          "text": "吳興福音醫院概況"
+        },
+        {
+          "id": "p028-folio",
+          "order": -1,
+          "kind": "folio",
+          "text": "二十一"
+        }
+      ],
+      "tables": [
+        {
+          "id": "p028-t01",
+          "order": 26,
+          "title": "",
+          "rows": [
+            [
+              "膀胱切開與膀光石取去術",
+              "六",
+              "二",
+              null,
+              null
+            ],
+            [
+              "睪丸切除術",
+              "二",
+              null,
+              null,
+              null
+            ],
+            [
+              "子宮流血填塞術",
+              null,
+              null,
+              null,
+              "一"
+            ],
+            [
+              "子宮擴張及刮術",
+              null,
+              "七",
+              null,
+              null
+            ],
+            [
+              "小產子宮刮術",
+              null,
+              null,
+              null,
+              "一"
+            ],
+            [
+              "卵巢管切除術",
+              null,
+              "一",
+              "一",
+              null
+            ],
+            [
+              "卵巢袋瘤切除術",
+              "四",
+              null,
+              "一",
+              null
+            ],
+            [
+              "處女膜切口術",
+              null,
+              "一",
+              null,
+              null
+            ],
+            [
+              "女陰血腫切除術",
+              null,
+              null,
+              "一",
+              null
+            ],
+            [
+              "會陰修補術",
+              null,
+              "一",
+              null,
+              null
+            ],
+            [
+              "會陰縫合術",
+              null,
+              "一",
+              null,
+              null
+            ]
+          ],
+          "value_labels": []
+        }
+      ],
+      "doubts": [],
+      "exclusions": [],
+      "source_sha256": "b18e04000fe4a16b6742bfed0203df83288c83613a9e6cb1d97370a288b66115",
+      "width": 1465,
+      "height": 1900,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=28",
+      "status": "source-image-initial-read",
+      "role": "table"
+    },
+    {
+      "image": 29,
+      "folio": "二十二",
+      "units": [
+        {
+          "id": "p029-running",
+          "order": -2,
+          "kind": "running",
+          "text": "吳興福音醫院概況"
+        },
+        {
+          "id": "p029-folio",
+          "order": -1,
+          "kind": "folio",
+          "text": "二十二"
+        }
+      ],
+      "tables": [
+        {
+          "id": "p029-t01",
+          "order": 38,
+          "title": "",
+          "rows": [
+            [
+              "肱動脈縛纏術",
+              "一",
+              null,
+              null,
+              null
+            ],
+            [
+              "痔靜脈縛纏及切除術",
+              null,
+              "一七",
+              null,
+              null
+            ],
+            [
+              "腋淋巴腺切除術",
+              null,
+              "一",
+              null,
+              null
+            ],
+            [
+              "股淋巴線切除術",
+              null,
+              "一",
+              null,
+              null
+            ],
+            [
+              "腹股溝淋巴線切除術",
+              null,
+              "一",
+              null,
+              null
+            ],
+            [
+              "鎖骨死骨片切除術",
+              null,
+              "一",
+              null,
+              null
+            ],
+            [
+              "股骨死骨片切除術",
+              "三",
+              null,
+              null,
+              null
+            ],
+            [
+              "頷骨死骨片切除術",
+              "一",
+              null,
+              null,
+              null
+            ],
+            [
+              "脛骨死骨片切除術",
+              "一",
+              null,
+              null,
+              null
+            ],
+            [
+              "腳骨死骨片切除術",
+              "二",
+              null,
+              "一",
+              null
+            ],
+            [
+              "踝節骨死骨片切除術",
+              null,
+              "一",
+              null,
+              null
+            ]
+          ],
+          "value_labels": []
+        }
+      ],
+      "doubts": [],
+      "exclusions": [],
+      "source_sha256": "14b6ded3425be4bdc574bd6b9f35312ddf2a5e942f321d0c1ac664f0ca468b04",
+      "width": 1429,
+      "height": 1900,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=29",
+      "status": "source-image-initial-read",
+      "role": "table"
+    },
+    {
+      "image": 30,
+      "folio": "二十三",
+      "units": [
+        {
+          "id": "p030-running",
+          "order": -2,
+          "kind": "running",
+          "text": "吳興福音醫院概況"
+        },
+        {
+          "id": "p030-folio",
+          "order": -1,
+          "kind": "folio",
+          "text": "二十三"
+        }
+      ],
+      "tables": [
+        {
+          "id": "p030-t01",
+          "order": 50,
+          "title": "",
+          "rows": [
+            [
+              "臂上部截斷術",
+              "一",
+              null,
+              null,
+              null
+            ],
+            [
+              "手指截斷術",
+              "五",
+              "一",
+              null,
+              null
+            ],
+            [
+              "大腿下部截斷術",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "小腿下部截斷術",
+              "一",
+              "一",
+              null,
+              null
+            ],
+            [
+              "小腿上部截斷術",
+              null,
+              "三",
+              null,
+              null
+            ],
+            [
+              "足指截斷術",
+              null,
+              "一",
+              null,
+              null
+            ],
+            [
+              "折骨復位與切開術",
+              "二",
+              "一",
+              null,
+              null
+            ],
+            [
+              "折骨復位術",
+              null,
+              "二",
+              null,
+              null
+            ],
+            [
+              "節脫位復位與切開術",
+              "一",
+              null,
+              null,
+              null
+            ],
+            [
+              "關節切開術",
+              "二",
+              null,
+              null,
+              null
+            ],
+            [
+              "肘切開術",
+              "一",
+              null,
+              null,
+              null
+            ]
+          ],
+          "value_labels": []
+        }
+      ],
+      "doubts": [],
+      "exclusions": [],
+      "source_sha256": "9596ed34897616af7c3a4c5ac9ad651ff1206827a5e45a389b8d541ac8c3bac0",
+      "width": 1465,
+      "height": 1900,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=30",
+      "status": "source-image-initial-read",
+      "role": "table"
+    },
+    {
+      "image": 31,
+      "folio": "二十四",
+      "units": [
+        {
+          "id": "p031-running",
+          "order": -2,
+          "kind": "running",
+          "text": "吳興福音醫院概況"
+        },
+        {
+          "id": "p031-folio",
+          "order": -1,
+          "kind": "folio",
+          "text": "二十四"
+        }
+      ],
+      "tables": [
+        {
+          "id": "p031-t01",
+          "order": 62,
+          "title": "",
+          "rows": [
+            [
+              "前臂異物切除術",
+              "二",
+              null,
+              null,
+              null
+            ],
+            [
+              "癰切除術",
+              "九",
+              "七",
+              null,
+              null
+            ],
+            [
+              "雜種囊腫切除術",
+              "五",
+              null,
+              null,
+              null
+            ],
+            [
+              "顱頂蓋囊腫切除術",
+              "一",
+              null,
+              null,
+              null
+            ],
+            [
+              "舌上皮癌切除術",
+              "一",
+              null,
+              null,
+              null
+            ],
+            [
+              "腮腺癌切除術",
+              "一",
+              null,
+              null,
+              null
+            ],
+            [
+              "領下線癌切除術",
+              null,
+              "一",
+              null,
+              null
+            ],
+            [
+              "胸血腫切除術",
+              null,
+              "一",
+              null,
+              null
+            ],
+            [
+              "膿種切開及引流術",
+              "三七",
+              "四八",
+              null,
+              null
+            ],
+            [
+              "膿種吸引術",
+              "一",
+              null,
+              null,
+              null
+            ],
+            [
+              "濕疣火烙術",
+              null,
+              "一",
+              null,
+              null
+            ]
+          ],
+          "value_labels": []
+        }
+      ],
+      "doubts": [],
+      "exclusions": [],
+      "source_sha256": "ba756ec39ed242e2bf29db176f98688ce0cb9f84f4ba1885760d069a799092f4",
+      "width": 1429,
+      "height": 1900,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=31",
+      "status": "source-image-initial-read",
+      "role": "table"
+    },
+    {
+      "image": 32,
+      "folio": "二十五",
+      "units": [
+        {
+          "id": "p032-running",
+          "order": -2,
+          "kind": "running",
+          "text": "吳興福音醫院概況"
+        },
+        {
+          "id": "p032-folio",
+          "order": -1,
+          "kind": "folio",
+          "text": "二十五"
+        }
+      ],
+      "tables": [
+        {
+          "id": "p032-t01",
+          "order": 74,
+          "title": "",
+          "rows": [
+            [
+              "蜂窩組織炎切術",
+              "六",
+              "一三",
+              null,
+              null
+            ],
+            [
+              "胸乳截斷術",
+              null,
+              "二",
+              null,
+              null
+            ],
+            [
+              "石膏柱按置術",
+              null,
+              "一一",
+              null,
+              "三八"
+            ],
+            [
+              "鎗傷口異物切除術",
+              "四",
+              null,
+              null,
+              null
+            ],
+            [
+              "傷口腐肉切除術",
+              "一",
+              "五",
+              "一",
+              null
+            ],
+            [
+              "傷口腐肉切除與縫合術",
+              "二",
+              "一",
+              null,
+              "一"
+            ],
+            [
+              "瘻管刮術",
+              "三",
+              "一",
+              null,
+              null
+            ],
+            [
+              "潰瘍刮術",
+              null,
+              "四",
+              null,
+              null
+            ],
+            [
+              "受染縫腺切除術",
+              "一",
+              null,
+              null,
+              null
+            ],
+            [
+              "面部修補術",
+              "一",
+              null,
+              null,
+              null
+            ],
+            [
+              "拔指甲術",
+              "一",
+              null,
+              null,
+              null
+            ]
+          ],
+          "value_labels": []
+        }
+      ],
+      "doubts": [],
+      "exclusions": [],
+      "source_sha256": "eda56065967be25ca1faa42337a64587c0a4cd22e6b1d21cfb48a2976ae94b69",
+      "width": 1465,
+      "height": 1900,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=32",
+      "status": "source-image-initial-read",
+      "role": "table"
+    },
+    {
+      "image": 33,
+      "folio": "二十六",
+      "units": [
+        {
+          "id": "p033-running",
+          "order": -2,
+          "kind": "running",
+          "text": "吳興福音醫院概況"
+        },
+        {
+          "id": "p033-folio",
+          "order": -1,
+          "kind": "folio",
+          "text": "二十六"
+        }
+      ],
+      "tables": [
+        {
+          "id": "p033-t01",
+          "order": 86,
+          "title": "",
+          "rows": [
+            [
+              "面神經酒精注射術",
+              "四",
+              null,
+              null,
+              null
+            ],
+            [
+              "開腹術",
+              "三",
+              "四",
+              null,
+              null
+            ],
+            [
+              "開胸術",
+              "二",
+              null,
+              null,
+              null
+            ],
+            [
+              "拔牙術",
+              "六",
+              null,
+              null,
+              null
+            ],
+            [
+              "接植皮術",
+              "一五",
+              null,
+              null,
+              null
+            ],
+            [
+              "輸移血術",
+              null,
+              null,
+              null,
+              "七"
+            ],
+            [
+              "總計",
+              "二○二",
+              "一九一",
+              "七",
+              "四九"
+            ],
+            [
+              "門診病人手術統計",
+              "二八五",
+              "一○",
+              null,
+              "七"
+            ]
+          ],
+          "value_labels": []
+        }
+      ],
+      "doubts": [],
+      "exclusions": [],
+      "source_sha256": "00bdbde5b1f4a7ef5804a9fdf84435b2a29e8997524add8564598bd01a6405cd",
+      "width": 1429,
+      "height": 1900,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=33",
+      "status": "source-image-initial-read",
+      "role": "table"
+    },
+    {
+      "image": 34,
+      "folio": "二十七",
+      "units": [
+        {
+          "id": "p034-running",
+          "order": -2,
+          "kind": "running",
+          "text": "吳興福音醫院概況"
+        },
+        {
+          "id": "p034-folio",
+          "order": -1,
+          "kind": "folio",
+          "text": "二十七"
+        },
+        {
+          "id": "p034-u001",
+          "order": 2,
+          "kind": "heading",
+          "text": "民國十八年眼耳鼻喉牙科割症表"
+        }
+      ],
+      "tables": [
+        {
+          "id": "p034-t01",
+          "order": 3,
+          "title": "",
+          "rows": [
+            [
+              "手術類別",
+              "局部麻醉",
+              "全身麻醉"
+            ],
+            [
+              "眼",
+              null,
+              null
+            ],
+            [
+              "瞼成形術",
+              "三四",
+              null
+            ],
+            [
+              "瞼成形術與外眥切開術",
+              "四",
+              null
+            ],
+            [
+              "內眥切開術",
+              "一",
+              null
+            ],
+            [
+              "電烙虹膜脫垂術",
+              "一",
+              null
+            ],
+            [
+              "透析睫狀體術",
+              "一",
+              null
+            ],
+            [
+              "摘出眼球術",
+              null,
+              "四"
+            ],
+            [
+              "眼內容剜除術",
+              "一",
+              null
+            ],
+            [
+              "切除瞼囊術",
+              null,
+              "一"
+            ]
+          ],
+          "value_labels": []
+        }
+      ],
+      "doubts": [],
+      "exclusions": [],
+      "source_sha256": "859606afbe49e6d73ad935461789ab14912572ec479b607cc14993a7a1aefe3a",
+      "width": 1465,
+      "height": 1900,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=34",
+      "status": "source-image-initial-read",
+      "role": "table"
+    },
+    {
+      "image": 35,
+      "folio": "二十八",
+      "units": [
+        {
+          "id": "p035-running",
+          "order": -2,
+          "kind": "running",
+          "text": "吳興福音醫院概況"
+        },
+        {
+          "id": "p035-folio",
+          "order": -1,
+          "kind": "folio",
+          "text": "二十八"
+        }
+      ],
+      "tables": [
+        {
+          "id": "p035-t01",
+          "order": 14,
+          "title": "",
+          "rows": [
+            [
+              "切除瞼漿細胞癌術",
+              "二",
+              null
+            ],
+            [
+              "切除虹膜脫垂術",
+              "二",
+              null
+            ],
+            [
+              "切除與電烙眼球癌術",
+              null,
+              "一"
+            ],
+            [
+              "逼出沙眼術",
+              "五",
+              null
+            ],
+            [
+              "摘出淚囊術",
+              "一",
+              "一"
+            ],
+            [
+              "切開與挑液瞼膿腫術",
+              "一",
+              "一"
+            ],
+            [
+              "虹膜截除術",
+              "二",
+              null
+            ],
+            [
+              "針刺內障術",
+              "一七",
+              null
+            ],
+            [
+              "瞼外翻修補術",
+              "一",
+              null
+            ],
+            [
+              "眶死骨截除術",
+              null,
+              "一"
+            ],
+            [
+              "瞼傷縫合術",
+              "三",
+              null
+            ]
+          ],
+          "value_labels": []
+        }
+      ],
+      "doubts": [],
+      "exclusions": [],
+      "source_sha256": "7c0f6f929dc1007ccf1de8333d1896d5f76852e532c1825ff195b2eb76fb81dc",
+      "width": 1429,
+      "height": 1900,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=35",
+      "status": "source-image-initial-read",
+      "role": "table"
+    },
+    {
+      "image": 36,
+      "folio": "二十九",
+      "units": [
+        {
+          "id": "p036-running",
+          "order": -2,
+          "kind": "running",
+          "text": "吳興福音醫院概況"
+        },
+        {
+          "id": "p036-folio",
+          "order": -1,
+          "kind": "folio",
+          "text": "二十九"
+        }
+      ],
+      "tables": [
+        {
+          "id": "p036-t01",
+          "order": 26,
+          "title": "",
+          "rows": [
+            [
+              "翼狀胬肉移植術",
+              "一六",
+              null
+            ],
+            [
+              "耳",
+              null,
+              null
+            ],
+            [
+              "截除耳囊術",
+              "一",
+              null
+            ],
+            [
+              "斷根乳突術",
+              null,
+              "一"
+            ],
+            [
+              "切開與挑液耳膿腫術",
+              null,
+              "一"
+            ],
+            [
+              "外耳傷縫合術",
+              "一",
+              null
+            ]
+          ],
+          "value_labels": []
+        },
+        {
+          "id": "p036-t02",
+          "order": 33,
+          "title": "",
+          "rows": [
+            [
+              null,
+              "局部麻醉",
+              "體身麻醉",
+              "未施麻醉"
+            ],
+            [
+              "鼻",
+              null,
+              null,
+              null
+            ],
+            [
+              "切除鼻蒂肉術",
+              "二",
+              null,
+              null
+            ],
+            [
+              "切開與刮額竇術",
+              "一",
+              null,
+              null
+            ],
+            [
+              "截除鼻中甲骨術",
+              "三",
+              null,
+              null
+            ]
+          ],
+          "value_labels": []
+        }
+      ],
+      "doubts": [],
+      "exclusions": [],
+      "source_sha256": "17502a6a632be09fbefac834d0dcf05da44ea502d62d9fddc0848129da614e7e",
+      "width": 1465,
+      "height": 1900,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=36",
+      "status": "source-image-initial-read",
+      "role": "table"
+    },
+    {
+      "image": 37,
+      "folio": "三十",
+      "units": [
+        {
+          "id": "p037-running",
+          "order": -2,
+          "kind": "running",
+          "text": "吳興福音醫院概況"
+        },
+        {
+          "id": "p037-folio",
+          "order": -1,
+          "kind": "folio",
+          "text": "三十"
+        }
+      ],
+      "tables": [
+        {
+          "id": "p037-t01",
+          "order": 39,
+          "title": "",
+          "rows": [
+            [
+              "鼻孔閉鎖修補術",
+              "一",
+              null,
+              null
+            ],
+            [
+              "切開篩竇內術",
+              "一",
+              null,
+              null
+            ],
+            [
+              "切開額竇內術",
+              "一",
+              null,
+              null
+            ],
+            [
+              "切開上頜竇內術",
+              "五",
+              null,
+              null
+            ],
+            [
+              "截除鼻中隔術",
+              "一",
+              null,
+              null
+            ],
+            [
+              "鼻外傷縫合術",
+              "一",
+              null,
+              null
+            ],
+            [
+              "喉",
+              null,
+              null,
+              null
+            ],
+            [
+              "喉內取異物術",
+              "一",
+              "一二",
+              null
+            ],
+            [
+              "扁桃體截除術",
+              "五",
+              null,
+              null
+            ],
+            [
+              "扁桃體與腺狀瘤截除術",
+              "一",
+              "一五",
+              null
+            ]
+          ],
+          "value_labels": []
+        }
+      ],
+      "doubts": [],
+      "exclusions": [],
+      "source_sha256": "6ee4642882953320f5da152913497dbd0a7ed8aaaec43d16912873f829c2fef1",
+      "width": 1429,
+      "height": 1900,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=37",
+      "status": "source-image-initial-read",
+      "role": "table"
+    },
+    {
+      "image": 38,
+      "folio": "三十一",
+      "units": [
+        {
+          "id": "p038-running",
+          "order": -2,
+          "kind": "running",
+          "text": "吳興福音醫院概況"
+        },
+        {
+          "id": "p038-folio",
+          "order": -1,
+          "kind": "folio",
+          "text": "三十一"
+        }
+      ],
+      "tables": [
+        {
+          "id": "p038-t01",
+          "order": 50,
+          "title": "",
+          "rows": [
+            [
+              "口與牙",
+              null,
+              null,
+              null
+            ],
+            [
+              "舌下囊腫吸引術",
+              "一",
+              null,
+              null
+            ],
+            [
+              "舌下囊腫截除術",
+              "一",
+              null,
+              "一"
+            ],
+            [
+              "切開齦膿腫術",
+              "二",
+              null,
+              null
+            ],
+            [
+              "切開下頜膿腫術",
+              "一",
+              null,
+              null
+            ],
+            [
+              "拔齲齒",
+              "二",
+              null,
+              null
+            ],
+            [
+              "拔齲門齒",
+              "一",
+              null,
+              null
+            ],
+            [
+              "拔齲磨齒",
+              "一",
+              "一",
+              null
+            ],
+            [
+              "拔埋智齒",
+              "一",
+              null,
+              null
+            ],
+            [
+              "下頜死骨截除術",
+              "一",
+              null,
+              null
+            ],
+            [
+              "下頜傷縫合術",
+              "一",
+              null,
+              null
+            ],
+            [
+              "總計",
+              "一二九",
+              "三九",
+              "一"
+            ]
+          ],
+          "value_labels": []
+        }
+      ],
+      "doubts": [],
+      "exclusions": [],
+      "source_sha256": "9648fe4f38341aa33298a6c9cb11f277e0e78f1e804832f219d5be3c49449445",
+      "width": 1465,
+      "height": 1900,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=38",
+      "status": "source-image-initial-read",
+      "role": "table"
+    },
+    {
+      "image": 39,
+      "folio": "三十二",
+      "units": [
+        {
+          "id": "p039-running",
+          "order": -2,
+          "kind": "running",
+          "text": "吳興福音醫院概況"
+        },
+        {
+          "id": "p039-folio",
+          "order": -1,
+          "kind": "folio",
+          "text": "三十二"
+        },
+        {
+          "id": "p039-u001",
+          "order": 2,
+          "kind": "heading",
+          "text": "吳興福音醫院民國十八年收入報告"
+        }
+      ],
+      "tables": [
+        {
+          "id": "p039-t01",
+          "order": 3,
+          "title": "",
+          "rows": [
+            [
+              null,
+              "門類",
+              "銀元",
+              "備考"
+            ],
+            [
+              "第一項",
+              "病人收入",
+              "四九○八二・六二",
+              null
+            ],
+            [
+              "第一節",
+              "房飯金",
+              "二三三七一・八五",
+              null
+            ],
+            [
+              "第二節",
+              "試驗費",
+              "三一六二・○○",
+              null
+            ],
+            [
+              "第三節",
+              "手術費",
+              "二九六三・○○",
+              null
+            ],
+            [
+              "第四節",
+              "藥費",
+              "一二五四七・二二",
+              null
+            ],
+            [
+              "第五節",
+              "產科費",
+              "四三九・五○",
+              null
+            ],
+            [
+              "第六節",
+              "愛克司光",
+              "一七一四・四○",
+              null
+            ],
+            [
+              "第七節",
+              "號金",
+              "一八一五・七五",
+              null
+            ],
+            [
+              "第八節",
+              "出診費",
+              "三○六九・○○",
+              null
+            ]
+          ],
+          "value_labels": []
+        }
+      ],
+      "doubts": [],
+      "exclusions": [],
+      "source_sha256": "9a1377fd162faee0218a786bc03534f805235b5c91128a16bc2cf9642469f044",
+      "width": 1429,
+      "height": 1900,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=39",
+      "status": "source-image-initial-read",
+      "role": "table"
+    },
+    {
+      "image": 40,
+      "folio": null,
+      "units": [
+        {
+          "id": "p040-u001",
+          "order": 14,
+          "kind": "caption",
+          "text": "手術室"
+        },
+        {
+          "id": "p040-u002",
+          "order": 15,
+          "kind": "caption",
+          "text": "愛克司光室"
+        }
+      ],
+      "tables": [],
+      "doubts": [],
+      "exclusions": [],
+      "source_sha256": "15bcc46cb92ea3b7b34d581db1dcc8f985de1938823f01ab05b633b1e94da4d8",
+      "width": 1238,
+      "height": 1900,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=40",
+      "status": "source-image-initial-read",
+      "role": "figure",
+      "figure_description": "手術室與愛克司光室照片"
+    },
+    {
+      "image": 41,
+      "folio": "三十三",
+      "units": [
+        {
+          "id": "p041-running",
+          "order": -2,
+          "kind": "running",
+          "text": "吳興福音醫院概況"
+        },
+        {
+          "id": "p041-folio",
+          "order": -1,
+          "kind": "folio",
+          "text": "三十三"
+        }
+      ],
+      "tables": [
+        {
+          "id": "p041-t01",
+          "order": 17,
+          "title": "",
+          "rows": [
+            [
+              "第二項",
+              "常年費",
+              "九一五○・○○",
+              "美國監理公會擔任"
+            ],
+            [
+              "第一節",
+              "日用",
+              "二四○○・○○",
+              null
+            ],
+            [
+              "第二節",
+              "西護士薪給",
+              "二三五○・○○",
+              null
+            ],
+            [
+              "第三節",
+              "眼科醫師薪給",
+              "三六○○・○○",
+              null
+            ],
+            [
+              "第四節",
+              "醫師津貼",
+              "八○○・○○",
+              null
+            ],
+            [
+              "第三項",
+              "雜項",
+              "一九八四九・七四",
+              null
+            ],
+            [
+              "第一節",
+              "護士學校",
+              "六一○・○○",
+              null
+            ],
+            [
+              "第二節",
+              "職員房金",
+              "一二五六・二五",
+              null
+            ],
+            [
+              "第三節",
+              "職員膳費",
+              "七○九二・五九",
+              null
+            ],
+            [
+              "第四節",
+              "水電",
+              "三○九・三六",
+              "供給職員家族用"
+            ],
+            [
+              "第五節",
+              "上年存洋",
+              "一三九一・八九",
+              null
+            ]
+          ],
+          "value_labels": []
+        }
+      ],
+      "doubts": [],
+      "exclusions": [],
+      "source_sha256": "1022ba9cf09462f2fc680693b0806af717ab65260c750962d87f2bf040c375b9",
+      "width": 1465,
+      "height": 1900,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=41",
+      "status": "source-image-initial-read",
+      "role": "table"
+    },
+    {
+      "image": 42,
+      "folio": "三十四",
+      "units": [
+        {
+          "id": "p042-running",
+          "order": -2,
+          "kind": "running",
+          "text": "吳興福音醫院概況"
+        },
+        {
+          "id": "p042-folio",
+          "order": -1,
+          "kind": "folio",
+          "text": "三十四"
+        },
+        {
+          "id": "p042-u001",
+          "order": 37,
+          "kind": "text",
+          "text": "共計收入洋八萬五千零五十二元二角二分"
+        }
+      ],
+      "tables": [
+        {
+          "id": "p042-t01",
+          "order": 29,
+          "title": "",
+          "rows": [
+            [
+              "第六節",
+              "雜費",
+              "一九一一・五九",
+              null
+            ],
+            [
+              "第七節",
+              "監理公會常年費",
+              "六○七八・○六",
+              "補付十七年"
+            ],
+            [
+              "第八節",
+              "浸禮會常年費",
+              "四○○・○○",
+              "補付十七年"
+            ],
+            [
+              "第四項",
+              "捐款",
+              "二四一八・一○",
+              null
+            ],
+            [
+              "第一節",
+              "美國衛司理友誼社",
+              "一五四八・○○",
+              "宗教部用"
+            ],
+            [
+              "第二節",
+              "華人捐款",
+              "五八二・三一",
+              null
+            ],
+            [
+              "第三節",
+              "西人捐款",
+              "二八七・七九",
+              null
+            ],
+            [
+              "第五項",
+              "借項",
+              "四五五一・七六",
+              null
+            ]
+          ],
+          "value_labels": []
+        }
+      ],
+      "doubts": [],
+      "exclusions": [],
+      "source_sha256": "117d85c2c9039469328b954bf714f0f35cad84b03f988bf83fff44e1567fa812",
+      "width": 1429,
+      "height": 1900,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=42",
+      "status": "source-image-initial-read",
+      "role": "table"
+    },
+    {
+      "image": 43,
+      "folio": "三十五",
+      "units": [
+        {
+          "id": "p043-running",
+          "order": -2,
+          "kind": "running",
+          "text": "吳興福音醫院概況"
+        },
+        {
+          "id": "p043-folio",
+          "order": -1,
+          "kind": "folio",
+          "text": "三十五"
+        },
+        {
+          "id": "p043-u001",
+          "order": 39,
+          "kind": "heading",
+          "text": "吳興福音醫院民國十八年支出報告"
+        }
+      ],
+      "tables": [
+        {
+          "id": "p043-t01",
+          "order": 40,
+          "title": "",
+          "rows": [
+            [
+              null,
+              "門類",
+              "銀元",
+              "備考"
+            ],
+            [
+              "第一項",
+              "職工薪給",
+              "二四二七九・六八",
+              null
+            ],
+            [
+              "第一節",
+              "醫師",
+              "八四九一・五○",
+              null
+            ],
+            [
+              "第二節",
+              "護士",
+              "七四六六・二○",
+              null
+            ],
+            [
+              "第三節",
+              "庶務員",
+              "一八四九・六○",
+              null
+            ],
+            [
+              "第四節",
+              "工役",
+              "六四七二・三八",
+              null
+            ],
+            [
+              "第二項",
+              "藥品",
+              "一七七七三・四○",
+              null
+            ],
+            [
+              "第三項",
+              "伙食",
+              "一四八七一・八七",
+              null
+            ],
+            [
+              "第一節",
+              "飯菜",
+              "一三四九五・四六",
+              null
+            ],
+            [
+              "第二節",
+              "柴",
+              "一三七六・四一",
+              null
+            ]
+          ],
+          "value_labels": []
+        }
+      ],
+      "doubts": [],
+      "exclusions": [],
+      "source_sha256": "14365117eff5afb58d28b79c576bbc6dfeb41ae97e74f48ff19eb0dd8cf29881",
+      "width": 1465,
+      "height": 1900,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=43",
+      "status": "source-image-initial-read",
+      "role": "table"
+    },
+    {
+      "image": 44,
+      "folio": "三十六",
+      "units": [
+        {
+          "id": "p044-running",
+          "order": -2,
+          "kind": "running",
+          "text": "吳興福音醫院概況"
+        },
+        {
+          "id": "p044-folio",
+          "order": -1,
+          "kind": "folio",
+          "text": "三十六"
+        }
+      ],
+      "tables": [
+        {
+          "id": "p044-t01",
+          "order": 51,
+          "title": "",
+          "rows": [
+            [
+              "第四項",
+              "書籍",
+              "九○○・七四",
+              null
+            ],
+            [
+              "第一節",
+              "醫書雜誌",
+              "二四六・九五",
+              "圖書室"
+            ],
+            [
+              "第二節",
+              "教科書",
+              "六五三・七九",
+              "護士學校用"
+            ],
+            [
+              "第五項",
+              "煤電",
+              "四二七一・九九",
+              null
+            ],
+            [
+              "第一節",
+              "電費",
+              "二五五○・二九",
+              "愛克司光用電亦在其內"
+            ],
+            [
+              "第二節",
+              "煤",
+              "一七二一・七○",
+              "老虎灶及蒸汽爐用"
+            ],
+            [
+              "第六項",
+              "購置",
+              "四四八二・七四",
+              null
+            ],
+            [
+              "第一節",
+              "布疋",
+              "一二一五・八四",
+              null
+            ],
+            [
+              "第二節",
+              "添置手術器具病床等",
+              "一九○九・八三",
+              null
+            ],
+            [
+              "第三節",
+              "火油肥皂等",
+              "一三五七・○七",
+              null
+            ],
+            [
+              "第七項",
+              "建築修理",
+              "一○二三一・八九",
+              null
+            ]
+          ],
+          "value_labels": []
+        }
+      ],
+      "doubts": [],
+      "exclusions": [],
+      "source_sha256": "b42ceb3ce7aa75adc69117639cf03a8134601a5a08537045fe647de9f6fafc9f",
+      "width": 1429,
+      "height": 1900,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=44",
+      "status": "source-image-initial-read",
+      "role": "table"
+    },
+    {
+      "image": 45,
+      "folio": "三十七",
+      "units": [
+        {
+          "id": "p045-running",
+          "order": -2,
+          "kind": "running",
+          "text": "吳興福音醫院概況"
+        },
+        {
+          "id": "p045-folio",
+          "order": -1,
+          "kind": "folio",
+          "text": "三十七"
+        }
+      ],
+      "tables": [
+        {
+          "id": "p045-t01",
+          "order": 63,
+          "title": "",
+          "rows": [
+            [
+              "第一節",
+              "建造房屋",
+              "六八八四・○七",
+              null
+            ],
+            [
+              "第二節",
+              "修理房屋",
+              "一二○三・一四",
+              null
+            ],
+            [
+              "第三節",
+              "拆城築牆",
+              "一一一五・○○",
+              null
+            ],
+            [
+              "第四節",
+              "草地",
+              "一二九・六八",
+              null
+            ],
+            [
+              "第八項",
+              "雜項",
+              "二一九六・三一",
+              null
+            ],
+            [
+              "第一節",
+              "郵電印刷費",
+              "八六八・五一",
+              null
+            ],
+            [
+              "第二節",
+              "旅費",
+              "五六九・五六",
+              null
+            ],
+            [
+              "第三節",
+              "雜費",
+              "五六五・四七",
+              null
+            ],
+            [
+              "第四節",
+              "汽船",
+              "一六五・八二",
+              "修理"
+            ],
+            [
+              "第五節",
+              "運動費",
+              "二六・九六",
+              null
+            ],
+            [
+              "第九項",
+              "歸還借款",
+              "二三○○・三五",
+              null
+            ]
+          ],
+          "value_labels": []
+        }
+      ],
+      "doubts": [],
+      "exclusions": [],
+      "source_sha256": "09433e2ef5573fe7398f8952e45adc281af48d1f1709a9eb2eae24ae4dde3092",
+      "width": 1465,
+      "height": 1900,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=45",
+      "status": "source-image-initial-read",
+      "role": "table"
+    },
+    {
+      "image": 46,
+      "folio": "三十八",
+      "units": [
+        {
+          "id": "p046-running",
+          "order": -2,
+          "kind": "running",
+          "text": "吳興福音醫院概況"
+        },
+        {
+          "id": "p046-folio",
+          "order": -1,
+          "kind": "folio",
+          "text": "三十八"
+        },
+        {
+          "id": "p046-u001",
+          "order": 76,
+          "kind": "text",
+          "text": "共計支出洋八萬三千三百六十六元二角四分"
+        },
+        {
+          "id": "p046-u002",
+          "order": 77,
+          "kind": "text",
+          "text": "收支相抵淨存洋一千六百八十五元九角八分"
+        },
+        {
+          "id": "p046-u003",
+          "order": 78,
+          "kind": "text",
+          "text": "十七年借款二千六百八十八元零六分"
+        },
+        {
+          "id": "p046-u004",
+          "order": 79,
+          "kind": "text",
+          "text": "償還二千三百元零三角五分"
+        },
+        {
+          "id": "p046-u005",
+          "order": 80,
+          "kind": "text",
+          "text": "倘欠三百八十七元七角一分"
+        },
+        {
+          "id": "p046-u006",
+          "order": 81,
+          "kind": "text",
+          "text": "十八年借款四千五百五十一元七角六分"
+        },
+        {
+          "id": "p046-u007",
+          "order": 82,
+          "kind": "text",
+          "text": "共計借款洋四千九百三十九元九角三分"
+        },
+        {
+          "id": "p046-u008",
+          "order": 83,
+          "kind": "text",
+          "text": "未付賬款五百四十六元三角三分"
+        },
+        {
+          "id": "p046-u009",
+          "order": 84,
+          "kind": "text",
+          "text": "共欠洋五千四百八十六元一角六分"
+        },
+        {
+          "id": "p046-u010",
+          "order": 85,
+          "kind": "text",
+          "text": "除本年度盈餘外"
+        },
+        {
+          "id": "p046-u011",
+          "order": 86,
+          "kind": "text",
+          "text": "倘欠洋三千八百元零一角八分"
+        },
+        {
+          "id": "p046-u012",
+          "order": 87,
+          "kind": "text",
+          "text": "本年施送貧診洋四千二百三十五元九角八分"
+        }
+      ],
+      "tables": [
+        {
+          "id": "p046-t01",
+          "order": 75,
+          "title": "",
+          "rows": [
+            [
+              "第十項",
+              "宗教部",
+              "一○五七・二六",
+              null
+            ]
+          ],
+          "value_labels": []
+        }
+      ],
+      "doubts": [],
+      "exclusions": [],
+      "source_sha256": "70da8f1f105d17924f854d91efdee71bbf5025044ce8f81e08a598882dc0e274",
+      "width": 1429,
+      "height": 1900,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=46",
+      "status": "source-image-initial-read",
+      "role": "table"
+    },
+    {
+      "image": 47,
+      "folio": "三十九",
+      "units": [
+        {
+          "id": "p047-running",
+          "order": -2,
+          "kind": "running",
+          "text": "吳興福音醫院概況"
+        },
+        {
+          "id": "p047-folio",
+          "order": -1,
+          "kind": "folio",
+          "text": "三十九"
+        },
+        {
+          "id": "p047-u001",
+          "order": 89,
+          "kind": "heading",
+          "text": "本院之未來計劃"
+        },
+        {
+          "id": "p047-u002",
+          "order": 90,
+          "kind": "heading",
+          "text": "（一）建築傳染病院"
+        },
+        {
+          "id": "p047-u003",
+          "order": 91,
+          "kind": "text",
+          "text": "民衆昧於傳染病之蔓延不知所謂隔離而社會上亦無相當之設備故每於時疫發現之"
+        },
+        {
+          "id": "p047-u004",
+          "order": 92,
+          "kind": "text",
+          "text": "後宛若火之燎原一發而不可復遏也例如今春之流行性腦膜炎日必數起患者或逾日"
+        },
+        {
+          "id": "p047-u005",
+          "order": 93,
+          "kind": "text",
+          "text": "死或即日死當局者見蔓延之猖獗急死之可危商諸　敝院設立臨時治療所為補牢之計"
+        },
+        {
+          "id": "p047-u006",
+          "order": 94,
+          "kind": "text",
+          "text": "要知傳染病之種類不一而見諸於四時到處潛伏在在堪虞故社會上應有相當之設備"
+        },
+        {
+          "id": "p047-u007",
+          "order": 95,
+          "kind": "text",
+          "text": "以免臨渴掘井之患也　敝院有鑒於斯現正切實設施希望於最短期間內全院告成以應"
+        },
+        {
+          "id": "p047-u008",
+          "order": 96,
+          "kind": "text",
+          "text": "社會之需要也"
+        },
+        {
+          "id": "p047-u009",
+          "order": 97,
+          "kind": "heading",
+          "text": "（二）裝置熱汽管"
+        },
+        {
+          "id": "p047-u010",
+          "order": 98,
+          "kind": "text",
+          "text": "本院之建築雖盡仿歐美式樣但因經濟拮据院內向無熱汽管之設備故每於冬令病室"
+        },
+        {
+          "id": "p047-u011",
+          "order": 99,
+          "kind": "text",
+          "text": "內時感寒氣太深因之於治療上發生許多障礙現擬設法裝置以平均溫度於朔風凜烈"
+        },
+        {
+          "id": "p047-u012",
+          "order": 100,
+          "kind": "text",
+          "text": "之時"
+        },
+        {
+          "id": "p047-u013",
+          "order": 101,
+          "kind": "heading",
+          "text": "（三）建築護士宿舍"
+        },
+        {
+          "id": "p047-u014",
+          "order": 102,
+          "kind": "text",
+          "text": "本院現有護士與護生共計四十七人且因院務之繁重有添招新生之必要而宿舍之仄"
+        }
+      ],
+      "tables": [],
+      "doubts": [],
+      "exclusions": [],
+      "source_sha256": "39dab86eaedb0d3fac433c4fd8ec95703de8973c15e41f978037a815dcfc0ad6",
+      "width": 1465,
+      "height": 1900,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=47",
+      "status": "source-image-initial-read",
+      "role": "text"
+    },
+    {
+      "image": 48,
+      "folio": "四十",
+      "units": [
+        {
+          "id": "p048-running",
+          "order": -2,
+          "kind": "running",
+          "text": "吳興福音醫院概況"
+        },
+        {
+          "id": "p048-folio",
+          "order": -1,
+          "kind": "folio",
+          "text": "四十"
+        },
+        {
+          "id": "p048-u001",
+          "order": 104,
+          "kind": "text",
+          "text": "狹竟無容膝之處故建築護士宿舍又為本院急宜設施者也"
+        },
+        {
+          "id": "p048-u002",
+          "order": 105,
+          "kind": "text",
+          "text": "以上諸端急待興辦現蒙潯地劉邢諸大善士捐助萬金為建築之費然為數倘未過其半"
+        },
+        {
+          "id": "p048-u003",
+          "order": 106,
+          "kind": "text",
+          "text": "也倘望當地慈善家樂善好施慷慨解囊以成其美此乃為本院馨香禱祝者也"
+        }
+      ],
+      "tables": [],
+      "doubts": [],
+      "exclusions": [],
+      "source_sha256": "a7851a184e26760c1192fe5d96ade664c7fcbceeb8072fe88410f5fef3bc59bd",
+      "width": 1429,
+      "height": 1900,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=48",
+      "status": "source-image-initial-read",
+      "role": "text"
+    },
+    {
+      "image": 49,
+      "folio": null,
+      "units": [],
+      "tables": [],
+      "doubts": [],
+      "exclusions": [
+        {
+          "reason": "後人館藏手書，無原刊文字",
+          "status": "excluded-or-pending"
+        }
+      ],
+      "source_sha256": "1e547144957f7e155ce90d7e1775863f2e95afc2ba8b4140e729a5e3ffcbbccc",
+      "width": 1429,
+      "height": 1900,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=49",
+      "status": "source-image-initial-read",
+      "role": "library-mark",
+      "blank": "無原刊正文"
+    }
+  ],
+  "corrections": [
+    "直欄採右至左，欄內由上至下，原印表空用 null，圈形零與數值照錄。",
+    "晚近館藏手書與照片像素另記，書印保留可見圖說；原刊印章與極細圖內字有待辨時保留位置。",
+    "影像 1　{'reading': '龔性願題', 'candidates': ['龔性愿題'], 'reason': '書法末名左半與實印形尚待比對', 'status': 'unresolved', 'frame': 1, 'unit_candidates': ['p001-u003']}",
+    "影像 4　{'reading': '倘付缺如', 'candidates': ['尚付缺如'], 'reason': '原印字形待二讀', 'status': 'unresolved', 'frame': 4, 'unit_candidates': ['p004-u014']}",
+    "影像 13　{'reading': '袁恕巷', 'candidates': ['袁恕巷'], 'reason': '名末字疑，保留待回圖', 'status': 'unresolved', 'frame': 13, 'unit_candidates': ['p013-u005']}",
+    "影像 14　{'reading': '張鋒夫', 'candidates': ['張錚夫'], 'reason': '第二字金旁，右部待由另一頁重核', 'status': 'unresolved', 'frame': 14, 'unit_candidates': ['p014-u011']}",
+    "影像 16　{'reading': '正', 'candidates': ['正'], 'reason': '上方照片視力牌自頂下可見一字似正，其餘圖內字過小', 'status': 'unresolved', 'frame': 16, 'unit_candidates': []}",
+    "影像 18　{'reading': '張鋒夫', 'candidates': ['張錚夫'], 'reason': '金旁字右部待回圖', 'status': 'unresolved', 'frame': 18, 'unit_candidates': []}"
+  ],
+  "year": 1929,
+  "title": "吳興福音醫院概況",
+  "title_en": "Wuxing Fuyin Yiyuan Gaikuang [Overview of Wuxing Gospel Hospital]",
+  "author": "吳興福音醫院",
+  "publisher": "吳興福音醫院",
+  "place": "浙江吳興",
+  "file": "NLC416-08jh014197-37820 吳興福音醫院概況.pdf",
+  "pdf_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf",
+  "keywords": [
+    "醫學史",
+    "吳興",
+    "福音醫院",
+    "院務報告",
+    "護士教育",
+    "醫院統計",
+    "hospital annual reports",
+    "Wuxing",
+    "nursing education",
+    "hospital history"
+  ],
+  "notes_zh": "《吳興福音醫院概況》記述浙江吳興福音醫院 1929 年度的院史、組織章程、董事及職員、護士學校、就診統計、收支和院舍計畫。底本為中國國家圖書館 08jh014197／37820，資料含 49 幅掃描定位與逐格表格。",
+  "notes_en": "A source-linked transcription of the 1929 overview of Wuxing Gospel Hospital, including its organizational rules, personnel and nursing school, statistical reports, financial accounts and proposed buildings.",
+  "year_label": "民國十八年度（1929）",
+  "quality_summary": "全冊 AI 輔助初錄，49 幅對應底本，附表格及圖說。影像 49 為後加館藏手書，另列位置。未定字另記，尚待人工逐字核對。"
+}

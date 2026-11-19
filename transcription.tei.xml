@@ -1,0 +1,2246 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="zh-Hant">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>吳興福音醫院概況</title>
+        <title type="translated">Wuxing Fuyin Yiyuan Gaikuang [Overview of Wuxing Gospel Hospital]</title>
+        <author>吳興福音醫院</author>
+        <respStmt>
+          <resp>數位轉錄整理</resp>
+          <name ref="https://orcid.org/0009-0003-9738-6914">曲宸宇</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>曲宸宇</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/publicdomain/mark/1.0/">原刊公有領域。</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">新撰編輯說明與資料編碼採 CC BY 4.0。</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>吳興福音醫院概況</title>
+          <publisher>吳興福音醫院</publisher>
+          <pubPlace>浙江吳興</pubPlace>
+          <date when="1929">民國十八年度（1929）</date>
+          <idno type="shelfmark">中國國家圖書館 08jh014197／37820</idno>
+          <ref target="https://commons.wikimedia.org/?curid=131010099" />
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1" xml:id="page-1">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=1" />
+    </surface>
+    <surface n="2" xml:id="page-2">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=2" />
+    </surface>
+    <surface n="3" xml:id="page-3">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=3" />
+    </surface>
+    <surface n="4" xml:id="page-4">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=4" />
+    </surface>
+    <surface n="5" xml:id="page-5">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=5" />
+    </surface>
+    <surface n="6" xml:id="page-6">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=6" />
+    </surface>
+    <surface n="7" xml:id="page-7">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=7" />
+    </surface>
+    <surface n="8" xml:id="page-8">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=8" />
+    </surface>
+    <surface n="9" xml:id="page-9">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=9" />
+    </surface>
+    <surface n="10" xml:id="page-10">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=10" />
+    </surface>
+    <surface n="11" xml:id="page-11">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=11" />
+    </surface>
+    <surface n="12" xml:id="page-12">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=12" />
+    </surface>
+    <surface n="13" xml:id="page-13">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=13" />
+    </surface>
+    <surface n="14" xml:id="page-14">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=14" />
+    </surface>
+    <surface n="15" xml:id="page-15">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=15" />
+    </surface>
+    <surface n="16" xml:id="page-16">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=16" />
+    </surface>
+    <surface n="17" xml:id="page-17">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=17" />
+    </surface>
+    <surface n="18" xml:id="page-18">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=18" />
+    </surface>
+    <surface n="19" xml:id="page-19">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=19" />
+    </surface>
+    <surface n="20" xml:id="page-20">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=20" />
+    </surface>
+    <surface n="21" xml:id="page-21">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=21" />
+    </surface>
+    <surface n="22" xml:id="page-22">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=22" />
+    </surface>
+    <surface n="23" xml:id="page-23">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=23" />
+    </surface>
+    <surface n="24" xml:id="page-24">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=24" />
+    </surface>
+    <surface n="25" xml:id="page-25">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=25" />
+    </surface>
+    <surface n="26" xml:id="page-26">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=26" />
+    </surface>
+    <surface n="27" xml:id="page-27">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=27" />
+    </surface>
+    <surface n="28" xml:id="page-28">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=28" />
+    </surface>
+    <surface n="29" xml:id="page-29">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=29" />
+    </surface>
+    <surface n="30" xml:id="page-30">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=30" />
+    </surface>
+    <surface n="31" xml:id="page-31">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=31" />
+    </surface>
+    <surface n="32" xml:id="page-32">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=32" />
+    </surface>
+    <surface n="33" xml:id="page-33">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=33" />
+    </surface>
+    <surface n="34" xml:id="page-34">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=34" />
+    </surface>
+    <surface n="35" xml:id="page-35">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=35" />
+    </surface>
+    <surface n="36" xml:id="page-36">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=36" />
+    </surface>
+    <surface n="37" xml:id="page-37">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=37" />
+    </surface>
+    <surface n="38" xml:id="page-38">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=38" />
+    </surface>
+    <surface n="39" xml:id="page-39">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=39" />
+    </surface>
+    <surface n="40" xml:id="page-40">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=40" />
+    </surface>
+    <surface n="41" xml:id="page-41">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=41" />
+    </surface>
+    <surface n="42" xml:id="page-42">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=42" />
+    </surface>
+    <surface n="43" xml:id="page-43">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=43" />
+    </surface>
+    <surface n="44" xml:id="page-44">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=44" />
+    </surface>
+    <surface n="45" xml:id="page-45">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=45" />
+    </surface>
+    <surface n="46" xml:id="page-46">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=46" />
+    </surface>
+    <surface n="47" xml:id="page-47">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=47" />
+    </surface>
+    <surface n="48" xml:id="page-48">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=48" />
+    </surface>
+    <surface n="49" xml:id="page-49">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=49" />
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div type="historical-transcription">
+        <pb n="1" facs="#page-1" />
+        <ab type="heading" n="p001-u001">民國十八年度</ab>
+        <ab type="heading" n="p001-u002">吳興福音醫院概況</ab>
+        <ab type="text" n="p001-u003">龔性願題</ab>
+        <pb n="2" facs="#page-2" />
+        <ab type="heading" n="p002-u001">吳興福音醫院概況目錄</ab>
+        <ab type="heading" n="p002-u002">目錄</ab>
+        <ab type="text" n="p002-u003">一　插圖</ab>
+        <ab type="text" n="p002-u004">二　沿革</ab>
+        <ab type="text" n="p002-u005">三　組織大綱</ab>
+        <ab type="text" n="p002-u006">四　董事會及職員一覽表</ab>
+        <ab type="text" n="p002-u007">五　護士學校簡章</ab>
+        <ab type="text" n="p002-u008">六　住院病人統計</ab>
+        <ab type="text" n="p002-u009">七　各科病人出院統計</ab>
+        <ab type="text" n="p002-u010">八　麻藥統計</ab>
+        <ab type="text" n="p002-u011">九　門診病人統計</ab>
+        <ab type="text" n="p002-u012">十　住院外科手術統計</ab>
+        <ab type="text" n="p002-u013">十一　眼耳喉鼻牙科割症統計</ab>
+        <ab type="text" n="p002-u014">十二　收入報告</ab>
+        <ab type="text" n="p002-u015">十三　支出報告</ab>
+        <ab type="text" n="p002-u016">十四　本院之未來計劃</ab>
+        <pb n="3" facs="#page-3" />
+        <ab type="caption" n="p003-u001">吳興福音醫院</ab>
+        <pb n="4" facs="#page-4" />
+        <fw type="running" n="p004-running">吳興福音醫院概況</fw>
+        <fw type="folio" n="p004-folio">一</fw>
+        <ab type="heading" n="p004-u001">吳興福音醫院沿革</ab>
+        <ab type="text" n="p004-u002">辛亥春監理公會委僕來華懸壺吳興適值是年民軍起義各地響應僕遂協助地方士紳</ab>
+        <ab type="text" n="p004-u003">救護傷兵以盡天職翌年由美差會募集款項若干始於城北天甯巷租賃民屋一所可容</ab>
+        <ab type="text" n="p004-u004">病者三十有餘又收實習生數人襄理院務定名湖郡醫院次歲聘請沈階平醫師張倚義</ab>
+        <ab type="text" n="p004-u005">先生來院臂助而就醫者亦日見增加年約萬餘於是院務之進行始有可觀至民國四年</ab>
+        <ab type="text" n="p004-u006">浸禮會亦有鑒於當地醫務之急需遂於是年秋訂約合作復委該會勵濟生醫師孟丁護</ab>
+        <ab type="text" n="p004-u007">士監理公會亦委倪爾生醫師共同加入工作旋將院所遷至馬軍巷增加牀位六十定名</ab>
+        <ab type="text" n="p004-u008">吳興福音醫院自後復感屋宇仄狹不適應用遂向洛氏基金社及本國慈善家捐助鉅款</ab>
+        <ab type="text" n="p004-u009">籌建新院奈因歐戰影響金融事暫作罷至民國十一年始行奠基鳩工建築當時承蒙本</ab>
+        <ab type="text" n="p004-u010">地慈善家慨助泰安公司所購得舊烏程倉基以資應用僕又集資購買毗連空地二十餘</ab>
+        <ab type="text" n="p004-u011">畝用作職員等宿舍於民國十三年夏全院落成式樣魁偉病室分頭一二三等可容病人</ab>
+        <ab type="text" n="p004-u012">一百二十有餘內設手術室試驗室愛克司光室門診室辦公室圖書室及藥房等本院又</ab>
+        <ab type="text" n="p004-u013">為病家謀幸福起見聘請專家分科應診計有醫師五人助產士二人至於愛克司光及試</ab>
+        <ab type="text" n="p004-u014">驗等部亦有相當人才主持其事也本院現雖稍具規模但對於傳染病之設備倘付缺如</ab>
+        <ab type="text" n="p004-u015">故擬另建病院為隔離之用現蒙潯地劉邢諸大善士慨助款項為建設之費一俟集有成</ab>
+        <pb n="5" facs="#page-5" />
+        <fw type="running" n="p005-running">吳興福音醫院概況</fw>
+        <fw type="folio" n="p005-folio">二</fw>
+        <ab type="text" n="p005-u001">數就可興工建築</ab>
+        <ab type="text" n="p005-u002">院務日漸發展而看護人才異常缺乏故於民國七年設立護士學校一所為造就高等護</ab>
+        <ab type="text" n="p005-u003">士為宗旨自開辦以來護生之卒業者共計男女三十三人而西護士之前後加入者有霍</ab>
+        <ab type="text" n="p005-u004">買羅諸女士當開辦之時護生男女兼收但自本學年起只收女生因其秉性天知可造就</ab>
+        <ab type="text" n="p005-u005">應用人才也該校現設三級計有護生三十有餘</ab>
+        <ab type="text" n="p005-u006">於民國十七年浸禮會因事脫離關係而勵霍諸輩亦相繼辭職因之年來院務之進行悉</ab>
+        <ab type="text" n="p005-u007">由監理公會及本院董事會共同負責也</ab>
+        <ab type="text" n="p005-u008">本院地近杭長公路交通便利將來之來院問津者勢必較多於前所以現今本院之責任</ab>
+        <ab type="text" n="p005-u009">更形重且大也倘望地方諸哲加以指導厚以匡助非僅本院之幸亦即社會之幸也</ab>
+        <ab type="text" n="p005-u010">院長孟傑識</ab>
+        <pb n="6" facs="#page-6" />
+        <ab type="caption" n="p006-u001">門診室</ab>
+        <pb n="7" facs="#page-7" />
+        <fw type="running" n="p007-running">吳興福音醫院概況</fw>
+        <fw type="folio" n="p007-folio">三</fw>
+        <ab type="heading" n="p007-u001">吳興福音醫院組織大綱</ab>
+        <ab type="heading" n="p007-u002">第一章　定名</ab>
+        <ab type="text" n="p007-u003">吳興福音醫院</ab>
+        <ab type="heading" n="p007-u004">第二章　宗旨</ab>
+        <ab type="text" n="p007-u005">本院抱基督博愛之精神以科學化之醫術貢獻於民衆為宗旨</ab>
+        <ab type="heading" n="p007-u006">第三章　董事會</ab>
+        <ab type="text" n="p007-u007">一本院設董事九人其產生法如左</ab>
+        <ab type="text" n="p007-u008">甲監理會中委醫務股推薦醫師或護士四人由該會選舉三人以充之</ab>
+        <ab type="text" n="p007-u009">乙本教區推薦牧師或教士六人由監理會年議會選舉三人以充之</ab>
+        <ab type="text" n="p007-u010">丙董事會指定當地公共團體選派三人以充之</ab>
+        <ab type="text" n="p007-u011">丁以上三團體各選候補董事一人</ab>
+        <ab type="text" n="p007-u012">二任期三年或俟繼任者選出之後方可解職</ab>
+        <ab type="text" n="p007-u013">三第一任各團體選出之董事其任期均各分三年二年一年為三種嗣後各團體各補選</ab>
+        <ab type="text" n="p007-u014">一人任期均各三年</ab>
+        <ab type="text" n="p007-u015">四院中職員醫師護士不得被選為本院之董事</ab>
+        <pb n="8" facs="#page-8" />
+        <fw type="running" n="p008-running">吳興福音醫院概況</fw>
+        <fw type="folio" n="p008-folio">四</fw>
+        <ab type="text" n="p008-u001">五職員</ab>
+        <ab type="text" n="p008-u002">主席一人</ab>
+        <ab type="text" n="p008-u003">書記</ab>
+        <ab type="text" n="p008-u004">中一</ab>
+        <ab type="text" n="p008-u005">西一</ab>
+        <ab type="text" n="p008-u006">附註任期一年由董事中互相推選之</ab>
+        <ab type="text" n="p008-u007">六職權</ab>
+        <ab type="text" n="p008-u008">甲依據中委所定之綱要議決本院行政事宜</ab>
+        <ab type="text" n="p008-u009">乙依據中委所定之綱要保管本院財產事宜</ab>
+        <ab type="text" n="p008-u010">丙依據中委所定之綱要監督本院建設事宜</ab>
+        <ab type="text" n="p008-u011">丁每年選派院長一人副院長一人院務執行委員若干人主任護士一人會計或庶務</ab>
+        <ab type="text" n="p008-u012">主任一人</ab>
+        <ab type="text" n="p008-u013">戊董事會可審察本院之需要以定去留或添聘友邦醫師或護士等</ab>
+        <ab type="text" n="p008-u014">己董事會每年推舉一人與中委會代表共同檢查本院賬目</ab>
+        <ab type="text" n="p008-u015">七集會</ab>
+        <ab type="text" n="p008-u016">甲每年開會一次</ab>
+        <ab type="text" n="p008-u017">乙於必要時經董事三人之書面要求先由書記於兩星期前通知各董事召集臨時會</ab>
+        <ab type="text" n="p008-u018">議</ab>
+        <pb n="9" facs="#page-9" />
+        <fw type="running" n="p009-running">吳興福音醫院概況</fw>
+        <fw type="folio" n="p009-folio">五</fw>
+        <ab type="text" n="p009-u001">丙集會時六人為法定人數</ab>
+        <ab type="text" n="p009-u002">丁各項議案須有五人之同意始得成立</ab>
+        <ab type="text" n="p009-u003">戊如遇緊要事宜可用通信表決但須有七人之同意方生效力</ab>
+        <ab type="heading" n="p009-u004">第四章　院長之職權</ab>
+        <ab type="text" n="p009-u005">一承董事會之委托負責處理該部議決事項</ab>
+        <ab type="text" n="p009-u006">二負監察本院各部工作之責併指導各部主任及職員等和衷共濟盡力擴充院務</ab>
+        <ab type="text" n="p009-u007">三院長可隨時聘請或解職各職員但須呈請董事會核准後方可施行在呈請之前須</ab>
+        <ab type="text" n="p009-u008">得執行委員會之同意職員中由監理會會督委任者不在此例</ab>
+        <ab type="text" n="p009-u009">四院長有規定各職員薪水之權</ab>
+        <ab type="text" n="p009-u010">五年終須將各部工作詳細報告董事會</ab>
+        <ab type="heading" n="p009-u011">第五章　院務執行委員會</ab>
+        <ab type="text" n="p009-u012">一委員六人</ab>
+        <ab type="text" n="p009-u013">二委員產生法</ab>
+        <ab type="text" n="p009-u014">甲院長為當然委員並為該會之主席</ab>
+        <ab type="text" n="p009-u015">乙由院中各職員投票選舉選出後再由院長呈請董事會加委</ab>
+        <ab type="text" n="p009-u016">附註每年選舉一次</ab>
+        <pb n="10" facs="#page-10" />
+        <fw type="running" n="p010-running">吳興福音醫院概況</fw>
+        <fw type="folio" n="p010-folio">六</fw>
+        <ab type="text" n="p010-u001">三職員</ab>
+        <ab type="text" n="p010-u002">主席一人</ab>
+        <ab type="text" n="p010-u003">書記一人</ab>
+        <ab type="text" n="p010-u004">四會期　每月開常會一次於必要時主席可臨時召集之</ab>
+        <ab type="text" n="p010-u005">五職權</ab>
+        <ab type="text" n="p010-u006">甲規定院內應行之條例</ab>
+        <ab type="text" n="p010-u007">乙助理院長一切行政上事宜</ab>
+        <ab type="heading" n="p010-u008">第七章　會計或兼庶務主任</ab>
+        <ab type="text" n="p010-u009">一保管本院銀錢賬目等項如支付款項須先呈請院長核准方可施行</ab>
+        <ab type="text" n="p010-u010">二處理一切購置及督率其他雜務</ab>
+        <ab type="heading" n="p010-u011">第八章　宣教</ab>
+        <ab type="text" n="p010-u012">一本院設男女宣教師各一</ab>
+        <ab type="text" n="p010-u013">二院務執行委員會共同負責進行之</ab>
+        <ab type="heading" n="p010-u014">第九章　附則</ab>
+        <ab type="text" n="p010-u015">一董事會准予推舉名譽董事三至五人其職權如左</ab>
+        <ab type="text" n="p010-u016">甲開會時可出席討論院務</ab>
+        <pb n="11" facs="#page-11" />
+        <ab type="caption" n="p011-u001">三等病室</ab>
+        <pb n="12" facs="#page-12" />
+        <fw type="running" n="p012-running">吳興福音醫院概況</fw>
+        <fw type="folio" n="p012-folio">七</fw>
+        <ab type="text" n="p012-u001">乙無選舉權</ab>
+        <ab type="text" n="p012-u002">二本院專任醫師或護士於院內或院外不准私向病家領取職務上之酬勞費并不准在</ab>
+        <ab type="text" n="p012-u003">外行醫</ab>
+        <ab type="text" n="p012-u004">三院外正式醫師允予介紹病家來院而歸其療治</ab>
+        <ab type="text" n="p012-u005">四本大綱如有修改之處須經董事會之改訂中委會之合准方可施行</ab>
+        <pb n="13" facs="#page-13" />
+        <fw type="running" n="p013-running">吳興福音醫院概況</fw>
+        <fw type="folio" n="p013-folio">八</fw>
+        <ab type="heading" n="p013-u001">吳興福音醫院董事及職員一覽表</ab>
+        <ab type="heading" n="p013-u002">董事</ab>
+        <ab type="text" n="p013-u003">王安甲</ab>
+        <ab type="text" n="p013-u004">溫選臣</ab>
+        <ab type="text" n="p013-u005">袁恕巷</ab>
+        <ab type="text" n="p013-u006">蘇邁爾</ab>
+        <ab type="text" n="p013-u007">魏師德</ab>
+        <ab type="text" n="p013-u008">許玉農</ab>
+        <ab type="text" n="p013-u009">王竹亭</ab>
+        <ab type="text" n="p013-u010">趙湘泉</ab>
+        <ab type="text" n="p013-u011">項烈</ab>
+        <ab type="heading" n="p013-u012">院長</ab>
+        <ab type="text" n="p013-u013">孟傑</ab>
+        <ab type="heading" n="p013-u014">醫務部</ab>
+        <table n="p013-t01">
+          <row>
+            <cell>內科</cell>
+            <cell>孟傑</cell>
+            <cell>姚克方</cell>
+          </row>
+          <row>
+            <cell>外科</cell>
+            <cell>潘德生</cell>
+            <cell>湯銘新</cell>
+          </row>
+          <row>
+            <cell>耳鼻咽喉眼科</cell>
+            <cell>陳世彬</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>產科</cell>
+            <cell>羅美春</cell>
+            <cell>張吳秀英</cell>
+          </row>
+        </table>
+        <pb n="14" facs="#page-14" />
+        <fw type="running" n="p014-running">吳興福音醫院概況</fw>
+        <fw type="folio" n="p014-folio">九</fw>
+        <ab type="heading" n="p014-u001">見習醫師</ab>
+        <ab type="text" n="p014-u002">任永言　朱仲清</ab>
+        <ab type="heading" n="p014-u003">病理試驗部技士</ab>
+        <ab type="text" n="p014-u004">裘傳賢　姜寶善</ab>
+        <ab type="heading" n="p014-u005">愛克司光技士</ab>
+        <ab type="text" n="p014-u006">李乃英</ab>
+        <ab type="heading" n="p014-u007">護士</ab>
+        <ab type="text" n="p014-u008">護士長　羅美春</ab>
+        <ab type="text" n="p014-u009">副護士長　陳樹漢</ab>
+        <table n="p014-t01">
+          <row>
+            <cell>護士</cell>
+            <cell>陳抱恕</cell>
+            <cell>沈子卿</cell>
+            <cell>許藻恩</cell>
+            <cell>趙天清</cell>
+            <cell>董志剛</cell>
+          </row>
+          <row>
+            <cell />
+            <cell>喻炳嘉</cell>
+            <cell>黃伯涵</cell>
+            <cell>翟枕流</cell>
+            <cell>張秀英</cell>
+            <cell>邵世娟</cell>
+          </row>
+          <row>
+            <cell />
+            <cell>楊正梅</cell>
+            <cell>錢萬娟</cell>
+            <cell>徐育珍</cell>
+            <cell>石珠瑞</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p014-u010">宗教</ab>
+        <ab type="text" n="p014-u011">姚克方　張鋒夫　趙宗福　楊馬柳生</ab>
+        <ab type="heading" n="p014-u012">庶務員</ab>
+        <ab type="text" n="p014-u013">徐元蘊　章事三　湯沈瑞賢　張茂清</ab>
+        <ab type="heading" n="p014-u014">藥房（藥劑師）</ab>
+        <ab type="text" n="p014-u015">凌錫平</ab>
+        <pb n="15" facs="#page-15" />
+        <fw type="running" n="p015-running">吳興福音醫院概況</fw>
+        <fw type="folio" n="p015-folio">十</fw>
+        <ab type="heading" n="p015-u001">吳興福音醫院護士學校簡章</ab>
+        <ab type="text" n="p015-u002">定名　吳興福音醫院護士學校</ab>
+        <ab type="text" n="p015-u003">宗旨　本校以造就德學兼優之護士專以侍候呻吟慘痛之病家為宗旨</ab>
+        <ab type="text" n="p015-u004">資格　一女子年在十八歲以上</ab>
+        <ab type="text" n="p015-u005">二初中二年以上或有相等程度者</ab>
+        <ab type="text" n="p015-u006">入學攷試　中文算學及體格檢驗</ab>
+        <ab type="text" n="p015-u007">繳費　入學時須繳洋三十元以充書籍等費學膳費免收</ab>
+        <ab type="text" n="p015-u008">學年　三年</ab>
+        <ab type="text" n="p015-u009">畢業　凡學生完畢三年課程之後須經中華護士會之考試合格後方准給予畢業</ab>
+        <ab type="text" n="p015-u010">文憑并同時給授中華護士會執照</ab>
+        <ab type="text" n="p015-u011">津貼　第一年一元第二年二元五角第三年三元</ab>
+        <ab type="text" n="p015-u012">假期　每年例假三星期請假凡學生因事回家須有家族或保證人來信經本校認</ab>
+        <ab type="text" n="p015-u013">可後方准出校</ab>
+        <ab type="text" n="p015-u014">退學　如有品行不端怠忽職務學業無上進者本校可隨時令其退學</ab>
+        <ab type="text" n="p015-u015">應用物品　自來水筆一枝　有秒針手表一只　洗衣袋一只</ab>
+        <pb n="16" facs="#page-16" />
+        <ab type="caption" n="p016-u001">門診眼科室</ab>
+        <ab type="caption" n="p016-u002">產科室</ab>
+        <pb n="17" facs="#page-17" />
+        <fw type="running" n="p017-running">吳興福音醫院概況</fw>
+        <fw type="folio" n="p017-folio">十一</fw>
+        <ab type="text" n="p017-u001">藍布外衣二件　白被單二條　枕套二只</ab>
+        <ab type="heading" n="p017-u002">課程</ab>
+        <ab type="heading" n="p017-u003">第一年</ab>
+        <table n="p017-t01">
+          <row>
+            <cell>解剖學與生理學</cell>
+            <cell>微菌學</cell>
+            <cell>衛生學</cell>
+          </row>
+          <row>
+            <cell>應用化學</cell>
+            <cell>飲食學</cell>
+            <cell>藥科學</cell>
+          </row>
+          <row>
+            <cell>護士倫理學</cell>
+            <cell>初級護病學</cell>
+            <cell>繃帶學</cell>
+          </row>
+          <row>
+            <cell>英文</cell>
+            <cell>算學</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p017-t02">
+          <row>
+            <cell>第二年</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>解剖學與生理學</cell>
+            <cell>傳染症護病學</cell>
+            <cell>病人飲食</cell>
+          </row>
+          <row>
+            <cell>外科護病學</cell>
+            <cell>產科護病學</cell>
+            <cell>婦科護病學</cell>
+          </row>
+          <row>
+            <cell>眼耳鼻喉科護病學</cell>
+            <cell>急救療術</cell>
+            <cell>藥科學</cell>
+          </row>
+        </table>
+        <table n="p017-t03">
+          <row>
+            <cell>第三年</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>內科護病學</cell>
+            <cell>兒科護病學</cell>
+            <cell>花柳病學</cell>
+          </row>
+          <row>
+            <cell>皮膚病學</cell>
+            <cell>揉捏法</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p017-u004">本校教職員例下</ab>
+        <ab type="text" n="p017-u005">羅美春護士　陳世彬醫師　湯銘新醫師</ab>
+        <pb n="18" facs="#page-18" />
+        <fw type="running" n="p018-running">吳興福音醫院概況</fw>
+        <fw type="folio" n="p018-folio">十二</fw>
+        <table n="p018-t01">
+          <row>
+            <cell>姚克方醫師</cell>
+            <cell>朱仲清醫師</cell>
+            <cell>任言永醫師</cell>
+          </row>
+          <row>
+            <cell>趙宗福牧師</cell>
+            <cell>張鋒夫牧師</cell>
+            <cell>凌錫平藥師</cell>
+          </row>
+          <row>
+            <cell>裘傳賢先生</cell>
+            <cell>李乃英先生</cell>
+            <cell>章事三先生</cell>
+          </row>
+          <row>
+            <cell>孟傑夫人</cell>
+            <cell>翟枕流護士</cell>
+            <cell>張秀英護士</cell>
+          </row>
+          <row>
+            <cell>沈子卿護士</cell>
+            <cell>陳寶書護士</cell>
+            <cell>許藻恩護士</cell>
+          </row>
+          <row>
+            <cell>邵世娟護士</cell>
+            <cell>楊正梅護士</cell>
+            <cell>錢萬娟護士</cell>
+          </row>
+          <row>
+            <cell>趙天清護士</cell>
+            <cell>董志剛護士</cell>
+            <cell>喻炳家護士</cell>
+          </row>
+          <row>
+            <cell>陳志瑞護士</cell>
+            <cell />
+            <cell />
+          </row>
+        </table>
+        <pb n="19" facs="#page-19" />
+        <fw type="running" n="p019-running">吳興福音醫院概況</fw>
+        <fw type="folio" n="p019-folio">十三</fw>
+        <ab type="heading" n="p019-u001">民國十八年住院病人統計</ab>
+        <table n="p019-t01">
+          <row>
+            <cell />
+            <cell>男性</cell>
+            <cell>女性</cell>
+            <cell>總計</cell>
+          </row>
+          <row>
+            <cell>去年終留院人數</cell>
+            <cell>三五</cell>
+            <cell>一九</cell>
+            <cell>五四</cell>
+          </row>
+          <row>
+            <cell>本年入院人數</cell>
+            <cell>一八九四</cell>
+            <cell>七○一</cell>
+            <cell>二五九五</cell>
+          </row>
+          <row>
+            <cell>本年出院人數</cell>
+            <cell>一八九三</cell>
+            <cell>七一二</cell>
+            <cell>二六○五</cell>
+          </row>
+          <row>
+            <cell>本年終留院人數</cell>
+            <cell>三六</cell>
+            <cell>七</cell>
+            <cell>四四</cell>
+          </row>
+          <row>
+            <cell>本年度住院總數</cell>
+            <cell>一九二九</cell>
+            <cell>七二○</cell>
+            <cell>二六四九</cell>
+          </row>
+        </table>
+        <pb n="20" facs="#page-20" />
+        <fw type="running" n="p020-running">吳興福音醫院概況</fw>
+        <fw type="folio" n="p020-folio">十四</fw>
+        <ab type="heading" n="p020-u001">民國十八年各科病人出院統計</ab>
+        <table n="p020-t01">
+          <row>
+            <cell>科別</cell>
+            <cell>已愈</cell>
+            <cell>稍愈</cell>
+            <cell>未愈</cell>
+            <cell>未治</cell>
+            <cell>死亡</cell>
+            <cell>總計</cell>
+            <cell>住院日期平均</cell>
+          </row>
+          <row>
+            <cell>內科</cell>
+            <cell>一八五</cell>
+            <cell>八一六</cell>
+            <cell>一七一</cell>
+            <cell>五四</cell>
+            <cell>七五</cell>
+            <cell>一三○一</cell>
+            <cell>八・六</cell>
+          </row>
+          <row>
+            <cell>外科</cell>
+            <cell>二○二</cell>
+            <cell>四七一</cell>
+            <cell>五七</cell>
+            <cell>五七</cell>
+            <cell>二三</cell>
+            <cell>八一○</cell>
+            <cell>十四・</cell>
+          </row>
+          <row>
+            <cell>耳眼牙鼻喉科</cell>
+            <cell>一三二</cell>
+            <cell>一九一</cell>
+            <cell>二二</cell>
+            <cell>一三</cell>
+            <cell>○</cell>
+            <cell>三五七</cell>
+            <cell>七・六</cell>
+          </row>
+          <row>
+            <cell>產科</cell>
+            <cell>五八</cell>
+            <cell>九</cell>
+            <cell>一</cell>
+            <cell>六</cell>
+            <cell>三</cell>
+            <cell>七七</cell>
+            <cell>十三・七</cell>
+          </row>
+          <row>
+            <cell>嬰孩</cell>
+            <cell>五六</cell>
+            <cell>○</cell>
+            <cell>一</cell>
+            <cell>○</cell>
+            <cell>三</cell>
+            <cell>六○</cell>
+            <cell>九・四</cell>
+          </row>
+          <row>
+            <cell />
+            <cell>六三三</cell>
+            <cell>一四八七</cell>
+            <cell>二五一</cell>
+            <cell>一四○</cell>
+            <cell>一○四</cell>
+            <cell>二六○五</cell>
+            <cell>十・五</cell>
+          </row>
+        </table>
+        <pb n="21" facs="#page-21" />
+        <fw type="running" n="p021-running">吳興福音醫院概況</fw>
+        <fw type="folio" n="p021-folio">十五</fw>
+        <ab type="heading" n="p021-u001">民國十八年麻藥統計</ab>
+        <table n="p021-t01">
+          <row>
+            <cell>麻醉類別</cell>
+            <cell>住院病人</cell>
+            <cell>門診病人</cell>
+          </row>
+          <row>
+            <cell>全身麻醉</cell>
+            <cell>一三一</cell>
+            <cell>一○</cell>
+          </row>
+          <row>
+            <cell>局部麻醉</cell>
+            <cell>二三一</cell>
+            <cell>二五八</cell>
+          </row>
+          <row>
+            <cell>混合麻醉</cell>
+            <cell>七</cell>
+            <cell>○</cell>
+          </row>
+          <row>
+            <cell>未施麻醉</cell>
+            <cell>五○</cell>
+            <cell>二八</cell>
+          </row>
+          <row>
+            <cell>總計</cell>
+            <cell>六一九</cell>
+            <cell>三三</cell>
+          </row>
+        </table>
+        <pb n="22" facs="#page-22" />
+        <fw type="running" n="p022-running">吳興福音醫院概況</fw>
+        <fw type="folio" n="p022-folio">十六</fw>
+        <ab type="heading" n="p022-u001">民國十八年門診病人統計</ab>
+        <table n="p022-t01">
+          <row>
+            <cell>初診</cell>
+            <cell>六九三一</cell>
+          </row>
+          <row>
+            <cell>覆診</cell>
+            <cell>六五三九</cell>
+          </row>
+          <row>
+            <cell>男性</cell>
+            <cell>九四三三</cell>
+          </row>
+          <row>
+            <cell>女性</cell>
+            <cell>四○三七</cell>
+          </row>
+          <row>
+            <cell>內科</cell>
+            <cell>五一六九</cell>
+          </row>
+          <row>
+            <cell>外科</cell>
+            <cell>五四四四</cell>
+          </row>
+          <row>
+            <cell>眼耳鼻牙喉科</cell>
+            <cell>二七一五</cell>
+          </row>
+          <row>
+            <cell>產科</cell>
+            <cell>一三一一</cell>
+          </row>
+          <row>
+            <cell>出診</cell>
+            <cell>三一一</cell>
+          </row>
+        </table>
+        <pb n="23" facs="#page-23" />
+        <ab type="caption" n="p023-u001">細菌學室</ab>
+        <ab type="caption" n="p023-u002">普通試驗室</ab>
+        <pb n="24" facs="#page-24" />
+        <fw type="running" n="p024-running">吳興福音醫院概況</fw>
+        <fw type="folio" n="p024-folio">十七</fw>
+        <table n="p024-t01">
+          <row>
+            <cell>總計</cell>
+            <cell>一三七八二</cell>
+          </row>
+          <row>
+            <cell>每日門診平均人數</cell>
+            <cell>四三</cell>
+          </row>
+        </table>
+        <pb n="25" facs="#page-25" />
+        <fw type="running" n="p025-running">吳興福音醫院概況</fw>
+        <fw type="folio" n="p025-folio">十八</fw>
+        <ab type="heading" n="p025-u001">民國十八年住院外科手術統計</ab>
+        <table n="p025-t01">
+          <row>
+            <cell>手術類別</cell>
+            <cell>局部麻醉</cell>
+            <cell>全身麻醉</cell>
+            <cell>混合麻醉</cell>
+            <cell>未施麻醉</cell>
+          </row>
+          <row>
+            <cell>口頰壞死火烙術</cell>
+            <cell />
+            <cell>一</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>裂脣修補術</cell>
+            <cell>三</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>胃腸連成口術</cell>
+            <cell />
+            <cell />
+            <cell>一</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>小腸切除術（一部）</cell>
+            <cell>一</cell>
+            <cell>一</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>小腸連成口術</cell>
+            <cell />
+            <cell>一</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>小腸成口術</cell>
+            <cell />
+            <cell>一</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>小結腸切除術（一部）</cell>
+            <cell />
+            <cell />
+            <cell>一</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>小結腸連成口術</cell>
+            <cell />
+            <cell>一</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>盲腸切除術</cell>
+            <cell />
+            <cell />
+            <cell>一</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="26" facs="#page-26" />
+        <fw type="running" n="p026-running">吳興福音醫院概況</fw>
+        <fw type="folio" n="p026-folio">十九</fw>
+        <table n="p026-t01">
+          <row>
+            <cell>結腸切開術</cell>
+            <cell>一</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>直腸縫合術</cell>
+            <cell />
+            <cell>一</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>絞窄性腹股溝赫尼亞修補術</cell>
+            <cell>一</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>腹股溝赫尼亞修補術</cell>
+            <cell>三</cell>
+            <cell>二</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>肛門瘻割除術</cell>
+            <cell>四</cell>
+            <cell>一九</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>肛門蒂肉割除術</cell>
+            <cell>一</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>闌尾切除術</cell>
+            <cell>三</cell>
+            <cell>五</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>闌尾切除與引流術</cell>
+            <cell>一</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>闌尾膿腫引流術</cell>
+            <cell />
+            <cell>二</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>膽囊切除術</cell>
+            <cell>一</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>膽管引流術</cell>
+            <cell>一</cell>
+            <cell />
+            <cell>一</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="27" facs="#page-27" />
+        <fw type="running" n="p027-running">吳興福音醫院概況</fw>
+        <fw type="folio" n="p027-folio">二十</fw>
+        <table n="p027-t01">
+          <row>
+            <cell>尿道癰割除術</cell>
+            <cell />
+            <cell>一</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>尿道下裂修補術</cell>
+            <cell />
+            <cell>一</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>尿道狹窄切除術</cell>
+            <cell>一</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>尿道修補術</cell>
+            <cell>一</cell>
+            <cell>一</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>尿道切開術</cell>
+            <cell>三</cell>
+            <cell>一</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>陰莖乳頭狀瘤割除術</cell>
+            <cell>一</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>陰莖截斷術（一部）</cell>
+            <cell>一</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>陰莖截斷術（全部）火烙</cell>
+            <cell>三</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>包皮環切除術</cell>
+            <cell>二四</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>膀胱陰道瘻修補術</cell>
+            <cell>三</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>膀胱切開術</cell>
+            <cell>二</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+        </table>
+        <pb n="28" facs="#page-28" />
+        <fw type="running" n="p028-running">吳興福音醫院概況</fw>
+        <fw type="folio" n="p028-folio">二十一</fw>
+        <table n="p028-t01">
+          <row>
+            <cell>膀胱切開與膀光石取去術</cell>
+            <cell>六</cell>
+            <cell>二</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>睪丸切除術</cell>
+            <cell>二</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>子宮流血填塞術</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell>一</cell>
+          </row>
+          <row>
+            <cell>子宮擴張及刮術</cell>
+            <cell />
+            <cell>七</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>小產子宮刮術</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell>一</cell>
+          </row>
+          <row>
+            <cell>卵巢管切除術</cell>
+            <cell />
+            <cell>一</cell>
+            <cell>一</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>卵巢袋瘤切除術</cell>
+            <cell>四</cell>
+            <cell />
+            <cell>一</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>處女膜切口術</cell>
+            <cell />
+            <cell>一</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>女陰血腫切除術</cell>
+            <cell />
+            <cell />
+            <cell>一</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>會陰修補術</cell>
+            <cell />
+            <cell>一</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>會陰縫合術</cell>
+            <cell />
+            <cell>一</cell>
+            <cell />
+            <cell />
+          </row>
+        </table>
+        <pb n="29" facs="#page-29" />
+        <fw type="running" n="p029-running">吳興福音醫院概況</fw>
+        <fw type="folio" n="p029-folio">二十二</fw>
+        <table n="p029-t01">
+          <row>
+            <cell>肱動脈縛纏術</cell>
+            <cell>一</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>痔靜脈縛纏及切除術</cell>
+            <cell />
+            <cell>一七</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>腋淋巴腺切除術</cell>
+            <cell />
+            <cell>一</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>股淋巴線切除術</cell>
+            <cell />
+            <cell>一</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>腹股溝淋巴線切除術</cell>
+            <cell />
+            <cell>一</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>鎖骨死骨片切除術</cell>
+            <cell />
+            <cell>一</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>股骨死骨片切除術</cell>
+            <cell>三</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>頷骨死骨片切除術</cell>
+            <cell>一</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>脛骨死骨片切除術</cell>
+            <cell>一</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>腳骨死骨片切除術</cell>
+            <cell>二</cell>
+            <cell />
+            <cell>一</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>踝節骨死骨片切除術</cell>
+            <cell />
+            <cell>一</cell>
+            <cell />
+            <cell />
+          </row>
+        </table>
+        <pb n="30" facs="#page-30" />
+        <fw type="running" n="p030-running">吳興福音醫院概況</fw>
+        <fw type="folio" n="p030-folio">二十三</fw>
+        <table n="p030-t01">
+          <row>
+            <cell>臂上部截斷術</cell>
+            <cell>一</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>手指截斷術</cell>
+            <cell>五</cell>
+            <cell>一</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>大腿下部截斷術</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>小腿下部截斷術</cell>
+            <cell>一</cell>
+            <cell>一</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>小腿上部截斷術</cell>
+            <cell />
+            <cell>三</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>足指截斷術</cell>
+            <cell />
+            <cell>一</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>折骨復位與切開術</cell>
+            <cell>二</cell>
+            <cell>一</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>折骨復位術</cell>
+            <cell />
+            <cell>二</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>節脫位復位與切開術</cell>
+            <cell>一</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>關節切開術</cell>
+            <cell>二</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>肘切開術</cell>
+            <cell>一</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+        </table>
+        <pb n="31" facs="#page-31" />
+        <fw type="running" n="p031-running">吳興福音醫院概況</fw>
+        <fw type="folio" n="p031-folio">二十四</fw>
+        <table n="p031-t01">
+          <row>
+            <cell>前臂異物切除術</cell>
+            <cell>二</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>癰切除術</cell>
+            <cell>九</cell>
+            <cell>七</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>雜種囊腫切除術</cell>
+            <cell>五</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>顱頂蓋囊腫切除術</cell>
+            <cell>一</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>舌上皮癌切除術</cell>
+            <cell>一</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>腮腺癌切除術</cell>
+            <cell>一</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>領下線癌切除術</cell>
+            <cell />
+            <cell>一</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>胸血腫切除術</cell>
+            <cell />
+            <cell>一</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>膿種切開及引流術</cell>
+            <cell>三七</cell>
+            <cell>四八</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>膿種吸引術</cell>
+            <cell>一</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>濕疣火烙術</cell>
+            <cell />
+            <cell>一</cell>
+            <cell />
+            <cell />
+          </row>
+        </table>
+        <pb n="32" facs="#page-32" />
+        <fw type="running" n="p032-running">吳興福音醫院概況</fw>
+        <fw type="folio" n="p032-folio">二十五</fw>
+        <table n="p032-t01">
+          <row>
+            <cell>蜂窩組織炎切術</cell>
+            <cell>六</cell>
+            <cell>一三</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>胸乳截斷術</cell>
+            <cell />
+            <cell>二</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>石膏柱按置術</cell>
+            <cell />
+            <cell>一一</cell>
+            <cell />
+            <cell>三八</cell>
+          </row>
+          <row>
+            <cell>鎗傷口異物切除術</cell>
+            <cell>四</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>傷口腐肉切除術</cell>
+            <cell>一</cell>
+            <cell>五</cell>
+            <cell>一</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>傷口腐肉切除與縫合術</cell>
+            <cell>二</cell>
+            <cell>一</cell>
+            <cell />
+            <cell>一</cell>
+          </row>
+          <row>
+            <cell>瘻管刮術</cell>
+            <cell>三</cell>
+            <cell>一</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>潰瘍刮術</cell>
+            <cell />
+            <cell>四</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>受染縫腺切除術</cell>
+            <cell>一</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>面部修補術</cell>
+            <cell>一</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>拔指甲術</cell>
+            <cell>一</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+        </table>
+        <pb n="33" facs="#page-33" />
+        <fw type="running" n="p033-running">吳興福音醫院概況</fw>
+        <fw type="folio" n="p033-folio">二十六</fw>
+        <table n="p033-t01">
+          <row>
+            <cell>面神經酒精注射術</cell>
+            <cell>四</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>開腹術</cell>
+            <cell>三</cell>
+            <cell>四</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>開胸術</cell>
+            <cell>二</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>拔牙術</cell>
+            <cell>六</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>接植皮術</cell>
+            <cell>一五</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>輸移血術</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell>七</cell>
+          </row>
+          <row>
+            <cell>總計</cell>
+            <cell>二○二</cell>
+            <cell>一九一</cell>
+            <cell>七</cell>
+            <cell>四九</cell>
+          </row>
+          <row>
+            <cell>門診病人手術統計</cell>
+            <cell>二八五</cell>
+            <cell>一○</cell>
+            <cell />
+            <cell>七</cell>
+          </row>
+        </table>
+        <pb n="34" facs="#page-34" />
+        <fw type="running" n="p034-running">吳興福音醫院概況</fw>
+        <fw type="folio" n="p034-folio">二十七</fw>
+        <ab type="heading" n="p034-u001">民國十八年眼耳鼻喉牙科割症表</ab>
+        <table n="p034-t01">
+          <row>
+            <cell>手術類別</cell>
+            <cell>局部麻醉</cell>
+            <cell>全身麻醉</cell>
+          </row>
+          <row>
+            <cell>眼</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>瞼成形術</cell>
+            <cell>三四</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>瞼成形術與外眥切開術</cell>
+            <cell>四</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>內眥切開術</cell>
+            <cell>一</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>電烙虹膜脫垂術</cell>
+            <cell>一</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>透析睫狀體術</cell>
+            <cell>一</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>摘出眼球術</cell>
+            <cell />
+            <cell>四</cell>
+          </row>
+          <row>
+            <cell>眼內容剜除術</cell>
+            <cell>一</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>切除瞼囊術</cell>
+            <cell />
+            <cell>一</cell>
+          </row>
+        </table>
+        <pb n="35" facs="#page-35" />
+        <fw type="running" n="p035-running">吳興福音醫院概況</fw>
+        <fw type="folio" n="p035-folio">二十八</fw>
+        <table n="p035-t01">
+          <row>
+            <cell>切除瞼漿細胞癌術</cell>
+            <cell>二</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>切除虹膜脫垂術</cell>
+            <cell>二</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>切除與電烙眼球癌術</cell>
+            <cell />
+            <cell>一</cell>
+          </row>
+          <row>
+            <cell>逼出沙眼術</cell>
+            <cell>五</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>摘出淚囊術</cell>
+            <cell>一</cell>
+            <cell>一</cell>
+          </row>
+          <row>
+            <cell>切開與挑液瞼膿腫術</cell>
+            <cell>一</cell>
+            <cell>一</cell>
+          </row>
+          <row>
+            <cell>虹膜截除術</cell>
+            <cell>二</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>針刺內障術</cell>
+            <cell>一七</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>瞼外翻修補術</cell>
+            <cell>一</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>眶死骨截除術</cell>
+            <cell />
+            <cell>一</cell>
+          </row>
+          <row>
+            <cell>瞼傷縫合術</cell>
+            <cell>三</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="36" facs="#page-36" />
+        <fw type="running" n="p036-running">吳興福音醫院概況</fw>
+        <fw type="folio" n="p036-folio">二十九</fw>
+        <table n="p036-t01">
+          <row>
+            <cell>翼狀胬肉移植術</cell>
+            <cell>一六</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>耳</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>截除耳囊術</cell>
+            <cell>一</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>斷根乳突術</cell>
+            <cell />
+            <cell>一</cell>
+          </row>
+          <row>
+            <cell>切開與挑液耳膿腫術</cell>
+            <cell />
+            <cell>一</cell>
+          </row>
+          <row>
+            <cell>外耳傷縫合術</cell>
+            <cell>一</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p036-t02">
+          <row>
+            <cell />
+            <cell>局部麻醉</cell>
+            <cell>體身麻醉</cell>
+            <cell>未施麻醉</cell>
+          </row>
+          <row>
+            <cell>鼻</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>切除鼻蒂肉術</cell>
+            <cell>二</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>切開與刮額竇術</cell>
+            <cell>一</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>截除鼻中甲骨術</cell>
+            <cell>三</cell>
+            <cell />
+            <cell />
+          </row>
+        </table>
+        <pb n="37" facs="#page-37" />
+        <fw type="running" n="p037-running">吳興福音醫院概況</fw>
+        <fw type="folio" n="p037-folio">三十</fw>
+        <table n="p037-t01">
+          <row>
+            <cell>鼻孔閉鎖修補術</cell>
+            <cell>一</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>切開篩竇內術</cell>
+            <cell>一</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>切開額竇內術</cell>
+            <cell>一</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>切開上頜竇內術</cell>
+            <cell>五</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>截除鼻中隔術</cell>
+            <cell>一</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>鼻外傷縫合術</cell>
+            <cell>一</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>喉</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>喉內取異物術</cell>
+            <cell>一</cell>
+            <cell>一二</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>扁桃體截除術</cell>
+            <cell>五</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>扁桃體與腺狀瘤截除術</cell>
+            <cell>一</cell>
+            <cell>一五</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="38" facs="#page-38" />
+        <fw type="running" n="p038-running">吳興福音醫院概況</fw>
+        <fw type="folio" n="p038-folio">三十一</fw>
+        <table n="p038-t01">
+          <row>
+            <cell>口與牙</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>舌下囊腫吸引術</cell>
+            <cell>一</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>舌下囊腫截除術</cell>
+            <cell>一</cell>
+            <cell />
+            <cell>一</cell>
+          </row>
+          <row>
+            <cell>切開齦膿腫術</cell>
+            <cell>二</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>切開下頜膿腫術</cell>
+            <cell>一</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>拔齲齒</cell>
+            <cell>二</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>拔齲門齒</cell>
+            <cell>一</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>拔齲磨齒</cell>
+            <cell>一</cell>
+            <cell>一</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>拔埋智齒</cell>
+            <cell>一</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>下頜死骨截除術</cell>
+            <cell>一</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>下頜傷縫合術</cell>
+            <cell>一</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>總計</cell>
+            <cell>一二九</cell>
+            <cell>三九</cell>
+            <cell>一</cell>
+          </row>
+        </table>
+        <pb n="39" facs="#page-39" />
+        <fw type="running" n="p039-running">吳興福音醫院概況</fw>
+        <fw type="folio" n="p039-folio">三十二</fw>
+        <ab type="heading" n="p039-u001">吳興福音醫院民國十八年收入報告</ab>
+        <table n="p039-t01">
+          <row>
+            <cell />
+            <cell>門類</cell>
+            <cell>銀元</cell>
+            <cell>備考</cell>
+          </row>
+          <row>
+            <cell>第一項</cell>
+            <cell>病人收入</cell>
+            <cell>四九○八二・六二</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>第一節</cell>
+            <cell>房飯金</cell>
+            <cell>二三三七一・八五</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>第二節</cell>
+            <cell>試驗費</cell>
+            <cell>三一六二・○○</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>第三節</cell>
+            <cell>手術費</cell>
+            <cell>二九六三・○○</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>第四節</cell>
+            <cell>藥費</cell>
+            <cell>一二五四七・二二</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>第五節</cell>
+            <cell>產科費</cell>
+            <cell>四三九・五○</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>第六節</cell>
+            <cell>愛克司光</cell>
+            <cell>一七一四・四○</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>第七節</cell>
+            <cell>號金</cell>
+            <cell>一八一五・七五</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>第八節</cell>
+            <cell>出診費</cell>
+            <cell>三○六九・○○</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="40" facs="#page-40" />
+        <ab type="caption" n="p040-u001">手術室</ab>
+        <ab type="caption" n="p040-u002">愛克司光室</ab>
+        <pb n="41" facs="#page-41" />
+        <fw type="running" n="p041-running">吳興福音醫院概況</fw>
+        <fw type="folio" n="p041-folio">三十三</fw>
+        <table n="p041-t01">
+          <row>
+            <cell>第二項</cell>
+            <cell>常年費</cell>
+            <cell>九一五○・○○</cell>
+            <cell>美國監理公會擔任</cell>
+          </row>
+          <row>
+            <cell>第一節</cell>
+            <cell>日用</cell>
+            <cell>二四○○・○○</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>第二節</cell>
+            <cell>西護士薪給</cell>
+            <cell>二三五○・○○</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>第三節</cell>
+            <cell>眼科醫師薪給</cell>
+            <cell>三六○○・○○</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>第四節</cell>
+            <cell>醫師津貼</cell>
+            <cell>八○○・○○</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>第三項</cell>
+            <cell>雜項</cell>
+            <cell>一九八四九・七四</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>第一節</cell>
+            <cell>護士學校</cell>
+            <cell>六一○・○○</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>第二節</cell>
+            <cell>職員房金</cell>
+            <cell>一二五六・二五</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>第三節</cell>
+            <cell>職員膳費</cell>
+            <cell>七○九二・五九</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>第四節</cell>
+            <cell>水電</cell>
+            <cell>三○九・三六</cell>
+            <cell>供給職員家族用</cell>
+          </row>
+          <row>
+            <cell>第五節</cell>
+            <cell>上年存洋</cell>
+            <cell>一三九一・八九</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="42" facs="#page-42" />
+        <fw type="running" n="p042-running">吳興福音醫院概況</fw>
+        <fw type="folio" n="p042-folio">三十四</fw>
+        <table n="p042-t01">
+          <row>
+            <cell>第六節</cell>
+            <cell>雜費</cell>
+            <cell>一九一一・五九</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>第七節</cell>
+            <cell>監理公會常年費</cell>
+            <cell>六○七八・○六</cell>
+            <cell>補付十七年</cell>
+          </row>
+          <row>
+            <cell>第八節</cell>
+            <cell>浸禮會常年費</cell>
+            <cell>四○○・○○</cell>
+            <cell>補付十七年</cell>
+          </row>
+          <row>
+            <cell>第四項</cell>
+            <cell>捐款</cell>
+            <cell>二四一八・一○</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>第一節</cell>
+            <cell>美國衛司理友誼社</cell>
+            <cell>一五四八・○○</cell>
+            <cell>宗教部用</cell>
+          </row>
+          <row>
+            <cell>第二節</cell>
+            <cell>華人捐款</cell>
+            <cell>五八二・三一</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>第三節</cell>
+            <cell>西人捐款</cell>
+            <cell>二八七・七九</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>第五項</cell>
+            <cell>借項</cell>
+            <cell>四五五一・七六</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="text" n="p042-u001">共計收入洋八萬五千零五十二元二角二分</ab>
+        <pb n="43" facs="#page-43" />
+        <fw type="running" n="p043-running">吳興福音醫院概況</fw>
+        <fw type="folio" n="p043-folio">三十五</fw>
+        <ab type="heading" n="p043-u001">吳興福音醫院民國十八年支出報告</ab>
+        <table n="p043-t01">
+          <row>
+            <cell />
+            <cell>門類</cell>
+            <cell>銀元</cell>
+            <cell>備考</cell>
+          </row>
+          <row>
+            <cell>第一項</cell>
+            <cell>職工薪給</cell>
+            <cell>二四二七九・六八</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>第一節</cell>
+            <cell>醫師</cell>
+            <cell>八四九一・五○</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>第二節</cell>
+            <cell>護士</cell>
+            <cell>七四六六・二○</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>第三節</cell>
+            <cell>庶務員</cell>
+            <cell>一八四九・六○</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>第四節</cell>
+            <cell>工役</cell>
+            <cell>六四七二・三八</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>第二項</cell>
+            <cell>藥品</cell>
+            <cell>一七七七三・四○</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>第三項</cell>
+            <cell>伙食</cell>
+            <cell>一四八七一・八七</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>第一節</cell>
+            <cell>飯菜</cell>
+            <cell>一三四九五・四六</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>第二節</cell>
+            <cell>柴</cell>
+            <cell>一三七六・四一</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="44" facs="#page-44" />
+        <fw type="running" n="p044-running">吳興福音醫院概況</fw>
+        <fw type="folio" n="p044-folio">三十六</fw>
+        <table n="p044-t01">
+          <row>
+            <cell>第四項</cell>
+            <cell>書籍</cell>
+            <cell>九○○・七四</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>第一節</cell>
+            <cell>醫書雜誌</cell>
+            <cell>二四六・九五</cell>
+            <cell>圖書室</cell>
+          </row>
+          <row>
+            <cell>第二節</cell>
+            <cell>教科書</cell>
+            <cell>六五三・七九</cell>
+            <cell>護士學校用</cell>
+          </row>
+          <row>
+            <cell>第五項</cell>
+            <cell>煤電</cell>
+            <cell>四二七一・九九</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>第一節</cell>
+            <cell>電費</cell>
+            <cell>二五五○・二九</cell>
+            <cell>愛克司光用電亦在其內</cell>
+          </row>
+          <row>
+            <cell>第二節</cell>
+            <cell>煤</cell>
+            <cell>一七二一・七○</cell>
+            <cell>老虎灶及蒸汽爐用</cell>
+          </row>
+          <row>
+            <cell>第六項</cell>
+            <cell>購置</cell>
+            <cell>四四八二・七四</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>第一節</cell>
+            <cell>布疋</cell>
+            <cell>一二一五・八四</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>第二節</cell>
+            <cell>添置手術器具病床等</cell>
+            <cell>一九○九・八三</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>第三節</cell>
+            <cell>火油肥皂等</cell>
+            <cell>一三五七・○七</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>第七項</cell>
+            <cell>建築修理</cell>
+            <cell>一○二三一・八九</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="45" facs="#page-45" />
+        <fw type="running" n="p045-running">吳興福音醫院概況</fw>
+        <fw type="folio" n="p045-folio">三十七</fw>
+        <table n="p045-t01">
+          <row>
+            <cell>第一節</cell>
+            <cell>建造房屋</cell>
+            <cell>六八八四・○七</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>第二節</cell>
+            <cell>修理房屋</cell>
+            <cell>一二○三・一四</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>第三節</cell>
+            <cell>拆城築牆</cell>
+            <cell>一一一五・○○</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>第四節</cell>
+            <cell>草地</cell>
+            <cell>一二九・六八</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>第八項</cell>
+            <cell>雜項</cell>
+            <cell>二一九六・三一</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>第一節</cell>
+            <cell>郵電印刷費</cell>
+            <cell>八六八・五一</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>第二節</cell>
+            <cell>旅費</cell>
+            <cell>五六九・五六</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>第三節</cell>
+            <cell>雜費</cell>
+            <cell>五六五・四七</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>第四節</cell>
+            <cell>汽船</cell>
+            <cell>一六五・八二</cell>
+            <cell>修理</cell>
+          </row>
+          <row>
+            <cell>第五節</cell>
+            <cell>運動費</cell>
+            <cell>二六・九六</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>第九項</cell>
+            <cell>歸還借款</cell>
+            <cell>二三○○・三五</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="46" facs="#page-46" />
+        <fw type="running" n="p046-running">吳興福音醫院概況</fw>
+        <fw type="folio" n="p046-folio">三十八</fw>
+        <table n="p046-t01">
+          <row>
+            <cell>第十項</cell>
+            <cell>宗教部</cell>
+            <cell>一○五七・二六</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="text" n="p046-u001">共計支出洋八萬三千三百六十六元二角四分</ab>
+        <ab type="text" n="p046-u002">收支相抵淨存洋一千六百八十五元九角八分</ab>
+        <ab type="text" n="p046-u003">十七年借款二千六百八十八元零六分</ab>
+        <ab type="text" n="p046-u004">償還二千三百元零三角五分</ab>
+        <ab type="text" n="p046-u005">倘欠三百八十七元七角一分</ab>
+        <ab type="text" n="p046-u006">十八年借款四千五百五十一元七角六分</ab>
+        <ab type="text" n="p046-u007">共計借款洋四千九百三十九元九角三分</ab>
+        <ab type="text" n="p046-u008">未付賬款五百四十六元三角三分</ab>
+        <ab type="text" n="p046-u009">共欠洋五千四百八十六元一角六分</ab>
+        <ab type="text" n="p046-u010">除本年度盈餘外</ab>
+        <ab type="text" n="p046-u011">倘欠洋三千八百元零一角八分</ab>
+        <ab type="text" n="p046-u012">本年施送貧診洋四千二百三十五元九角八分</ab>
+        <pb n="47" facs="#page-47" />
+        <fw type="running" n="p047-running">吳興福音醫院概況</fw>
+        <fw type="folio" n="p047-folio">三十九</fw>
+        <ab type="heading" n="p047-u001">本院之未來計劃</ab>
+        <ab type="heading" n="p047-u002">（一）建築傳染病院</ab>
+        <ab type="text" n="p047-u003">民衆昧於傳染病之蔓延不知所謂隔離而社會上亦無相當之設備故每於時疫發現之</ab>
+        <ab type="text" n="p047-u004">後宛若火之燎原一發而不可復遏也例如今春之流行性腦膜炎日必數起患者或逾日</ab>
+        <ab type="text" n="p047-u005">死或即日死當局者見蔓延之猖獗急死之可危商諸　敝院設立臨時治療所為補牢之計</ab>
+        <ab type="text" n="p047-u006">要知傳染病之種類不一而見諸於四時到處潛伏在在堪虞故社會上應有相當之設備</ab>
+        <ab type="text" n="p047-u007">以免臨渴掘井之患也　敝院有鑒於斯現正切實設施希望於最短期間內全院告成以應</ab>
+        <ab type="text" n="p047-u008">社會之需要也</ab>
+        <ab type="heading" n="p047-u009">（二）裝置熱汽管</ab>
+        <ab type="text" n="p047-u010">本院之建築雖盡仿歐美式樣但因經濟拮据院內向無熱汽管之設備故每於冬令病室</ab>
+        <ab type="text" n="p047-u011">內時感寒氣太深因之於治療上發生許多障礙現擬設法裝置以平均溫度於朔風凜烈</ab>
+        <ab type="text" n="p047-u012">之時</ab>
+        <ab type="heading" n="p047-u013">（三）建築護士宿舍</ab>
+        <ab type="text" n="p047-u014">本院現有護士與護生共計四十七人且因院務之繁重有添招新生之必要而宿舍之仄</ab>
+        <pb n="48" facs="#page-48" />
+        <fw type="running" n="p048-running">吳興福音醫院概況</fw>
+        <fw type="folio" n="p048-folio">四十</fw>
+        <ab type="text" n="p048-u001">狹竟無容膝之處故建築護士宿舍又為本院急宜設施者也</ab>
+        <ab type="text" n="p048-u002">以上諸端急待興辦現蒙潯地劉邢諸大善士捐助萬金為建築之費然為數倘未過其半</ab>
+        <ab type="text" n="p048-u003">也倘望當地慈善家樂善好施慷慨解囊以成其美此乃為本院馨香禱祝者也</ab>
+        <pb n="49" facs="#page-49" />
+      </div>
+    </body>
+  </text>
+</TEI>

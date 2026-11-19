@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Please cite the transcription version and its source edition."
+type: dataset
+title: "吳興福音醫院概況 | Wuxing Fuyin Yiyuan Gaikuang [Overview of Wuxing Gospel Hospital]"
+version: "0.1.0"
+authors:
+  - family-names: Chu
+    given-names: Chen-Yu
+    orcid: "https://orcid.org/0009-0003-9738-6914"
+keywords:
+  - "醫學史"
+  - "吳興"
+  - "福音醫院"
+  - "院務報告"
+  - "護士教育"
+  - "醫院統計"
+  - "hospital annual reports"
+  - "Wuxing"
+  - "nursing education"
+  - "hospital history"
+identifiers:
+  - type: url
+    value: "https://commons.wikimedia.org/?curid=131010099"
