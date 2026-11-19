@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "Please cite the transcription version and its source edition."
 type: dataset
 title: "吳興福音醫院概況 | Wuxing Fuyin Yiyuan Gaikuang [Overview of Wuxing Gospel Hospital]"
-version: "0.1.0"
+version: "0.2.0"
 authors:
   - family-names: Chu
     given-names: Chen-Yu
@@ -18,6 +18,13 @@ keywords:
   - "Wuxing"
   - "nursing education"
   - "hospital history"
+  - "1929"
+  - "湖州"
+  - "民國醫院"
+  - "教會醫療"
+  - "收支帳"
+  - "TEI XML"
+  - "Republican China"
 identifiers:
   - type: url
     value: "https://commons.wikimedia.org/?curid=131010099"

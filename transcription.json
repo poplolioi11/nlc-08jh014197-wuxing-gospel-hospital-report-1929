@@ -1,6 +1,6 @@
 {
   "key": "wuxing",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "language": "zh-Hant",
   "source": "https://commons.wikimedia.org/?curid=131010099",
   "source_id": "中國國家圖書館 08jh014197／37820",
@@ -12,7 +12,7 @@
     1,
     48
   ],
-  "readback_status": "initial-source-image-reading",
+  "readback_status": "paired-source-image-collation",
   "pages": [
     {
       "image": 1,
@@ -50,6 +50,19 @@
           "unit_candidates": [
             "p001-u003"
           ]
+        },
+        {
+          "frame": 1,
+          "reading": "龔性願題",
+          "candidates": [
+            "龔性愿題",
+            "龔性頤題"
+          ],
+          "reason": "題字末名前件連筆，原印有兩方，讀名仍待確認。",
+          "status": "unresolved",
+          "unit_candidates": [
+            "p001-u003"
+          ]
         }
       ],
       "exclusions": [
@@ -62,8 +75,10 @@
       "width": 1429,
       "height": 1900,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=1",
-      "status": "source-image-initial-read",
-      "role": "text"
+      "status": "image-collated",
+      "role": "text",
+      "page_id": "p001",
+      "layout_reviewed": true
     },
     {
       "image": 2,
@@ -173,8 +188,10 @@
       "width": 1465,
       "height": 1900,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=2",
-      "status": "source-image-initial-read",
-      "role": "text"
+      "status": "image-collated",
+      "role": "text",
+      "page_id": "p002",
+      "layout_reviewed": true
     },
     {
       "image": 3,
@@ -194,9 +211,11 @@
       "width": 1900,
       "height": 1221,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=3",
-      "status": "source-image-initial-read",
+      "status": "image-collated",
       "role": "figure",
-      "figure_description": "院舍全景"
+      "figure_description": "院舍全景",
+      "page_id": "p003",
+      "layout_reviewed": true
     },
     {
       "image": 4,
@@ -236,7 +255,7 @@
           "id": "p004-u004",
           "order": 30,
           "kind": "text",
-          "text": "病者三十有餘又收實習生數人襄理院務定名湖郡醫院次歲聘請沈階平醫師張倚義"
+          "text": "病者三十有餘又收實習生數人襄理院務定名湖郡醫院次歲聘請沈階平醫師張尚義"
         },
         {
           "id": "p004-u005",
@@ -278,7 +297,7 @@
           "id": "p004-u011",
           "order": 37,
           "kind": "text",
-          "text": "畝用作職員等宿舍於民國十三年夏全院落成式樣魁偉病室分頭一二三等可容病人"
+          "text": "畝用作職員等宿舍於民國十三年夏全院落成式樣魁偉病室分頭二三三等可容病人"
         },
         {
           "id": "p004-u012",
@@ -306,27 +325,16 @@
         }
       ],
       "tables": [],
-      "doubts": [
-        {
-          "reading": "倘付缺如",
-          "candidates": [
-            "尚付缺如"
-          ],
-          "reason": "原印字形待二讀",
-          "status": "unresolved",
-          "frame": 4,
-          "unit_candidates": [
-            "p004-u014"
-          ]
-        }
-      ],
+      "doubts": [],
       "exclusions": [],
       "source_sha256": "35771d2d8dd57b6327bf07faf03d682964ec8cddfbd054ff66ca1b8e496678e0",
       "width": 1465,
       "height": 1900,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=4",
-      "status": "source-image-initial-read",
-      "role": "text"
+      "status": "image-collated",
+      "role": "text",
+      "page_id": "p004",
+      "layout_reviewed": true
     },
     {
       "image": 5,
@@ -406,14 +414,29 @@
         }
       ],
       "tables": [],
-      "doubts": [],
+      "doubts": [
+        {
+          "frame": 5,
+          "reading": "秉性天知",
+          "candidates": [
+            "秉性天知"
+          ],
+          "reason": "印本末字有矢、口，按所見保留；語義仍待人工覆核。",
+          "status": "unresolved",
+          "unit_candidates": [
+            "p005-u004"
+          ]
+        }
+      ],
       "exclusions": [],
       "source_sha256": "eddb68bb6a0005d37fdc4355c81d281ae14154b5c3836a46baa18e0d44dba463",
       "width": 1429,
       "height": 1900,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=5",
-      "status": "source-image-initial-read",
-      "role": "text"
+      "status": "image-collated",
+      "role": "text",
+      "page_id": "p005",
+      "layout_reviewed": true
     },
     {
       "image": 6,
@@ -433,9 +456,11 @@
       "width": 1900,
       "height": 1208,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=6",
-      "status": "source-image-initial-read",
+      "status": "image-collated",
       "role": "figure",
-      "figure_description": "門診室外觀"
+      "figure_description": "門診室外觀",
+      "page_id": "p006",
+      "layout_reviewed": true
     },
     {
       "image": 7,
@@ -551,8 +576,10 @@
       "width": 1465,
       "height": 1900,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=7",
-      "status": "source-image-initial-read",
-      "role": "text"
+      "status": "image-collated",
+      "role": "text",
+      "page_id": "p007",
+      "layout_reviewed": true
     },
     {
       "image": 8,
@@ -686,8 +713,10 @@
       "width": 1429,
       "height": 1900,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=8",
-      "status": "source-image-initial-read",
-      "role": "text"
+      "status": "image-collated",
+      "role": "text",
+      "page_id": "p008",
+      "layout_reviewed": true
     },
     {
       "image": 9,
@@ -809,8 +838,10 @@
       "width": 1465,
       "height": 1900,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=9",
-      "status": "source-image-initial-read",
-      "role": "text"
+      "status": "image-collated",
+      "role": "text",
+      "page_id": "p009",
+      "layout_reviewed": true
     },
     {
       "image": 10,
@@ -932,8 +963,10 @@
       "width": 1429,
       "height": 1900,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=10",
-      "status": "source-image-initial-read",
-      "role": "text"
+      "status": "image-collated",
+      "role": "text",
+      "page_id": "p010",
+      "layout_reviewed": true
     },
     {
       "image": 11,
@@ -953,9 +986,11 @@
       "width": 1900,
       "height": 1232,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=11",
-      "status": "source-image-initial-read",
+      "status": "image-collated",
       "role": "figure",
-      "figure_description": "三等病室"
+      "figure_description": "三等病室",
+      "page_id": "p011",
+      "layout_reviewed": true
     },
     {
       "image": 12,
@@ -1011,8 +1046,10 @@
       "width": 1465,
       "height": 1900,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=12",
-      "status": "source-image-initial-read",
-      "role": "text"
+      "status": "image-collated",
+      "role": "text",
+      "page_id": "p012",
+      "layout_reviewed": true
     },
     {
       "image": 13,
@@ -1164,8 +1201,10 @@
       "width": 1429,
       "height": 1900,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=13",
-      "status": "source-image-initial-read",
-      "role": "table"
+      "status": "image-collated",
+      "role": "table",
+      "page_id": "p013",
+      "layout_reviewed": true
     },
     {
       "image": 14,
@@ -1247,7 +1286,7 @@
           "id": "p014-u011",
           "order": 167,
           "kind": "text",
-          "text": "姚克方　張鋒夫　趙宗福　楊馬柳生"
+          "text": "姚克方　張錚夫　趙宗福　楊馬柳生"
         },
         {
           "id": "p014-u012",
@@ -1301,34 +1340,23 @@
               "楊正梅",
               "錢萬娟",
               "徐育珍",
-              "石珠瑞",
+              "石珠珖",
               null
             ]
           ],
           "value_labels": []
         }
       ],
-      "doubts": [
-        {
-          "reading": "張鋒夫",
-          "candidates": [
-            "張錚夫"
-          ],
-          "reason": "第二字金旁，右部待由另一頁重核",
-          "status": "unresolved",
-          "frame": 14,
-          "unit_candidates": [
-            "p014-u011"
-          ]
-        }
-      ],
+      "doubts": [],
       "exclusions": [],
       "source_sha256": "8dcb93610beaca625bc357a220aed66c4319a7adab42d6ad4dd81745f1ca6891",
       "width": 1465,
       "height": 1900,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=14",
-      "status": "source-image-initial-read",
-      "role": "table"
+      "status": "image-collated",
+      "role": "table",
+      "page_id": "p014",
+      "layout_reviewed": true
     },
     {
       "image": 15,
@@ -1444,8 +1472,10 @@
       "width": 1429,
       "height": 1900,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=15",
-      "status": "source-image-initial-read",
-      "role": "text"
+      "status": "image-collated",
+      "role": "text",
+      "page_id": "p015",
+      "layout_reviewed": true
     },
     {
       "image": 16,
@@ -1482,9 +1512,11 @@
       "width": 1260,
       "height": 1900,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=16",
-      "status": "source-image-initial-read",
+      "status": "image-collated",
       "role": "figure",
-      "figure_description": "門診眼科室與產科室"
+      "figure_description": "門診眼科室與產科室",
+      "page_id": "p016",
+      "layout_reviewed": true
     },
     {
       "image": 17,
@@ -1552,7 +1584,7 @@
             [
               "護士倫理學",
               "初級護病學",
-              "繃帶學"
+              "綳帶學"
             ],
             [
               "英文",
@@ -1620,8 +1652,10 @@
       "width": 1465,
       "height": 1900,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=17",
-      "status": "source-image-initial-read",
-      "role": "table"
+      "status": "image-collated",
+      "role": "table",
+      "page_id": "p017",
+      "layout_reviewed": true
     },
     {
       "image": 18,
@@ -1653,7 +1687,7 @@
             ],
             [
               "趙宗福牧師",
-              "張鋒夫牧師",
+              "張錚夫牧師",
               "凌錫平藥師"
             ],
             [
@@ -1707,8 +1741,10 @@
       "width": 1429,
       "height": 1900,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=18",
-      "status": "source-image-initial-read",
-      "role": "table"
+      "status": "image-collated",
+      "role": "table",
+      "page_id": "p018",
+      "layout_reviewed": true
     },
     {
       "image": 19,
@@ -1779,14 +1815,27 @@
           "value_labels": []
         }
       ],
-      "doubts": [],
+      "doubts": [
+        {
+          "frame": 19,
+          "reading": "三六、七、四四",
+          "candidates": [],
+          "reason": "本年終留院分性別欄見三六與七，總欄印四四。分項和為四三，照原表保留。",
+          "status": "unresolved",
+          "unit_candidates": [
+            "p019-t01-row05"
+          ]
+        }
+      ],
       "exclusions": [],
       "source_sha256": "6e9d997baa3a5eed260d045cf8e046120979d5c13f96dc954dd559fd9f42a2a7",
       "width": 1465,
       "height": 1900,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=19",
-      "status": "source-image-initial-read",
-      "role": "table"
+      "status": "image-collated",
+      "role": "table",
+      "page_id": "p019",
+      "layout_reviewed": true
     },
     {
       "image": 20,
@@ -1849,10 +1898,10 @@
             ],
             [
               "耳眼牙鼻喉科",
-              "一三二",
+              "一二二",
               "一九一",
-              "二二",
-              "一三",
+              "二一",
+              "二三",
               "○",
               "三五七",
               "七・六"
@@ -1879,7 +1928,7 @@
             ],
             [
               null,
-              "六三三",
+              "六二三",
               "一四八七",
               "二五一",
               "一四○",
@@ -1897,8 +1946,10 @@
       "width": 1429,
       "height": 1900,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=20",
-      "status": "source-image-initial-read",
-      "role": "table"
+      "status": "image-collated",
+      "role": "table",
+      "page_id": "p020",
+      "layout_reviewed": true
     },
     {
       "image": 21,
@@ -1936,7 +1987,7 @@
             ],
             [
               "全身麻醉",
-              "一三一",
+              "二三一",
               "一○"
             ],
             [
@@ -1957,20 +2008,48 @@
             [
               "總計",
               "六一九",
-              "三三"
+              "三二三"
             ]
           ],
           "value_labels": []
         }
       ],
-      "doubts": [],
+      "doubts": [
+        {
+          "frame": 21,
+          "reading": "二三一",
+          "candidates": [
+            "一三一"
+          ],
+          "reason": "住院分項與總計六一九不合；依可見橫畫保留二三一。",
+          "status": "unresolved",
+          "unit_candidates": [
+            "p021-t01-row02-cell02"
+          ]
+        },
+        {
+          "frame": 21,
+          "reading": "三二三",
+          "candidates": [
+            "二三三",
+            "三三"
+          ],
+          "reason": "原格橫畫間距有歧，分項和為二九六。末格並無九和六字形。",
+          "status": "unresolved",
+          "unit_candidates": [
+            "p021-t01-row06-cell03"
+          ]
+        }
+      ],
       "exclusions": [],
       "source_sha256": "7b135bfae29161534270134df58efe3740103f30b20d48bdfc2e3007b7489db6",
       "width": 1465,
       "height": 1900,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=21",
-      "status": "source-image-initial-read",
-      "role": "table"
+      "status": "image-collated",
+      "role": "table",
+      "page_id": "p021",
+      "layout_reviewed": true
     },
     {
       "image": 22,
@@ -2027,15 +2106,15 @@
             ],
             [
               "眼耳鼻牙喉科",
-              "二七一五"
+              "二七二五"
             ],
             [
               "產科",
-              "一三一一"
+              "一三二一"
             ],
             [
               "出診",
-              "三一一"
+              "三一二"
             ]
           ],
           "value_labels": []
@@ -2047,8 +2126,10 @@
       "width": 1429,
       "height": 1900,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=22",
-      "status": "source-image-initial-read",
-      "role": "table"
+      "status": "image-collated",
+      "role": "table",
+      "page_id": "p022",
+      "layout_reviewed": true
     },
     {
       "image": 23,
@@ -2074,9 +2155,11 @@
       "width": 1249,
       "height": 1900,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=23",
-      "status": "source-image-initial-read",
+      "status": "image-collated",
       "role": "figure",
-      "figure_description": "細菌學室與普通試驗室照片"
+      "figure_description": "細菌學室與普通試驗室照片",
+      "page_id": "p023",
+      "layout_reviewed": true
     },
     {
       "image": 24,
@@ -2119,8 +2202,10 @@
       "width": 1465,
       "height": 1900,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=24",
-      "status": "source-image-initial-read",
-      "role": "table"
+      "status": "image-collated",
+      "role": "table",
+      "page_id": "p024",
+      "layout_reviewed": true
     },
     {
       "image": 25,
@@ -2231,8 +2316,10 @@
       "width": 1429,
       "height": 1900,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=25",
-      "status": "source-image-initial-read",
-      "role": "table"
+      "status": "image-collated",
+      "role": "table",
+      "page_id": "p025",
+      "layout_reviewed": true
     },
     {
       "image": 26,
@@ -2344,8 +2431,10 @@
       "width": 1465,
       "height": 1900,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=26",
-      "status": "source-image-initial-read",
-      "role": "table"
+      "status": "image-collated",
+      "role": "table",
+      "page_id": "p026",
+      "layout_reviewed": true
     },
     {
       "image": 27,
@@ -2451,14 +2540,29 @@
           "value_labels": []
         }
       ],
-      "doubts": [],
+      "doubts": [
+        {
+          "frame": 27,
+          "reading": "尿道癰割除術",
+          "candidates": [
+            "尿道瘻割除術"
+          ],
+          "reason": "放大末件右側多橫和長豎，似隹，先保留癰。",
+          "status": "unresolved",
+          "unit_candidates": [
+            "p027-t01-row01-cell01"
+          ]
+        }
+      ],
       "exclusions": [],
       "source_sha256": "3732d543ea881f96bc66c9988e8990da0e3078a9e2913b6dc66074d6be7b9cb1",
       "width": 1429,
       "height": 1900,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=27",
-      "status": "source-image-initial-read",
-      "role": "table"
+      "status": "image-collated",
+      "role": "table",
+      "page_id": "p027",
+      "layout_reviewed": true
     },
     {
       "image": 28,
@@ -2570,8 +2674,10 @@
       "width": 1465,
       "height": 1900,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=28",
-      "status": "source-image-initial-read",
-      "role": "table"
+      "status": "image-collated",
+      "role": "table",
+      "page_id": "p028",
+      "layout_reviewed": true
     },
     {
       "image": 29,
@@ -2646,7 +2752,7 @@
               null
             ],
             [
-              "頷骨死骨片切除術",
+              "頜骨死骨片切除術",
               "一",
               null,
               null,
@@ -2683,8 +2789,10 @@
       "width": 1429,
       "height": 1900,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=29",
-      "status": "source-image-initial-read",
-      "role": "table"
+      "status": "image-collated",
+      "role": "table",
+      "page_id": "p029",
+      "layout_reviewed": true
     },
     {
       "image": 30,
@@ -2796,8 +2904,10 @@
       "width": 1465,
       "height": 1900,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=30",
-      "status": "source-image-initial-read",
-      "role": "table"
+      "status": "image-collated",
+      "role": "table",
+      "page_id": "p030",
+      "layout_reviewed": true
     },
     {
       "image": 31,
@@ -2858,14 +2968,14 @@
               null
             ],
             [
-              "腮腺癌切除術",
+              "腮腺瘤切除術",
               "一",
               null,
               null,
               null
             ],
             [
-              "領下線癌切除術",
+              "領下線瘤切除術",
               null,
               "一",
               null,
@@ -2909,8 +3019,10 @@
       "width": 1429,
       "height": 1900,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=31",
-      "status": "source-image-initial-read",
-      "role": "table"
+      "status": "image-collated",
+      "role": "table",
+      "page_id": "p031",
+      "layout_reviewed": true
     },
     {
       "image": 32,
@@ -3016,14 +3128,29 @@
           "value_labels": []
         }
       ],
-      "doubts": [],
+      "doubts": [
+        {
+          "frame": 32,
+          "reading": "受染縫腺切除術",
+          "candidates": [
+            "受染縫線切除術"
+          ],
+          "reason": "腺字右件似泉，左邊偏旁未辨。",
+          "status": "unresolved",
+          "unit_candidates": [
+            "p032-t01-row09-cell01"
+          ]
+        }
+      ],
       "exclusions": [],
       "source_sha256": "eda56065967be25ca1faa42337a64587c0a4cd22e6b1d21cfb48a2976ae94b69",
       "width": 1465,
       "height": 1900,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=32",
-      "status": "source-image-initial-read",
-      "role": "table"
+      "status": "image-collated",
+      "role": "table",
+      "page_id": "p032",
+      "layout_reviewed": true
     },
     {
       "image": 33,
@@ -3114,8 +3241,10 @@
       "width": 1429,
       "height": 1900,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=33",
-      "status": "source-image-initial-read",
-      "role": "table"
+      "status": "image-collated",
+      "role": "table",
+      "page_id": "p033",
+      "layout_reviewed": true
     },
     {
       "image": 34,
@@ -3200,14 +3329,29 @@
           "value_labels": []
         }
       ],
-      "doubts": [],
+      "doubts": [
+        {
+          "frame": 34,
+          "reading": "透析睫狀體術",
+          "candidates": [
+            "透折睫狀體術"
+          ],
+          "reason": "第二字左旁右件與上一欄有別，仍待確認。",
+          "status": "unresolved",
+          "unit_candidates": [
+            "p034-t01-row07-cell01"
+          ]
+        }
+      ],
       "exclusions": [],
       "source_sha256": "859606afbe49e6d73ad935461789ab14912572ec479b607cc14993a7a1aefe3a",
       "width": 1465,
       "height": 1900,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=34",
-      "status": "source-image-initial-read",
-      "role": "table"
+      "status": "image-collated",
+      "role": "table",
+      "page_id": "p034",
+      "layout_reviewed": true
     },
     {
       "image": 35,
@@ -3233,7 +3377,7 @@
           "title": "",
           "rows": [
             [
-              "切除瞼漿細胞癌術",
+              "切除瞼漿細胞瘤術",
               "二",
               null
             ],
@@ -3243,7 +3387,7 @@
               null
             ],
             [
-              "切除與電烙眼球癌術",
+              "切除與電炮眼球瘤術",
               null,
               "一"
             ],
@@ -3297,8 +3441,10 @@
       "width": 1429,
       "height": 1900,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=35",
-      "status": "source-image-initial-read",
-      "role": "table"
+      "status": "image-collated",
+      "role": "table",
+      "page_id": "p035",
+      "layout_reviewed": true
     },
     {
       "image": 36,
@@ -3401,8 +3547,10 @@
       "width": 1465,
       "height": 1900,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=36",
-      "status": "source-image-initial-read",
-      "role": "table"
+      "status": "image-collated",
+      "role": "table",
+      "page_id": "p036",
+      "layout_reviewed": true
     },
     {
       "image": 37,
@@ -3497,8 +3645,10 @@
       "width": 1429,
       "height": 1900,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=37",
-      "status": "source-image-initial-read",
-      "role": "table"
+      "status": "image-collated",
+      "role": "table",
+      "page_id": "p037",
+      "layout_reviewed": true
     },
     {
       "image": 38,
@@ -3605,8 +3755,10 @@
       "width": 1465,
       "height": 1900,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=38",
-      "status": "source-image-initial-read",
-      "role": "table"
+      "status": "image-collated",
+      "role": "table",
+      "page_id": "p038",
+      "layout_reviewed": true
     },
     {
       "image": 39,
@@ -3670,7 +3822,7 @@
             [
               "第四節",
               "藥費",
-              "一二五四七・二二",
+              "一二五四七・一二",
               null
             ],
             [
@@ -3707,8 +3859,10 @@
       "width": 1429,
       "height": 1900,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=39",
-      "status": "source-image-initial-read",
-      "role": "table"
+      "status": "image-collated",
+      "role": "table",
+      "page_id": "p039",
+      "layout_reviewed": true
     },
     {
       "image": 40,
@@ -3734,9 +3888,11 @@
       "width": 1238,
       "height": 1900,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=40",
-      "status": "source-image-initial-read",
+      "status": "image-collated",
       "role": "figure",
-      "figure_description": "手術室與愛克司光室照片"
+      "figure_description": "手術室與愛克司光室照片",
+      "page_id": "p040",
+      "layout_reviewed": true
     },
     {
       "image": 41,
@@ -3776,7 +3932,7 @@
             [
               "第二節",
               "西護士薪給",
-              "二三五○・○○",
+              "一三五○・○○",
               null
             ],
             [
@@ -3806,7 +3962,7 @@
             [
               "第二節",
               "職員房金",
-              "一二五六・二五",
+              "一一五六・二五",
               null
             ],
             [
@@ -3831,14 +3987,27 @@
           "value_labels": []
         }
       ],
-      "doubts": [],
+      "doubts": [
+        {
+          "frame": 41,
+          "reading": "一九八四九・七四",
+          "candidates": [],
+          "reason": "雜項八個細項合計為一八九四九・七四；總額字形仍照原印。",
+          "status": "unresolved",
+          "unit_candidates": [
+            "p041-t01-row07-cell03"
+          ]
+        }
+      ],
       "exclusions": [],
       "source_sha256": "1022ba9cf09462f2fc680693b0806af717ab65260c750962d87f2bf040c375b9",
       "width": 1465,
       "height": 1900,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=41",
-      "status": "source-image-initial-read",
-      "role": "table"
+      "status": "image-collated",
+      "role": "table",
+      "page_id": "p041",
+      "layout_reviewed": true
     },
     {
       "image": 42,
@@ -3927,8 +4096,10 @@
       "width": 1429,
       "height": 1900,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=42",
-      "status": "source-image-initial-read",
-      "role": "table"
+      "status": "image-collated",
+      "role": "table",
+      "page_id": "p042",
+      "layout_reviewed": true
     },
     {
       "image": 43,
@@ -4029,8 +4200,10 @@
       "width": 1465,
       "height": 1900,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=43",
-      "status": "source-image-initial-read",
-      "role": "table"
+      "status": "image-collated",
+      "role": "table",
+      "page_id": "p043",
+      "layout_reviewed": true
     },
     {
       "image": 44,
@@ -4100,12 +4273,12 @@
             [
               "第一節",
               "布疋",
-              "一二一五・八四",
+              "二二一五・八四",
               null
             ],
             [
               "第二節",
-              "添置手術器具病床等",
+              "添置〔手術器具／病床等〕",
               "一九○九・八三",
               null
             ],
@@ -4125,14 +4298,29 @@
           "value_labels": []
         }
       ],
-      "doubts": [],
+      "doubts": [
+        {
+          "frame": 44,
+          "reading": "一三五七・○七",
+          "candidates": [
+            "三五七・○七"
+          ],
+          "reason": "五字上四橫，首筆與後組三筆按字位分開。三個分項合計與印本購置合計差一千，仍保留可見的一。",
+          "status": "unresolved",
+          "unit_candidates": [
+            "p044-t01-row10-cell03"
+          ]
+        }
+      ],
       "exclusions": [],
       "source_sha256": "b42ceb3ce7aa75adc69117639cf03a8134601a5a08537045fe647de9f6fafc9f",
       "width": 1429,
       "height": 1900,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=44",
-      "status": "source-image-initial-read",
-      "role": "table"
+      "status": "image-collated",
+      "role": "table",
+      "page_id": "p044",
+      "layout_reviewed": true
     },
     {
       "image": 45,
@@ -4166,7 +4354,7 @@
             [
               "第二節",
               "修理房屋",
-              "一二○三・一四",
+              "二一○三・一四",
               null
             ],
             [
@@ -4220,21 +4408,36 @@
             [
               "第九項",
               "歸還借款",
-              "二三○○・三五",
+              "三三○○・三五",
               null
             ]
           ],
           "value_labels": []
         }
       ],
-      "doubts": [],
+      "doubts": [
+        {
+          "frame": 45,
+          "reading": "二一九六・三一",
+          "candidates": [
+            "二一九六・三二"
+          ],
+          "reason": "雜項小數共有四橫，前三筆同組、末筆獨立。分項和二一九六・三二與原印差一分，仍錄原印。",
+          "status": "unresolved",
+          "unit_candidates": [
+            "p045-t01-row05-cell03"
+          ]
+        }
+      ],
       "exclusions": [],
       "source_sha256": "09433e2ef5573fe7398f8952e45adc281af48d1f1709a9eb2eae24ae4dde3092",
       "width": 1465,
       "height": 1900,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=45",
-      "status": "source-image-initial-read",
-      "role": "table"
+      "status": "image-collated",
+      "role": "table",
+      "page_id": "p045",
+      "layout_reviewed": true
     },
     {
       "image": 46,
@@ -4268,13 +4471,13 @@
           "id": "p046-u003",
           "order": 78,
           "kind": "text",
-          "text": "十七年借款二千六百八十八元零六分"
+          "text": "十七年借款三千六百八十八元零六分"
         },
         {
           "id": "p046-u004",
           "order": 79,
           "kind": "text",
-          "text": "償還二千三百元零三角五分"
+          "text": "償還三千三百元零三角五分"
         },
         {
           "id": "p046-u005",
@@ -4341,14 +4544,37 @@
           "value_labels": []
         }
       ],
-      "doubts": [],
+      "doubts": [
+        {
+          "frame": 46,
+          "reading": "八萬三千三百六十六元二角四分",
+          "candidates": [],
+          "reason": "十項合計八萬三千三百六十六元二角三分。印版相差一分，照錄。",
+          "status": "unresolved",
+          "unit_candidates": [
+            "p046-u001"
+          ]
+        },
+        {
+          "frame": 46,
+          "reading": "四千九百三十九元九角三分",
+          "candidates": [],
+          "reason": "九角下三個橫畫；本頁兩筆借款依分項合計得四千九百三十九元四角七分，未配平。",
+          "status": "unresolved",
+          "unit_candidates": [
+            "p046-u007"
+          ]
+        }
+      ],
       "exclusions": [],
       "source_sha256": "70da8f1f105d17924f854d91efdee71bbf5025044ce8f81e08a598882dc0e274",
       "width": 1429,
       "height": 1900,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=46",
-      "status": "source-image-initial-read",
-      "role": "table"
+      "status": "image-collated",
+      "role": "table",
+      "page_id": "p046",
+      "layout_reviewed": true
     },
     {
       "image": 47,
@@ -4458,8 +4684,10 @@
       "width": 1465,
       "height": 1900,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=47",
-      "status": "source-image-initial-read",
-      "role": "text"
+      "status": "image-collated",
+      "role": "text",
+      "page_id": "p047",
+      "layout_reviewed": true
     },
     {
       "image": 48,
@@ -4497,14 +4725,30 @@
         }
       ],
       "tables": [],
-      "doubts": [],
+      "doubts": [
+        {
+          "frame": 48,
+          "reading": "劉邢",
+          "candidates": [
+            "劉郉",
+            "劉邵"
+          ],
+          "reason": "原圖兩姓相鄰；次字左半外框有歧，第一頁沿革同位置字樣可對照。",
+          "status": "unresolved",
+          "unit_candidates": [
+            "p048-u002"
+          ]
+        }
+      ],
       "exclusions": [],
       "source_sha256": "a7851a184e26760c1192fe5d96ade664c7fcbceeb8072fe88410f5fef3bc59bd",
       "width": 1429,
       "height": 1900,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=48",
-      "status": "source-image-initial-read",
-      "role": "text"
+      "status": "image-collated",
+      "role": "text",
+      "page_id": "p048",
+      "layout_reviewed": true
     },
     {
       "image": 49,
@@ -4522,20 +4766,82 @@
       "width": 1429,
       "height": 1900,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=49",
-      "status": "source-image-initial-read",
+      "status": "image-collated",
       "role": "library-mark",
-      "blank": "無原刊正文"
+      "blank": "無原刊正文",
+      "page_id": "p049",
+      "layout_reviewed": true
     }
   ],
   "corrections": [
     "直欄採右至左，欄內由上至下，原印表空用 null，圈形零與數值照錄。",
     "晚近館藏手書與照片像素另記，書印保留可見圖說；原刊印章與極細圖內字有待辨時保留位置。",
-    "影像 1　{'reading': '龔性願題', 'candidates': ['龔性愿題'], 'reason': '書法末名左半與實印形尚待比對', 'status': 'unresolved', 'frame': 1, 'unit_candidates': ['p001-u003']}",
-    "影像 4　{'reading': '倘付缺如', 'candidates': ['尚付缺如'], 'reason': '原印字形待二讀', 'status': 'unresolved', 'frame': 4, 'unit_candidates': ['p004-u014']}",
-    "影像 13　{'reading': '袁恕巷', 'candidates': ['袁恕巷'], 'reason': '名末字疑，保留待回圖', 'status': 'unresolved', 'frame': 13, 'unit_candidates': ['p013-u005']}",
-    "影像 14　{'reading': '張鋒夫', 'candidates': ['張錚夫'], 'reason': '第二字金旁，右部待由另一頁重核', 'status': 'unresolved', 'frame': 14, 'unit_candidates': ['p014-u011']}",
-    "影像 16　{'reading': '正', 'candidates': ['正'], 'reason': '上方照片視力牌自頂下可見一字似正，其餘圖內字過小', 'status': 'unresolved', 'frame': 16, 'unit_candidates': []}",
-    "影像 18　{'reading': '張鋒夫', 'candidates': ['張錚夫'], 'reason': '金旁字右部待回圖', 'status': 'unresolved', 'frame': 18, 'unit_candidates': []}"
+    "影像 1　p001-u003　龔性願題。簽名第二字見豎心旁與生，第三字右似頁，暫留 A，印文兩方不足定名。",
+    "影像 1　p001-u003　龔性願題。題字末名前件連筆，原印有兩方，讀名仍待確認。",
+    "影像 2　p002-u002　目錄。為側邊眉題，與大字目錄主題分設，不當重出。",
+    "影像 4　p004-u004　張倚義 → 張尚義。原字字頭見小，下半外框內有口，左側無亻。",
+    "影像 4　p004-u011　頭一二三等 → 頭二三三等。頭與等之間見八個橫畫，原鉛印分作二、三、三。",
+    "影像 4　p004-u014　倘付缺如。倘字原圖左側有亻，右側為尚。付見亻和寸，照印本。",
+    "影像 5　p005-u004　買羅。原圖上部為罒，整字近買，無據改成賈。",
+    "影像 5　p005-u009　更形重且大也倘望。且及倘字左側亻均可辨。",
+    "影像 5　p005-u004　秉性天知。印本末字有矢、口，按所見保留；語義仍待人工覆核。",
+    "影像 10　p010-u004　四會期與每月開常會……同一欄，中間有空白，沿用 A 同欄空格。",
+    "影像 13　p013-u005　袁恕巷。中字上部有如、下有心，末字原印形近巷，留既有待辨。",
+    "影像 13　p013-name-list　董事名單無格線，各人沿欄上下分書；醫務部細字科目保留分層。",
+    "影像 14　p014-u011　張鋒夫 → 張錚夫。金旁右下有爭形的提鉤，與第十二頁同名同形。",
+    "影像 14　p014-u013　徐元蘊。末字左見糸，右下呈皿，上方草頭可辨，沿用 A。",
+    "影像 14　p014-t01-row03-cell05　石珠瑞 → 石珠珖。末字王旁，右部有小、兀，見光而未見耑。",
+    "影像 15　p015-application　定名、宗旨等短目與正文位於同一物理直欄，以既有空位分隔，合併與拆分讀稿文字相合。",
+    "影像 17　p017-t01-row03-cell03　繃帶學 → 綳帶學。糸旁右側兩月平列，未見崩字上方山。",
+    "影像 17　p017-course　課程第一年到第三年按原圖直欄與各條目高低次序，保持每列各欄。",
+    "影像 18　p018-t01-row02-cell02　張鋒夫牧師 → 張錚夫牧師。金旁右為爭，有爭鉤，同印第九頁。",
+    "影像 18　p018-t01-row01-cell03　任言永醫師。原圖此頁自上而下的字序確作任言永，第九頁任永言維持原序。",
+    "影像 18　p018-t01-row07-cell03　喻炳家護士。原圖此頁為家，第九頁嘉形仍各按所見。",
+    "影像 19　p019-t01-row05　三六、七、四四。本年終留院分性別欄見三六與七，總欄印四四。分項和為四三，照原表保留。",
+    "影像 20　p020-t01-row04-cell02　一三二 → 一二二。放大在一後只見四橫，按印字位置分為兩個二。",
+    "影像 20　p020-t01-row04-cell04　二二 → 二一。未愈欄三橫，兩近一遠，按固定字位讀二一。",
+    "影像 20　p020-t01-row04-cell05　一三 → 二三。未治欄五橫，前二橫字距較寬，後三橫較密。",
+    "影像 20　p020-t01-row07-cell02　六三三 → 六二三。六後五橫，前二分距約兩倍，後三筆集中。",
+    "影像 21　p021-t01-row02-cell02　一三一 → 二三一。全身與相鄰局部欄六橫一致，首二橫較疏，後三緊列，末一分離。",
+    "影像 21　p021-t01-row02-cell02　二三一。住院分項與總計六一九不合；依可見橫畫保留二三一。",
+    "影像 21　p021-t01-row06-cell03　三三 → 三二三。放大見八橫，兩端各三橫較密，中間兩橫較疏；讀值仍有疑，原合計未配平。",
+    "影像 21　p021-t01-row06-cell03　三二三。原格橫畫間距有歧，分項和為二九六。末格並無九和六字形。",
+    "影像 22　p022-t01-row07-cell02　二七一五 → 二七二五。七下、五上見兩條水平畫。",
+    "影像 22　p022-t01-row08-cell02　一三一一 → 一三二一。三、末一之間清楚另見兩筆。",
+    "影像 22　p022-t01-row09-cell02　三一一 → 三一二。末兩筆等位相對，首三與中一另列，數字從原圖錄。",
+    "影像 25　p025-t01-row03-cell01　裂脣修補術。原印辰下為有內橫的肉旁，沿用脣。",
+    "影像 27　p027-t01-row01-cell01　尿道癰割除術。放大末件右側多橫和長豎，似隹，先保留癰。",
+    "影像 29　p029-t01-row08-cell01　頷骨死骨片切除術 → 頜骨死骨片切除術。左半上方有覆蓋及一橫，下以方口收合，取合旁字。",
+    "影像 31　p031-t01-row06-cell01　腮腺癌切除術 → 腮腺瘤切除術。疒內下半為田，與下欄瘤字相同。",
+    "影像 31　p031-t01-row07-cell01　領下線癌切除術 → 領下線瘤切除術。疒內下半為田。首字左見令，保留領。",
+    "影像 32　p032-t01-row03-cell03　一一。石膏柱按置術全身欄兩橫相距約 42 像素，約一字高；相鄰二字的兩橫約 26 像素，分作一一。",
+    "影像 32　p032-t01-row09-cell01　受染縫腺切除術。腺字右件似泉，左邊偏旁未辨。",
+    "影像 34　p034-t01-row07-cell01　透析睫狀體術。第二字左旁右件與上一欄有別，仍待確認。",
+    "影像 35　p035-t01-row01-cell01　切除瞼漿細胞癌術 → 切除瞼漿細胞瘤術。原圖疒內可見留及下方田。",
+    "影像 35　p035-t01-row03-cell01　切除與電烙眼球癌術 → 切除與電炮眼球瘤術。電下字火旁右為包，眼球後是留／田結構的瘤。",
+    "影像 36　p036-t02　同幅左右兩表麻醉欄列高不同。鼻部保留底本原印體身麻醉，左端手術類別格無文字。",
+    "影像 39　p039-t01-row06-cell03　一二五四七・二二 → 一二五四七・一二。小數部分只見三橫，按字位取一二；八項加總與病人收入一致。",
+    "影像 41　p041-t01-row03-cell03　二三五○・○○ → 一三五○・○○。西護士薪給首四橫分一和三。常年費原印九一五〇，分項合計八一五〇。",
+    "影像 41　p041-t01-row08-cell03　一二五六・二五 → 一一五六・二五。五之上只有兩筆，且相距約一字高。",
+    "影像 41　p041-t01-row07-cell03　一九八四九・七四。雜項八個細項合計為一八九四九・七四；總額字形仍照原印。",
+    "影像 44　p044-t01-row08-cell03　一二一五・八四 → 二二一五・八四。布疋五前五橫由上而下分作二、二、一。",
+    "影像 44　p044-t01-row09-cell02　添置手術器具病床等 → 添置〔手術器具／病床等〕。添置下有兩欄小注，右為手術器具、左為病床等，括號與斜線標示版面。",
+    "影像 44　p044-t01-row10-cell03　一三五七・○七。五字上四橫，首筆與後組三筆按字位分開。三個分項合計與印本購置合計差一千，仍保留可見的一。",
+    "影像 45　p045-t01-row02-cell03　一二○三・一四 → 二一○三・一四。圓圈上首兩橫相近，第三畫按直排字距另為一。",
+    "影像 45　p045-t01-row03-cell02　拆城築牆。扌旁右部末見斥的筆點；維持 A 拆。",
+    "影像 45　p045-t01-row05-cell03　二一九六・三一。雜項小數共有四橫，前三筆同組、末筆獨立。分項和二一九六・三二與原印差一分，仍錄原印。",
+    "影像 45　p045-t01-row11-cell03　二三○○・三五 → 三三○○・三五。前兩字各見三橫，第三十八頁償還金額亦作三千三百元。",
+    "影像 46　p046-u003　二千六百八十八 → 三千六百八十八。千以上三橫可分。",
+    "影像 46　p046-u004　二千三百 → 三千三百。千字以上清楚三橫，與前頁歸還借款數值相符。",
+    "影像 46　p046-u005　倘欠。原圖同幅兩個倘欠都印亻旁；維持原字。",
+    "影像 46　p046-u011　倘欠洋。原圖同幅第二處同見亻旁。",
+    "影像 46　p046-u001　八萬三千三百六十六元二角四分。十項合計八萬三千三百六十六元二角三分。印版相差一分，照錄。",
+    "影像 46　p046-u007　四千九百三十九元九角三分。九角下三個橫畫；本頁兩筆借款依分項合計得四千九百三十九元四角七分，未配平。",
+    "影像 47　p047-u005　敝院二字抬寫空位留全形空格；為、爲及即、卽的鉛字轉碼沿用全書一致形式。",
+    "影像 47　p047-u007　敝院前空位仍記，未將兩直欄併成一欄。",
+    "影像 48　p048-u002　倘未過其半。倘字左亻可見，保留 A。",
+    "影像 48　p048-u002　劉邢。原圖兩姓相鄰；次字左半外框有歧，第一頁沿革同位置字樣可對照。",
+    "影像 49　p049　尾葉原本無刊文，後添收錄字跡可定位，原件正文資料維持清潔。"
   ],
   "year": 1929,
   "title": "吳興福音醫院概況",
@@ -4555,10 +4861,812 @@
     "hospital annual reports",
     "Wuxing",
     "nursing education",
-    "hospital history"
+    "hospital history",
+    "1929",
+    "湖州",
+    "民國醫院",
+    "教會醫療",
+    "收支帳",
+    "TEI XML",
+    "Republican China"
   ],
-  "notes_zh": "《吳興福音醫院概況》記述浙江吳興福音醫院 1929 年度的院史、組織章程、董事及職員、護士學校、就診統計、收支和院舍計畫。底本為中國國家圖書館 08jh014197／37820，資料含 49 幅掃描定位與逐格表格。",
-  "notes_en": "A source-linked transcription of the 1929 overview of Wuxing Gospel Hospital, including its organizational rules, personnel and nursing school, statistical reports, financial accounts and proposed buildings.",
-  "year_label": "民國十八年度（1929）",
-  "quality_summary": "全冊 AI 輔助初錄，49 幅對應底本，附表格及圖說。影像 49 為後加館藏手書，另列位置。未定字另記，尚待人工逐字核對。"
+  "notes_zh": "《吳興福音醫院概況》記錄浙江吳興福音醫院的創辦沿革、組織與人事、護士學校、門診與住院統計、1929 年收支及院務計畫。本資料依中國國家圖書館 08jh014197／37820 底本的 49 幅掃描，提供含可定位圖說及逐格表格的 JSON、TXT 與 TEI XML，供近代醫院與護士教育史查閱。經兩份隔離 AI 影像讀稿及逐處回圖，未定讀法與原表合計差異均列於修訂紀錄。尚待人工全文校對。",
+  "notes_en": "Wuxing Gospel Hospital's 1929 report documents its history, governance and staff, training school for nurses, outpatient and inpatient statistics, finances, and building plans in Zhejiang. This dataset offers JSON, plain text, and TEI XML transcriptions keyed to 49 scans of National Library of China copy 08jh014197/37820, including photo captions and cell-by-cell tables. Two independent AI readings were compared and discrepancies checked against the page images. Unresolved readings and discrepancies within the printed figures are documented. Human proofreading is pending.",
+  "previous_version": "0.1.0",
+  "quality_summary": "49 幅均經兩份隔離的 AI 影像轉錄逐幅比較，差異已回圖裁定，仍待辨的字與帳目總數差異保留。未經人類逐字校對或專家審定。",
+  "original_source": "https://commons.wikimedia.org/?curid=131010099",
+  "collation": {
+    "source": "https://commons.wikimedia.org/?curid=131010099",
+    "scope": "49幅，包括原刊文字、原刊圖說、版面表格及可辨認的原刊旁文。後加館藏筆記保留來源位置。",
+    "verified_source_frames": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49
+    ],
+    "initial_a_sha256": "8b777cb6422e04a26b25871e2da92c212ca740eadd43a6d93a528bde587b36c4",
+    "independent_b_sha256": "95a9629390e2d674c07bfd0d1a7f5058dcccdcc62ba6996c93815516699d7c46",
+    "state_counts": {
+      "retained": 15,
+      "unresolved": 14,
+      "changed": 27,
+      "layout-verified": 8,
+      "changed-unresolved": 1,
+      "layout-changed": 1
+    },
+    "records": [
+      {
+        "image": 1,
+        "folio": null,
+        "anchor": "p001-u003",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=1",
+        "source_sha256": "cc72a831f7450cbb133265fffe137685244221c9ebe1422fcacb45443ebe5c43",
+        "before": "龔性願題",
+        "after": "龔性願題",
+        "state": "retained",
+        "reason": "簽名第二字見豎心旁與生，第三字右似頁，暫留 A，印文兩方不足定名。"
+      },
+      {
+        "image": 1,
+        "folio": null,
+        "anchor": "p001-u003",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=1",
+        "source_sha256": "cc72a831f7450cbb133265fffe137685244221c9ebe1422fcacb45443ebe5c43",
+        "before": "龔性願題",
+        "after": "龔性願題",
+        "state": "unresolved",
+        "reason": "題字末名前件連筆，原印有兩方，讀名仍待確認。"
+      },
+      {
+        "image": 2,
+        "folio": null,
+        "anchor": "p002-u002",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=2",
+        "source_sha256": "ef26e744a4f1be73a59a7a11946077cef35b7ddfe80fefb6dfa789452ef2f25a",
+        "before": "目錄",
+        "after": "目錄",
+        "state": "retained",
+        "reason": "為側邊眉題，與大字目錄主題分設，不當重出。"
+      },
+      {
+        "image": 4,
+        "folio": "一",
+        "anchor": "p004-u004",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=4",
+        "source_sha256": "35771d2d8dd57b6327bf07faf03d682964ec8cddfbd054ff66ca1b8e496678e0",
+        "before": "張倚義",
+        "after": "張尚義",
+        "state": "changed",
+        "reason": "原字字頭見小，下半外框內有口，左側無亻。"
+      },
+      {
+        "image": 4,
+        "folio": "一",
+        "anchor": "p004-u011",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=4",
+        "source_sha256": "35771d2d8dd57b6327bf07faf03d682964ec8cddfbd054ff66ca1b8e496678e0",
+        "before": "頭一二三等",
+        "after": "頭二三三等",
+        "state": "changed",
+        "reason": "頭與等之間見八個橫畫，原鉛印分作二、三、三。"
+      },
+      {
+        "image": 4,
+        "folio": "一",
+        "anchor": "p004-u014",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=4",
+        "source_sha256": "35771d2d8dd57b6327bf07faf03d682964ec8cddfbd054ff66ca1b8e496678e0",
+        "before": "倘付缺如",
+        "after": "倘付缺如",
+        "state": "retained",
+        "reason": "倘字原圖左側有亻，右側為尚。付見亻和寸，照印本。"
+      },
+      {
+        "image": 5,
+        "folio": "二",
+        "anchor": "p005-u004",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=5",
+        "source_sha256": "eddb68bb6a0005d37fdc4355c81d281ae14154b5c3836a46baa18e0d44dba463",
+        "before": "買羅",
+        "after": "買羅",
+        "state": "retained",
+        "reason": "原圖上部為罒，整字近買，無據改成賈。"
+      },
+      {
+        "image": 5,
+        "folio": "二",
+        "anchor": "p005-u009",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=5",
+        "source_sha256": "eddb68bb6a0005d37fdc4355c81d281ae14154b5c3836a46baa18e0d44dba463",
+        "before": "更形重且大也倘望",
+        "after": "更形重且大也倘望",
+        "state": "retained",
+        "reason": "且及倘字左側亻均可辨。"
+      },
+      {
+        "image": 5,
+        "folio": "二",
+        "anchor": "p005-u004",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=5",
+        "source_sha256": "eddb68bb6a0005d37fdc4355c81d281ae14154b5c3836a46baa18e0d44dba463",
+        "before": "秉性天知",
+        "after": "秉性天知",
+        "state": "unresolved",
+        "reason": "印本末字有矢、口，按所見保留；語義仍待人工覆核。"
+      },
+      {
+        "image": 10,
+        "folio": "六",
+        "anchor": "p010-u004",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=10",
+        "source_sha256": "7cd87fe48cb72ad4a5e4310e468b3be860018f486d0feed79e799fa6b43febfb",
+        "before": null,
+        "after": null,
+        "state": "layout-verified",
+        "reason": "四會期與每月開常會……同一欄，中間有空白，沿用 A 同欄空格。"
+      },
+      {
+        "image": 13,
+        "folio": "八",
+        "anchor": "p013-u005",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=13",
+        "source_sha256": "7a5adc604c2093850ce842dae039a90a7f3cce47da0ea854935747055a28cf7e",
+        "before": "袁恕巷",
+        "after": "袁恕巷",
+        "state": "retained",
+        "reason": "中字上部有如、下有心，末字原印形近巷，留既有待辨。"
+      },
+      {
+        "image": 13,
+        "folio": "八",
+        "anchor": "p013-name-list",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=13",
+        "source_sha256": "7a5adc604c2093850ce842dae039a90a7f3cce47da0ea854935747055a28cf7e",
+        "before": null,
+        "after": null,
+        "state": "layout-verified",
+        "reason": "董事名單無格線，各人沿欄上下分書；醫務部細字科目保留分層。"
+      },
+      {
+        "image": 14,
+        "folio": "九",
+        "anchor": "p014-u011",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=14",
+        "source_sha256": "8dcb93610beaca625bc357a220aed66c4319a7adab42d6ad4dd81745f1ca6891",
+        "before": "張鋒夫",
+        "after": "張錚夫",
+        "state": "changed",
+        "reason": "金旁右下有爭形的提鉤，與第十二頁同名同形。"
+      },
+      {
+        "image": 14,
+        "folio": "九",
+        "anchor": "p014-u013",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=14",
+        "source_sha256": "8dcb93610beaca625bc357a220aed66c4319a7adab42d6ad4dd81745f1ca6891",
+        "before": "徐元蘊",
+        "after": "徐元蘊",
+        "state": "retained",
+        "reason": "末字左見糸，右下呈皿，上方草頭可辨，沿用 A。"
+      },
+      {
+        "image": 14,
+        "folio": "九",
+        "anchor": "p014-t01-row03-cell05",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=14",
+        "source_sha256": "8dcb93610beaca625bc357a220aed66c4319a7adab42d6ad4dd81745f1ca6891",
+        "before": "石珠瑞",
+        "after": "石珠珖",
+        "state": "changed",
+        "reason": "末字王旁，右部有小、兀，見光而未見耑。"
+      },
+      {
+        "image": 15,
+        "folio": "十",
+        "anchor": "p015-application",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=15",
+        "source_sha256": "340d1eb7f7c5d81e27bdd69944334a277ac40596ca810292fe22d51a9180d5a8",
+        "before": null,
+        "after": null,
+        "state": "layout-verified",
+        "reason": "定名、宗旨等短目與正文位於同一物理直欄，以既有空位分隔，合併與拆分讀稿文字相合。"
+      },
+      {
+        "image": 17,
+        "folio": "十一",
+        "anchor": "p017-t01-row03-cell03",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=17",
+        "source_sha256": "842de8c418603a85a136721cca01f5a3deaec54838251d4c494d92fea639a031",
+        "before": "繃帶學",
+        "after": "綳帶學",
+        "state": "changed",
+        "reason": "糸旁右側兩月平列，未見崩字上方山。"
+      },
+      {
+        "image": 17,
+        "folio": "十一",
+        "anchor": "p017-course",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=17",
+        "source_sha256": "842de8c418603a85a136721cca01f5a3deaec54838251d4c494d92fea639a031",
+        "before": null,
+        "after": null,
+        "state": "layout-verified",
+        "reason": "課程第一年到第三年按原圖直欄與各條目高低次序，保持每列各欄。"
+      },
+      {
+        "image": 18,
+        "folio": "十二",
+        "anchor": "p018-t01-row02-cell02",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=18",
+        "source_sha256": "aad262fd3f6ce598e9cc0831b3dec66b24a9e5b6b51672d2bd04929f8531b9e1",
+        "before": "張鋒夫牧師",
+        "after": "張錚夫牧師",
+        "state": "changed",
+        "reason": "金旁右為爭，有爭鉤，同印第九頁。"
+      },
+      {
+        "image": 18,
+        "folio": "十二",
+        "anchor": "p018-t01-row01-cell03",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=18",
+        "source_sha256": "aad262fd3f6ce598e9cc0831b3dec66b24a9e5b6b51672d2bd04929f8531b9e1",
+        "before": "任言永醫師",
+        "after": "任言永醫師",
+        "state": "retained",
+        "reason": "原圖此頁自上而下的字序確作任言永，第九頁任永言維持原序。"
+      },
+      {
+        "image": 18,
+        "folio": "十二",
+        "anchor": "p018-t01-row07-cell03",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=18",
+        "source_sha256": "aad262fd3f6ce598e9cc0831b3dec66b24a9e5b6b51672d2bd04929f8531b9e1",
+        "before": "喻炳家護士",
+        "after": "喻炳家護士",
+        "state": "retained",
+        "reason": "原圖此頁為家，第九頁嘉形仍各按所見。"
+      },
+      {
+        "image": 19,
+        "folio": "十三",
+        "anchor": "p019-t01-row05",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=19",
+        "source_sha256": "6e9d997baa3a5eed260d045cf8e046120979d5c13f96dc954dd559fd9f42a2a7",
+        "before": "三六、七、四四",
+        "after": "三六、七、四四",
+        "state": "unresolved",
+        "reason": "本年終留院分性別欄見三六與七，總欄印四四。分項和為四三，照原表保留。"
+      },
+      {
+        "image": 20,
+        "folio": "十四",
+        "anchor": "p020-t01-row04-cell02",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=20",
+        "source_sha256": "e42a5d00ba8724a44783caa1c1ab6475866255220eabb4af0ff75b1ea3e0edd0",
+        "before": "一三二",
+        "after": "一二二",
+        "state": "changed",
+        "reason": "放大在一後只見四橫，按印字位置分為兩個二。"
+      },
+      {
+        "image": 20,
+        "folio": "十四",
+        "anchor": "p020-t01-row04-cell04",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=20",
+        "source_sha256": "e42a5d00ba8724a44783caa1c1ab6475866255220eabb4af0ff75b1ea3e0edd0",
+        "before": "二二",
+        "after": "二一",
+        "state": "changed",
+        "reason": "未愈欄三橫，兩近一遠，按固定字位讀二一。"
+      },
+      {
+        "image": 20,
+        "folio": "十四",
+        "anchor": "p020-t01-row04-cell05",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=20",
+        "source_sha256": "e42a5d00ba8724a44783caa1c1ab6475866255220eabb4af0ff75b1ea3e0edd0",
+        "before": "一三",
+        "after": "二三",
+        "state": "changed",
+        "reason": "未治欄五橫，前二橫字距較寬，後三橫較密。"
+      },
+      {
+        "image": 20,
+        "folio": "十四",
+        "anchor": "p020-t01-row07-cell02",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=20",
+        "source_sha256": "e42a5d00ba8724a44783caa1c1ab6475866255220eabb4af0ff75b1ea3e0edd0",
+        "before": "六三三",
+        "after": "六二三",
+        "state": "changed",
+        "reason": "六後五橫，前二分距約兩倍，後三筆集中。"
+      },
+      {
+        "image": 21,
+        "folio": "十五",
+        "anchor": "p021-t01-row02-cell02",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=21",
+        "source_sha256": "7b135bfae29161534270134df58efe3740103f30b20d48bdfc2e3007b7489db6",
+        "before": "一三一",
+        "after": "二三一",
+        "state": "changed",
+        "reason": "全身與相鄰局部欄六橫一致，首二橫較疏，後三緊列，末一分離。"
+      },
+      {
+        "image": 21,
+        "folio": "十五",
+        "anchor": "p021-t01-row02-cell02",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=21",
+        "source_sha256": "7b135bfae29161534270134df58efe3740103f30b20d48bdfc2e3007b7489db6",
+        "before": "二三一",
+        "after": "二三一",
+        "state": "unresolved",
+        "reason": "住院分項與總計六一九不合；依可見橫畫保留二三一。"
+      },
+      {
+        "image": 21,
+        "folio": "十五",
+        "anchor": "p021-t01-row06-cell03",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=21",
+        "source_sha256": "7b135bfae29161534270134df58efe3740103f30b20d48bdfc2e3007b7489db6",
+        "before": "三三",
+        "after": "三二三",
+        "state": "changed-unresolved",
+        "reason": "放大見八橫，兩端各三橫較密，中間兩橫較疏；讀值仍有疑，原合計未配平。"
+      },
+      {
+        "image": 21,
+        "folio": "十五",
+        "anchor": "p021-t01-row06-cell03",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=21",
+        "source_sha256": "7b135bfae29161534270134df58efe3740103f30b20d48bdfc2e3007b7489db6",
+        "before": "三二三",
+        "after": "三二三",
+        "state": "unresolved",
+        "reason": "原格橫畫間距有歧，分項和為二九六。末格並無九和六字形。"
+      },
+      {
+        "image": 22,
+        "folio": "十六",
+        "anchor": "p022-t01-row07-cell02",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=22",
+        "source_sha256": "484c984ffeba18c80fcd23033ce85e5b6c2d60bf551aad3067d8f177d3b05f91",
+        "before": "二七一五",
+        "after": "二七二五",
+        "state": "changed",
+        "reason": "七下、五上見兩條水平畫。"
+      },
+      {
+        "image": 22,
+        "folio": "十六",
+        "anchor": "p022-t01-row08-cell02",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=22",
+        "source_sha256": "484c984ffeba18c80fcd23033ce85e5b6c2d60bf551aad3067d8f177d3b05f91",
+        "before": "一三一一",
+        "after": "一三二一",
+        "state": "changed",
+        "reason": "三、末一之間清楚另見兩筆。"
+      },
+      {
+        "image": 22,
+        "folio": "十六",
+        "anchor": "p022-t01-row09-cell02",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=22",
+        "source_sha256": "484c984ffeba18c80fcd23033ce85e5b6c2d60bf551aad3067d8f177d3b05f91",
+        "before": "三一一",
+        "after": "三一二",
+        "state": "changed",
+        "reason": "末兩筆等位相對，首三與中一另列，數字從原圖錄。"
+      },
+      {
+        "image": 25,
+        "folio": "十八",
+        "anchor": "p025-t01-row03-cell01",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=25",
+        "source_sha256": "1d3b1a5f1873623434737a94ace142ba6f0d515c3892e942f312e2df625ac1cb",
+        "before": "裂脣修補術",
+        "after": "裂脣修補術",
+        "state": "retained",
+        "reason": "原印辰下為有內橫的肉旁，沿用脣。"
+      },
+      {
+        "image": 27,
+        "folio": "二十",
+        "anchor": "p027-t01-row01-cell01",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=27",
+        "source_sha256": "3732d543ea881f96bc66c9988e8990da0e3078a9e2913b6dc66074d6be7b9cb1",
+        "before": "尿道癰割除術",
+        "after": "尿道癰割除術",
+        "state": "unresolved",
+        "reason": "放大末件右側多橫和長豎，似隹，先保留癰。"
+      },
+      {
+        "image": 29,
+        "folio": "二十二",
+        "anchor": "p029-t01-row08-cell01",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=29",
+        "source_sha256": "14b6ded3425be4bdc574bd6b9f35312ddf2a5e942f321d0c1ac664f0ca468b04",
+        "before": "頷骨死骨片切除術",
+        "after": "頜骨死骨片切除術",
+        "state": "changed",
+        "reason": "左半上方有覆蓋及一橫，下以方口收合，取合旁字。"
+      },
+      {
+        "image": 31,
+        "folio": "二十四",
+        "anchor": "p031-t01-row06-cell01",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=31",
+        "source_sha256": "ba756ec39ed242e2bf29db176f98688ce0cb9f84f4ba1885760d069a799092f4",
+        "before": "腮腺癌切除術",
+        "after": "腮腺瘤切除術",
+        "state": "changed",
+        "reason": "疒內下半為田，與下欄瘤字相同。"
+      },
+      {
+        "image": 31,
+        "folio": "二十四",
+        "anchor": "p031-t01-row07-cell01",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=31",
+        "source_sha256": "ba756ec39ed242e2bf29db176f98688ce0cb9f84f4ba1885760d069a799092f4",
+        "before": "領下線癌切除術",
+        "after": "領下線瘤切除術",
+        "state": "changed",
+        "reason": "疒內下半為田。首字左見令，保留領。"
+      },
+      {
+        "image": 32,
+        "folio": "二十五",
+        "anchor": "p032-t01-row03-cell03",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=32",
+        "source_sha256": "eda56065967be25ca1faa42337a64587c0a4cd22e6b1d21cfb48a2976ae94b69",
+        "before": "一一",
+        "after": "一一",
+        "state": "retained",
+        "reason": "石膏柱按置術全身欄兩橫相距約 42 像素，約一字高；相鄰二字的兩橫約 26 像素，分作一一。"
+      },
+      {
+        "image": 32,
+        "folio": "二十五",
+        "anchor": "p032-t01-row09-cell01",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=32",
+        "source_sha256": "eda56065967be25ca1faa42337a64587c0a4cd22e6b1d21cfb48a2976ae94b69",
+        "before": "受染縫腺切除術",
+        "after": "受染縫腺切除術",
+        "state": "unresolved",
+        "reason": "腺字右件似泉，左邊偏旁未辨。"
+      },
+      {
+        "image": 34,
+        "folio": "二十七",
+        "anchor": "p034-t01-row07-cell01",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=34",
+        "source_sha256": "859606afbe49e6d73ad935461789ab14912572ec479b607cc14993a7a1aefe3a",
+        "before": "透析睫狀體術",
+        "after": "透析睫狀體術",
+        "state": "unresolved",
+        "reason": "第二字左旁右件與上一欄有別，仍待確認。"
+      },
+      {
+        "image": 35,
+        "folio": "二十八",
+        "anchor": "p035-t01-row01-cell01",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=35",
+        "source_sha256": "7c0f6f929dc1007ccf1de8333d1896d5f76852e532c1825ff195b2eb76fb81dc",
+        "before": "切除瞼漿細胞癌術",
+        "after": "切除瞼漿細胞瘤術",
+        "state": "changed",
+        "reason": "原圖疒內可見留及下方田。"
+      },
+      {
+        "image": 35,
+        "folio": "二十八",
+        "anchor": "p035-t01-row03-cell01",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=35",
+        "source_sha256": "7c0f6f929dc1007ccf1de8333d1896d5f76852e532c1825ff195b2eb76fb81dc",
+        "before": "切除與電烙眼球癌術",
+        "after": "切除與電炮眼球瘤術",
+        "state": "changed",
+        "reason": "電下字火旁右為包，眼球後是留／田結構的瘤。"
+      },
+      {
+        "image": 36,
+        "folio": "二十九",
+        "anchor": "p036-t02",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=36",
+        "source_sha256": "17502a6a632be09fbefac834d0dcf05da44ea502d62d9fddc0848129da614e7e",
+        "before": null,
+        "after": null,
+        "state": "layout-verified",
+        "reason": "同幅左右兩表麻醉欄列高不同。鼻部保留底本原印體身麻醉，左端手術類別格無文字。"
+      },
+      {
+        "image": 39,
+        "folio": "三十二",
+        "anchor": "p039-t01-row06-cell03",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=39",
+        "source_sha256": "9a1377fd162faee0218a786bc03534f805235b5c91128a16bc2cf9642469f044",
+        "before": "一二五四七・二二",
+        "after": "一二五四七・一二",
+        "state": "changed",
+        "reason": "小數部分只見三橫，按字位取一二；八項加總與病人收入一致。"
+      },
+      {
+        "image": 41,
+        "folio": "三十三",
+        "anchor": "p041-t01-row03-cell03",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=41",
+        "source_sha256": "1022ba9cf09462f2fc680693b0806af717ab65260c750962d87f2bf040c375b9",
+        "before": "二三五○・○○",
+        "after": "一三五○・○○",
+        "state": "changed",
+        "reason": "西護士薪給首四橫分一和三。常年費原印九一五〇，分項合計八一五〇。"
+      },
+      {
+        "image": 41,
+        "folio": "三十三",
+        "anchor": "p041-t01-row08-cell03",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=41",
+        "source_sha256": "1022ba9cf09462f2fc680693b0806af717ab65260c750962d87f2bf040c375b9",
+        "before": "一二五六・二五",
+        "after": "一一五六・二五",
+        "state": "changed",
+        "reason": "五之上只有兩筆，且相距約一字高。"
+      },
+      {
+        "image": 41,
+        "folio": "三十三",
+        "anchor": "p041-t01-row07-cell03",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=41",
+        "source_sha256": "1022ba9cf09462f2fc680693b0806af717ab65260c750962d87f2bf040c375b9",
+        "before": "一九八四九・七四",
+        "after": "一九八四九・七四",
+        "state": "unresolved",
+        "reason": "雜項八個細項合計為一八九四九・七四；總額字形仍照原印。"
+      },
+      {
+        "image": 44,
+        "folio": "三十六",
+        "anchor": "p044-t01-row08-cell03",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=44",
+        "source_sha256": "b42ceb3ce7aa75adc69117639cf03a8134601a5a08537045fe647de9f6fafc9f",
+        "before": "一二一五・八四",
+        "after": "二二一五・八四",
+        "state": "changed",
+        "reason": "布疋五前五橫由上而下分作二、二、一。"
+      },
+      {
+        "image": 44,
+        "folio": "三十六",
+        "anchor": "p044-t01-row09-cell02",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=44",
+        "source_sha256": "b42ceb3ce7aa75adc69117639cf03a8134601a5a08537045fe647de9f6fafc9f",
+        "before": "添置手術器具病床等",
+        "after": "添置〔手術器具／病床等〕",
+        "state": "layout-changed",
+        "reason": "添置下有兩欄小注，右為手術器具、左為病床等，括號與斜線標示版面。"
+      },
+      {
+        "image": 44,
+        "folio": "三十六",
+        "anchor": "p044-t01-row10-cell03",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=44",
+        "source_sha256": "b42ceb3ce7aa75adc69117639cf03a8134601a5a08537045fe647de9f6fafc9f",
+        "before": "一三五七・○七",
+        "after": "一三五七・○七",
+        "state": "unresolved",
+        "reason": "五字上四橫，首筆與後組三筆按字位分開。三個分項合計與印本購置合計差一千，仍保留可見的一。"
+      },
+      {
+        "image": 45,
+        "folio": "三十七",
+        "anchor": "p045-t01-row02-cell03",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=45",
+        "source_sha256": "09433e2ef5573fe7398f8952e45adc281af48d1f1709a9eb2eae24ae4dde3092",
+        "before": "一二○三・一四",
+        "after": "二一○三・一四",
+        "state": "changed",
+        "reason": "圓圈上首兩橫相近，第三畫按直排字距另為一。"
+      },
+      {
+        "image": 45,
+        "folio": "三十七",
+        "anchor": "p045-t01-row03-cell02",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=45",
+        "source_sha256": "09433e2ef5573fe7398f8952e45adc281af48d1f1709a9eb2eae24ae4dde3092",
+        "before": "拆城築牆",
+        "after": "拆城築牆",
+        "state": "retained",
+        "reason": "扌旁右部末見斥的筆點；維持 A 拆。"
+      },
+      {
+        "image": 45,
+        "folio": "三十七",
+        "anchor": "p045-t01-row05-cell03",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=45",
+        "source_sha256": "09433e2ef5573fe7398f8952e45adc281af48d1f1709a9eb2eae24ae4dde3092",
+        "before": "二一九六・三一",
+        "after": "二一九六・三一",
+        "state": "unresolved",
+        "reason": "雜項小數共有四橫，前三筆同組、末筆獨立。分項和二一九六・三二與原印差一分，仍錄原印。"
+      },
+      {
+        "image": 45,
+        "folio": "三十七",
+        "anchor": "p045-t01-row11-cell03",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=45",
+        "source_sha256": "09433e2ef5573fe7398f8952e45adc281af48d1f1709a9eb2eae24ae4dde3092",
+        "before": "二三○○・三五",
+        "after": "三三○○・三五",
+        "state": "changed",
+        "reason": "前兩字各見三橫，第三十八頁償還金額亦作三千三百元。"
+      },
+      {
+        "image": 46,
+        "folio": "三十八",
+        "anchor": "p046-u003",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=46",
+        "source_sha256": "70da8f1f105d17924f854d91efdee71bbf5025044ce8f81e08a598882dc0e274",
+        "before": "二千六百八十八",
+        "after": "三千六百八十八",
+        "state": "changed",
+        "reason": "千以上三橫可分。"
+      },
+      {
+        "image": 46,
+        "folio": "三十八",
+        "anchor": "p046-u004",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=46",
+        "source_sha256": "70da8f1f105d17924f854d91efdee71bbf5025044ce8f81e08a598882dc0e274",
+        "before": "二千三百",
+        "after": "三千三百",
+        "state": "changed",
+        "reason": "千字以上清楚三橫，與前頁歸還借款數值相符。"
+      },
+      {
+        "image": 46,
+        "folio": "三十八",
+        "anchor": "p046-u005",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=46",
+        "source_sha256": "70da8f1f105d17924f854d91efdee71bbf5025044ce8f81e08a598882dc0e274",
+        "before": "倘欠",
+        "after": "倘欠",
+        "state": "retained",
+        "reason": "原圖同幅兩個倘欠都印亻旁；維持原字。"
+      },
+      {
+        "image": 46,
+        "folio": "三十八",
+        "anchor": "p046-u011",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=46",
+        "source_sha256": "70da8f1f105d17924f854d91efdee71bbf5025044ce8f81e08a598882dc0e274",
+        "before": "倘欠洋",
+        "after": "倘欠洋",
+        "state": "retained",
+        "reason": "原圖同幅第二處同見亻旁。"
+      },
+      {
+        "image": 46,
+        "folio": "三十八",
+        "anchor": "p046-u001",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=46",
+        "source_sha256": "70da8f1f105d17924f854d91efdee71bbf5025044ce8f81e08a598882dc0e274",
+        "before": "八萬三千三百六十六元二角四分",
+        "after": "八萬三千三百六十六元二角四分",
+        "state": "unresolved",
+        "reason": "十項合計八萬三千三百六十六元二角三分。印版相差一分，照錄。"
+      },
+      {
+        "image": 46,
+        "folio": "三十八",
+        "anchor": "p046-u007",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=46",
+        "source_sha256": "70da8f1f105d17924f854d91efdee71bbf5025044ce8f81e08a598882dc0e274",
+        "before": "四千九百三十九元九角三分",
+        "after": "四千九百三十九元九角三分",
+        "state": "unresolved",
+        "reason": "九角下三個橫畫；本頁兩筆借款依分項合計得四千九百三十九元四角七分，未配平。"
+      },
+      {
+        "image": 47,
+        "folio": "三十九",
+        "anchor": "p047-u005",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=47",
+        "source_sha256": "39dab86eaedb0d3fac433c4fd8ec95703de8973c15e41f978037a815dcfc0ad6",
+        "before": null,
+        "after": null,
+        "state": "layout-verified",
+        "reason": "敝院二字抬寫空位留全形空格；為、爲及即、卽的鉛字轉碼沿用全書一致形式。"
+      },
+      {
+        "image": 47,
+        "folio": "三十九",
+        "anchor": "p047-u007",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=47",
+        "source_sha256": "39dab86eaedb0d3fac433c4fd8ec95703de8973c15e41f978037a815dcfc0ad6",
+        "before": null,
+        "after": null,
+        "state": "layout-verified",
+        "reason": "敝院前空位仍記，未將兩直欄併成一欄。"
+      },
+      {
+        "image": 48,
+        "folio": "四十",
+        "anchor": "p048-u002",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=48",
+        "source_sha256": "a7851a184e26760c1192fe5d96ade664c7fcbceeb8072fe88410f5fef3bc59bd",
+        "before": "倘未過其半",
+        "after": "倘未過其半",
+        "state": "retained",
+        "reason": "倘字左亻可見，保留 A。"
+      },
+      {
+        "image": 48,
+        "folio": "四十",
+        "anchor": "p048-u002",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=48",
+        "source_sha256": "a7851a184e26760c1192fe5d96ade664c7fcbceeb8072fe88410f5fef3bc59bd",
+        "before": "劉邢",
+        "after": "劉邢",
+        "state": "unresolved",
+        "reason": "原圖兩姓相鄰；次字左半外框有歧，第一頁沿革同位置字樣可對照。"
+      },
+      {
+        "image": 49,
+        "folio": null,
+        "anchor": "p049",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NLC416-08jh014197-37820_%E5%90%B3%E8%88%88%E7%A6%8F%E9%9F%B3%E9%86%AB%E9%99%A2%E6%A6%82%E6%B3%81.pdf#page=49",
+        "source_sha256": "1e547144957f7e155ce90d7e1775863f2e95afc2ba8b4140e729a5e3ffcbbccc",
+        "before": null,
+        "after": null,
+        "state": "layout-verified",
+        "reason": "尾葉原本無刊文，後添收錄字跡可定位，原件正文資料維持清潔。"
+      }
+    ]
+  },
+  "year_label": "民國十八年度（1929）"
 }
